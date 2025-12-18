@@ -14,6 +14,7 @@ Paper: Coming Soon
 ## Features
 
 - **Natural Language Queries**: Ask questions about champions, items, abilities, monsters, and turrets in plain English
+- **Snapshot Analsyis**: Upload snapshot of a game state in JSON format and see suggestions
 - **Semantic Web Data**: Uses RDF/Turtle ontologies for structured game data representation
 - **Intent Classification**: AI-powered understanding of user questions to extract relevant entities
 - **Comprehensive Game Data**: Includes 171 champions, 314 items, 17 monsters, and 4 turret types
