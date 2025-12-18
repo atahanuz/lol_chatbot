@@ -650,7 +650,7 @@ def render_sidebar():
     """Render the sidebar with mode toggle and settings."""
     with st.sidebar:
         # Logo and title in sidebar
-        lol_logo_b64 = get_base64_image(os.path.join(ASSETS_DIR, "LoL-Symbol.png"))
+        lol_logo_b64 = get_base64_image(os.path.join(ASSETS_DIR, "lol_symbol.png"))
         st.markdown(
             f"""
             <div style="text-align: center; padding: 1rem 0;">
