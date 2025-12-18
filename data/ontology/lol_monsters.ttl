@@ -1,0 +1,271 @@
+@prefix moba: <http://www.semanticweb.org/gizemyilmaz/ontologies/moba/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+moba:Baron_Nashor a moba:Boss ;
+    rdfs:label "Baron Nashor"@en ;
+    moba:attackRange 955 ;
+    moba:hasBaseStats moba:Baron_Nashor_Stats ;
+    moba:objectiveHealth "11800.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 300/+25, Exp: 600/+800, CS: 4"@en,
+        "Location - Initial spawn: 25:00, Respawn: 6:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Blue_Sentinel a moba:NeutralMonster ;
+    rdfs:label "Blue Sentinel"@en ;
+    moba:hasBaseStats moba:Blue_Sentinel_Stats ;
+    moba:objectiveHealth "2300.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 90, Exp: 95 – 142.5(based on monster's level), CS: 4"@en,
+        "Location - Initial spawn: 1:30, Respawn: 5:00"@en,
+        "Monster type: Large"@en .
+
+moba:Chemtech_Drake a moba:Boss ;
+    rdfs:label "Chemtech Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Chemtech_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Cloud_Drake a moba:Boss ;
+    rdfs:label "Cloud Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Cloud_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Crimson_Raptor a moba:NeutralMonster ;
+    rdfs:label "Crimson Raptor"@en ;
+    moba:attackRange 200 ;
+    moba:hasBaseStats moba:Crimson_Raptor_Stats ;
+    moba:objectiveHealth "500.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 8, Exp: 10 – 15 (based on monster's level), CS: 0.4"@en,
+        "Location - Initial spawn: 1:30, Respawn: 2:15"@en,
+        "Monster type: Small"@en .
+
+moba:Elder_Dragon a moba:Boss ;
+    rdfs:label "Elder Dragon"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Elder_Dragon_Stats ;
+    moba:objectiveHealth "6400.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 250/+100, Exp: 650 – 830 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: Spawns each time after a team has killed their 4th drake, Respawn: 6:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Gromp a moba:NeutralMonster ;
+    rdfs:label "Gromp"@en ;
+    moba:attackRange 150 ;
+    moba:hasBaseStats moba:Gromp_Stats ;
+    moba:objectiveHealth "2050.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 80, Exp: 120 – 180 (based on monster's level), CS: 4"@en,
+        "Location - Initial spawn: 1:42, Respawn: 2:15"@en,
+        "Monster type: Large"@en .
+
+moba:Hextech_Drake a moba:Boss ;
+    rdfs:label "Hextech Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Hextech_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Infernal_Drake a moba:Boss ;
+    rdfs:label "Infernal Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Infernal_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Krug a moba:NeutralMonster ;
+    rdfs:label "Krug"@en ;
+    moba:attackRange 110 ;
+    moba:hasBaseStats moba:Krug_Stats ;
+    moba:objectiveHealth "60.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 14, Exp: 16 – 24 (based on monster's level), CS: 0.25"@en,
+        "Location - Initial spawn: 1:42, Respawn: 2:15"@en,
+        "Monster type: Small"@en .
+
+moba:Mountain_Drake a moba:Boss ;
+    rdfs:label "Mountain Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Mountain_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Murk_Wolf a moba:NeutralMonster ;
+    rdfs:label "Murk Wolf"@en ;
+    moba:attackRange 175 ;
+    moba:hasBaseStats moba:Murk_Wolf_Stats ;
+    moba:objectiveHealth "630.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 15, Exp: 15 – 22.5(based on monster's level), CS: 1"@en,
+        "Location - Initial spawn: 1:30, Respawn: 2:15"@en,
+        "Monster type: Small"@en .
+
+moba:Ocean_Drake a moba:Boss ;
+    rdfs:label "Ocean Drake"@en ;
+    moba:attackRange 500 ;
+    moba:hasBaseStats moba:Ocean_Drake_Stats ;
+    moba:objectiveHealth "5730.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 25, Exp: 150 – 330 (based on level), CS: 4"@en,
+        "Location - Camp: Dragon pit, Initial spawn: 5:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Red_Brambleback a moba:NeutralMonster ;
+    rdfs:label "Red Brambleback"@en ;
+    moba:hasBaseStats moba:Red_Brambleback_Stats ;
+    moba:objectiveHealth "2300.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 90, Exp: 95 – 142.5(based on monster's level), CS: 4"@en,
+        "Location - Initial spawn: 1:30, Respawn: 5:00"@en,
+        "Monster type: Large"@en .
+
+moba:Rift_Herald a moba:Boss ;
+    rdfs:label "Rift Herald"@en ;
+    moba:attackRange 250 ;
+    moba:hasBaseStats moba:Rift_Herald_Stats ;
+    moba:objectiveHealth "7125.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 100, Exp: 309 – 330 (based on level)/300, CS: 4"@en,
+        "Location - Initial spawn: 15:00"@en,
+        "Monster type: Epic, Large"@en .
+
+moba:Rift_Scuttler a moba:NeutralMonster ;
+    rdfs:label "Rift Scuttler"@en ;
+    moba:hasBaseStats moba:Rift_Scuttler_Stats ;
+    moba:objectiveHealth "1007.5"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 55 – 121 (based on monster's level), Exp: 100 – 150 (based on monster's level), CS: 4"@en,
+        "Location - Initial spawn: 3:30, Respawn: 2:30"@en,
+        "Monster type: Large"@en .
+
+moba:Voidgrub a moba:NeutralMonster ;
+    rdfs:label "Voidgrub"@en ;
+    moba:attackRange 125 ;
+    moba:hasBaseStats moba:Voidgrub_Stats ;
+    moba:objectiveHealth "20.0"^^xsd:float ;
+    rdfs:comment "Bounty - Gold: 1, Exp: 0, CS: 0"@en,
+        "Location - Initial spawn: 8:00"@en,
+        "Monster type: Small"@en .
+
+moba:Baron_Nashor_Stats a moba:Stats ;
+    moba:hasArmor "120.0"^^xsd:float ;
+    moba:hasAttackDamage "150.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.625"^^xsd:float ;
+    moba:hasMagicResist "70.0"^^xsd:float ;
+    moba:hasMovementSpeed "300.0"^^xsd:float .
+
+moba:Blue_Sentinel_Stats a moba:Stats ;
+    moba:hasArmor "42.0"^^xsd:float ;
+    moba:hasAttackDamage "66.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.493"^^xsd:float ;
+    moba:hasMagicResist "42.0"^^xsd:float ;
+    moba:hasMovementSpeed "275.0"^^xsd:float .
+
+moba:Chemtech_Drake_Stats a moba:Stats ;
+    moba:hasArmor "21.0"^^xsd:float ;
+    moba:hasAttackDamage "50.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.5"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Cloud_Drake_Stats a moba:Stats ;
+    moba:hasArmor "21.0"^^xsd:float ;
+    moba:hasAttackDamage "35.0"^^xsd:float ;
+    moba:hasAttackSpeed "1.0"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Crimson_Raptor_Stats a moba:Stats ;
+    moba:hasArmor "20.0"^^xsd:float ;
+    moba:hasAttackDamage "7.0"^^xsd:float ;
+    moba:hasAttackSpeed "1.0"^^xsd:float ;
+    moba:hasMagicResist "20.0"^^xsd:float ;
+    moba:hasMovementSpeed "525.0"^^xsd:float .
+
+moba:Elder_Dragon_Stats a moba:Stats ;
+    moba:hasArmor "120.0"^^xsd:float ;
+    moba:hasAttackDamage "105.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.5"^^xsd:float ;
+    moba:hasMagicResist "70.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Gromp_Stats a moba:Stats ;
+    moba:hasArmor "42.0"^^xsd:float ;
+    moba:hasAttackDamage "70.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.425"^^xsd:float ;
+    moba:hasMagicResist "42.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Hextech_Drake_Stats a moba:Stats ;
+    moba:hasArmor "21.0"^^xsd:float ;
+    moba:hasAttackDamage "47.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.75"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Infernal_Drake_Stats a moba:Stats ;
+    moba:hasArmor "21.0"^^xsd:float ;
+    moba:hasAttackDamage "70.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.5"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Krug_Stats a moba:Stats ;
+    moba:hasArmor "20.0"^^xsd:float ;
+    moba:hasAttackDamage "13.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.613"^^xsd:float ;
+    moba:hasMagicResist "20.0"^^xsd:float ;
+    moba:hasMovementSpeed "400.0"^^xsd:float .
+
+moba:Mountain_Drake_Stats a moba:Stats ;
+    moba:hasArmor "41.0"^^xsd:float ;
+    moba:hasAttackDamage "105.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.25"^^xsd:float ;
+    moba:hasMagicResist "50.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Murk_Wolf_Stats a moba:Stats ;
+    moba:hasArmor "20.0"^^xsd:float ;
+    moba:hasAttackDamage "10.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.625"^^xsd:float ;
+    moba:hasMagicResist "20.0"^^xsd:float ;
+    moba:hasMovementSpeed "525.0"^^xsd:float .
+
+moba:Ocean_Drake_Stats a moba:Stats ;
+    moba:hasArmor "21.0"^^xsd:float ;
+    moba:hasAttackDamage "70.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.5"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "330.0"^^xsd:float .
+
+moba:Red_Brambleback_Stats a moba:Stats ;
+    moba:hasArmor "42.0"^^xsd:float ;
+    moba:hasAttackDamage "66.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.493"^^xsd:float ;
+    moba:hasMagicResist "42.0"^^xsd:float ;
+    moba:hasMovementSpeed "275.0"^^xsd:float .
+
+moba:Rift_Herald_Stats a moba:Stats ;
+    moba:hasArmor "60.0"^^xsd:float ;
+    moba:hasAttackDamage "99.5"^^xsd:float ;
+    moba:hasAttackSpeed "0.4"^^xsd:float ;
+    moba:hasMagicResist "50.0"^^xsd:float ;
+    moba:hasMovementSpeed "325.0"^^xsd:float .
+
+moba:Rift_Scuttler_Stats a moba:Stats ;
+    moba:hasArmor "42.0"^^xsd:float ;
+    moba:hasAttackDamage "35.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.638"^^xsd:float ;
+    moba:hasMagicResist "42.0"^^xsd:float ;
+    moba:hasMovementSpeed "255.0"^^xsd:float .
+
+moba:Voidgrub_Stats a moba:Stats ;
+    moba:hasAttackDamage "6.0"^^xsd:float ;
+    moba:hasAttackSpeed "2.0"^^xsd:float ;
+    moba:hasMovementSpeed "420.0"^^xsd:float .
+

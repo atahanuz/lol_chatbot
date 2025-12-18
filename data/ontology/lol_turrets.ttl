@@ -1,0 +1,60 @@
+@prefix moba: <http://www.semanticweb.org/gizemyilmaz/ontologies/moba/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+moba:Inhibitor_Turret a moba:Tower ;
+    rdfs:label "Inhibitor Turret"@en ;
+    moba:attackRange 750 ;
+    moba:hasBaseStats moba:Inhibitor_Turret_Stats ;
+    moba:objectiveHealth "3500.0"^^xsd:float ;
+    rdfs:comment "Gold bounty - Global: 25, Local: 375"@en,
+        "Regeneration: 3 HP/s (within_health_thresholds)"@en .
+
+moba:Inner_Turret a moba:Tower ;
+    rdfs:label "Inner Turret"@en ;
+    moba:attackRange 750 ;
+    moba:hasBaseStats moba:Inner_Turret_Stats ;
+    moba:objectiveHealth "4000.0"^^xsd:float ;
+    rdfs:comment "Gold bounty - Global: 25, Local: 425-675"@en .
+
+moba:Nexus_Turret a moba:Tower ;
+    rdfs:label "Nexus Turret"@en ;
+    moba:attackRange 750 ;
+    moba:hasBaseStats moba:Nexus_Turret_Stats ;
+    moba:objectiveHealth "3000.0"^^xsd:float ;
+    rdfs:comment "Gold bounty - Global: 50"@en,
+        "Regeneration: 6 HP/s"@en,
+        "Respawn time: 180 seconds"@en .
+
+moba:Outer_Turret a moba:Tower ;
+    rdfs:label "Outer Turret"@en ;
+    moba:attackRange 750 ;
+    moba:hasBaseStats moba:Outer_Turret_Stats ;
+    moba:objectiveHealth "5000.0"^^xsd:float ;
+    rdfs:comment "Gold bounty - Global: 50, Local: 250"@en,
+        "Plates: 5 plates, 1000 HP each, 125 gold each"@en .
+
+moba:Inhibitor_Turret_Stats a moba:Stats ;
+    moba:hasArmor "70.0"^^xsd:float ;
+    moba:hasAttackDamage "187.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.833"^^xsd:float ;
+    moba:hasMagicResist "70.0"^^xsd:float .
+
+moba:Inner_Turret_Stats a moba:Stats ;
+    moba:hasArmor "55.0"^^xsd:float ;
+    moba:hasAttackDamage "187.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.833"^^xsd:float ;
+    moba:hasMagicResist "55.0"^^xsd:float .
+
+moba:Nexus_Turret_Stats a moba:Stats ;
+    moba:hasArmor "70.0"^^xsd:float ;
+    moba:hasAttackDamage "165.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.833"^^xsd:float ;
+    moba:hasMagicResist "70.0"^^xsd:float .
+
+moba:Outer_Turret_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float ;
+    moba:hasAttackDamage "182.0"^^xsd:float ;
+    moba:hasAttackSpeed "0.833"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float .
+

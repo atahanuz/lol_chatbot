@@ -1,0 +1,3481 @@
+{
+  "Aatrox": {
+    "cc_types": [
+      "Fear",
+      "Knockup",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Drain",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Ahri": {
+    "cc_types": [
+      "Charm"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Mage"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Akali": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "AOE",
+      "Heal",
+      "Dash",
+      "Execute",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Akshan": {
+    "cc_types": [],
+    "effects": [
+      "Revive",
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE",
+      "Heal",
+      "Dash",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Alistar": {
+    "cc_types": [
+      "Knockdown",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Peel",
+      "Tank"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Ambessa": {
+    "cc_types": [
+      "Suppress",
+      "Slow",
+      "Stun",
+      "Knockdown"
+    ],
+    "effects": [
+      "SpellBlock",
+      "Shield",
+      "AOE",
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "Unstoppable"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Amumu": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "AOE",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Anivia": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Blink",
+      "SpellBlock",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Control",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Annie": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Reset",
+      "SpellBlock",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Aphelios": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Ashe": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "GlobalRange",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Engage",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Aurelion Sol": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Pull",
+      "Terrain",
+      "AOE",
+      "Heal",
+      "Reset",
+      "Execute"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Aurora": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Azir": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "SpellBlock",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Bard": {
+    "cc_types": [
+      "Stun",
+      "Stasis",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Roam",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Bel'Veth": {
+    "cc_types": [
+      "Root",
+      "Knockdown",
+      "Slow",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Blitzcrank": {
+    "cc_types": [
+      "Silence",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Pick",
+      "Engage",
+      "Support"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Brand": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "AOE",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Braum": {
+    "cc_types": [
+      "Knockdown",
+      "Slow",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "SpellBlock",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Briar": {
+    "cc_types": [
+      "Fear",
+      "Taunt",
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Caitlyn": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [],
+    "playstyles": [
+      "Poke",
+      "Siege",
+      "Marksman"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Camille": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE",
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Cassiopeia": {
+    "cc_types": [
+      "Stun",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "DPS",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Cho'Gath": {
+    "cc_types": [
+      "Slow",
+      "Knockdown",
+      "Silence",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Tank"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Corki": {
+    "cc_types": [],
+    "effects": [
+      "Blink",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Poke",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Darius": {
+    "cc_types": [
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Diana": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Stealth",
+      "Dash",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Dr. Mundo": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Draven": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Execute"
+    ],
+    "playstyles": [
+      "Burst",
+      "Snowball",
+      "Marksman"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Ekko": {
+    "cc_types": [
+      "Stun",
+      "Stasis",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE",
+      "Heal",
+      "Blink",
+      "Dash",
+      "Invulnerability",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Elise": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Mage"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Evelynn": {
+    "cc_types": [
+      "Charm",
+      "Slow"
+    ],
+    "effects": [
+      "AOE",
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "Invulnerability",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin",
+      "Stealth"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Ezreal": {
+    "cc_types": [],
+    "effects": [
+      "Blink",
+      "Reset"
+    ],
+    "playstyles": [
+      "Poke",
+      "Burst",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Fiddlesticks": {
+    "cc_types": [
+      "Fear",
+      "Slow",
+      "Silence"
+    ],
+    "effects": [
+      "Heal",
+      "Blink",
+      "Execute",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Fiora": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "SpellBlock",
+      "AOE"
+    ],
+    "playstyles": [
+      "Splitpush",
+      "Duelist",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Fizz": {
+    "cc_types": [
+      "Slow",
+      "Knockdown",
+      "Knockup"
+    ],
+    "effects": [
+      "Reset",
+      "Dash",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Assassin"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Galio": {
+    "cc_types": [
+      "Taunt",
+      "Slow",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Gangplank": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "GlobalRange",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Garen": {
+    "cc_types": [
+      "Silence",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Gnar": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Gragas": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Tank"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Graves": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "SpellBlock",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Gwen": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Execute",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Fighter"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Hecarim": {
+    "cc_types": [
+      "Fear",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Heimerdinger": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Invulnerability",
+      "AOE"
+    ],
+    "playstyles": [
+      "Zone",
+      "Siege",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Hwei": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Fear"
+    ],
+    "effects": [
+      "Heal",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Control",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Illaoi": {
+    "cc_types": [
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Pull",
+      "Terrain",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Irelia": {
+    "cc_types": [
+      "Stun",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Ivern": {
+    "cc_types": [
+      "Root",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Support",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Janna": {
+    "cc_types": [
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Disengage",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Jarvan IV": {
+    "cc_types": [
+      "Knockup",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Dive",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Jax": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Splitpush",
+      "Fighter"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Jayce": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Burst",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Jhin": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Utility",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Jinx": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "K'Sante": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE",
+      "Heal",
+      "Dash",
+      "Unstoppable"
+    ],
+    "playstyles": [
+      "Engage",
+      "Peel",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Kai'Sa": {
+    "cc_types": [],
+    "effects": [
+      "Shield",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Kalista": {
+    "cc_types": [
+      "Stasis",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Utility",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Karma": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Utility",
+      "Support"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Karthus": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Teamfight",
+      "Objective"
+    ]
+  },
+  "Kassadin": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Blink",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Scaling",
+      "Assassin"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Katarina": {
+    "cc_types": [
+      "Knockdown"
+    ],
+    "effects": [
+      "Blink",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Reset",
+      "Assassin"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Kayle": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Invulnerability",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Kayn": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Terrain",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Kennen": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Kha'Zix": {
+    "cc_types": [
+      "Fear",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Kindred": {
+    "cc_types": [
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Kled": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Dive",
+      "Engage",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Kog'Maw": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "LeBlanc": {
+    "cc_types": [
+      "Root"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Lee Sin": {
+    "cc_types": [
+      "Knockdown",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Leona": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Lockdown",
+      "Tank"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Lillia": {
+    "cc_types": [
+      "Sleep",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Kite",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Lissandra": {
+    "cc_types": [
+      "Root",
+      "Stasis",
+      "Slow",
+      "Stun"
+    ],
+    "effects": [
+      "Blink",
+      "Heal",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Control",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Lucian": {
+    "cc_types": [
+      "Root"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield"
+    ],
+    "playstyles": [
+      "Burst",
+      "Lane",
+      "Marksman"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Lulu": {
+    "cc_types": [
+      "Polymorph",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Utility",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Lux": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Poke",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Malphite": {
+    "cc_types": [
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield"
+    ],
+    "playstyles": [
+      "Engage",
+      "AOE",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Malzahar": {
+    "cc_types": [
+      "Suppress",
+      "Silence"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Control",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Maokai": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Knockdown"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Terrain",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Peel",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Master Yi": {
+    "cc_types": [
+      "Slow",
+      "Blind"
+    ],
+    "effects": [
+      "Blink",
+      "Heal",
+      "Reset",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Reset",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Mel": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "Execute",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Milio": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Utility",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Miss Fortune": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "AOE",
+      "Marksman"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Mordekaiser": {
+    "cc_types": [
+      "Knockdown"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Morgana": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Stun",
+      "Knockdown"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Pick",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Naafiri": {
+    "cc_types": [
+      "Taunt",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE",
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Nami": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Utility",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Nasus": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Splitpush",
+      "Fighter"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Nautilus": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Lockdown",
+      "Tank"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Neeko": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Clone",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Nidalee": {
+    "cc_types": [],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Burst",
+      "Mage"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Nilah": {
+    "cc_types": [],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Nocturne": {
+    "cc_types": [
+      "Fear"
+    ],
+    "effects": [
+      "Heal",
+      "SpellBlock",
+      "Shield"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Nunu & Willump": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Objective",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Olaf": {
+    "cc_types": [
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Invulnerability",
+      "Shield"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Orianna": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Control",
+      "Utility",
+      "Mage"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Ornn": {
+    "cc_types": [
+      "Slow",
+      "Stun",
+      "Knockdown",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Pantheon": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE",
+      "Heal",
+      "Reset",
+      "Dash",
+      "Execute",
+      "Invulnerability"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Poppy": {
+    "cc_types": [
+      "Slow",
+      "Stun",
+      "Knockdown",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Stealth",
+      "Dash",
+      "Invulnerability",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Engage",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Pyke": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "Execute",
+      "Pull",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Qiyana": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Terrain",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Quinn": {
+    "cc_types": [
+      "Blind",
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Rakan": {
+    "cc_types": [
+      "Knockup",
+      "Charm"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Mobility",
+      "Support"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Rammus": {
+    "cc_types": [
+      "Taunt",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Dive",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Rek'Sai": {
+    "cc_types": [
+      "Knockup",
+      "Knockdown"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Rell": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Lockdown",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Renata Glasc": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "Shield"
+    ],
+    "playstyles": [
+      "Utility",
+      "Peel",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Renekton": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Rengar": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin",
+      "Stealth"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Riven": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "SpellBlock",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Rumble": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "Terrain",
+      "Shield"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Ryze": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Blink",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Samira": {
+    "cc_types": [
+      "Knockup"
+    ],
+    "effects": [
+      "Reset",
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Reset",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Sejuani": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "AOE",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Senna": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "GlobalRange",
+      "Shield",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Utility",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Seraphine": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Charm",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Poke",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Sett": {
+    "cc_types": [
+      "Suppress",
+      "Slow",
+      "Stun",
+      "Knockdown"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Engage",
+      "Fighter"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Shaco": {
+    "cc_types": [
+      "Fear",
+      "Slow"
+    ],
+    "effects": [
+      "Blink",
+      "Heal",
+      "Clone",
+      "Execute",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin",
+      "Stealth"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Shen": {
+    "cc_types": [
+      "Taunt",
+      "Slow"
+    ],
+    "effects": [
+      "SpellBlock",
+      "Pull",
+      "Shield",
+      "AOE",
+      "Heal",
+      "Reset",
+      "Blink",
+      "Dash",
+      "GlobalRange"
+    ],
+    "playstyles": [
+      "Utility",
+      "Splitpush",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Shyvana": {
+    "cc_types": [],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Objective"
+    ]
+  },
+  "Singed": {
+    "cc_types": [
+      "Root",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Proxy",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Sion": {
+    "cc_types": [
+      "Slow",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Scaling",
+      "Tank"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Sivir": {
+    "cc_types": [
+      "Fear"
+    ],
+    "effects": [
+      "Heal",
+      "SpellBlock",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Utility",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Skarner": {
+    "cc_types": [
+      "Suppress",
+      "Stun",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Pick",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Smolder": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Execute",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Sona": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Sustained",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Soraka": {
+    "cc_types": [
+      "Silence",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Heal",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Swain": {
+    "cc_types": [
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Drain",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Sylas": {
+    "cc_types": [
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Execute",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Sustained",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Syndra": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Pull"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mage"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Tahm Kench": {
+    "cc_types": [
+      "Knockdown",
+      "Slow",
+      "Stun",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Peel",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Taliyah": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Stun",
+      "Knockdown"
+    ],
+    "effects": [
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Talon": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Dash",
+      "Terrain",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Mobility",
+      "Assassin"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Taric": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Invulnerability",
+      "Shield"
+    ],
+    "playstyles": [
+      "Peel",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Teemo": {
+    "cc_types": [
+      "Slow",
+      "Blind"
+    ],
+    "effects": [
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Thresh": {
+    "cc_types": [
+      "Taunt",
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "Pull",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Peel",
+      "Utility",
+      "Tank"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Tristana": {
+    "cc_types": [
+      "Stun",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [],
+    "playstyles": [
+      "Burst",
+      "Scaling",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Trundle": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Tryndamere": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "Invulnerability",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Splitpush",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Twisted Fate": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Blink",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Roam",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Twitch": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Reset",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Stealth",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Udyr": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "AOE",
+      "Shield",
+      "Unstoppable"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Urgot": {
+    "cc_types": [
+      "Suppress",
+      "Slow",
+      "Fear",
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Execute",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Juggernaut",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Varus": {
+    "cc_types": [
+      "Root",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset"
+    ],
+    "playstyles": [
+      "Poke",
+      "Burst",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Vayne": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal",
+      "Terrain",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Duelist",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Veigar": {
+    "cc_types": [
+      "Stun"
+    ],
+    "effects": [
+      "Heal"
+    ],
+    "playstyles": [
+      "Burst",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Vel'Koz": {
+    "cc_types": [
+      "Stun",
+      "Knockup",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Burst",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Vex": {
+    "cc_types": [
+      "Fear",
+      "Slow"
+    ],
+    "effects": [
+      "Reset",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Vi": {
+    "cc_types": [
+      "Stun",
+      "Knockdown",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Viego": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Terrain",
+      "AOE",
+      "Heal",
+      "Blink",
+      "Dash",
+      "Execute",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Reset",
+      "Assassin"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Viktor": {
+    "cc_types": [
+      "Stun",
+      "Slow"
+    ],
+    "effects": [
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Zone",
+      "Mage"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Vladimir": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Invulnerability",
+      "SpellBlock",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Mage"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Volibear": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Warwick": {
+    "cc_types": [
+      "Fear",
+      "Suppress"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Wukong": {
+    "cc_types": [
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Clone",
+      "Dash",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Engage",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  },
+  "Xayah": {
+    "cc_types": [
+      "Root"
+    ],
+    "effects": [
+      "Invulnerability",
+      "Dash",
+      "Stealth"
+    ],
+    "playstyles": [
+      "Burst",
+      "Utility",
+      "Marksman"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Xerath": {
+    "cc_types": [
+      "Stun",
+      "Root",
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Artillery",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Xin Zhao": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Dive",
+      "Fighter"
+    ],
+    "power_curve": [
+      "EarlyGame"
+    ],
+    "win_conditions": []
+  },
+  "Yasuo": {
+    "cc_types": [
+      "Knockup"
+    ],
+    "effects": [
+      "Blink",
+      "Reset",
+      "Dash",
+      "SpellBlock",
+      "Terrain",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Fighter"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Yone": {
+    "cc_types": [
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Blink",
+      "Dash",
+      "Pull",
+      "Shield",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Scaling",
+      "Fighter"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": []
+  },
+  "Yorick": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "SpellBlock",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Splitpush",
+      "Fighter"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Splitpush"
+    ]
+  },
+  "Yunara": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Yuumi": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Stealth",
+      "Dash",
+      "Invulnerability",
+      "SpellBlock",
+      "Shield"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Utility",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Zaahen": {
+    "cc_types": [
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Revive",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Zac": {
+    "cc_types": [
+      "Slow",
+      "Stun",
+      "Knockdown",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Revive",
+      "Pull",
+      "AOE"
+    ],
+    "playstyles": [
+      "Engage",
+      "Dive",
+      "Tank"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Zed": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "Dash",
+      "Invulnerability",
+      "Stealth",
+      "AOE"
+    ],
+    "playstyles": [
+      "Burst",
+      "Assassin"
+    ],
+    "power_curve": [
+      "MidGame"
+    ],
+    "win_conditions": []
+  },
+  "Zeri": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Dash",
+      "Terrain",
+      "AOE"
+    ],
+    "playstyles": [
+      "Sustained",
+      "Mobility",
+      "Marksman"
+    ],
+    "power_curve": [
+      "LateGame"
+    ],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Ziggs": {
+    "cc_types": [
+      "Slow"
+    ],
+    "effects": [
+      "Heal",
+      "AOE"
+    ],
+    "playstyles": [
+      "Poke",
+      "Siege",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Siege"
+    ]
+  },
+  "Zilean": {
+    "cc_types": [
+      "Stun",
+      "Stasis",
+      "Slow"
+    ],
+    "effects": [
+      "Blink",
+      "Heal",
+      "Revive",
+      "AOE"
+    ],
+    "playstyles": [
+      "Utility",
+      "Poke",
+      "Support"
+    ],
+    "power_curve": [],
+    "win_conditions": []
+  },
+  "Zoe": {
+    "cc_types": [
+      "Sleep"
+    ],
+    "effects": [
+      "Blink",
+      "Terrain"
+    ],
+    "playstyles": [
+      "Burst",
+      "Poke",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Pick"
+    ]
+  },
+  "Zyra": {
+    "cc_types": [
+      "Root",
+      "Slow",
+      "Knockdown",
+      "Knockup"
+    ],
+    "effects": [
+      "Heal",
+      "Reset",
+      "AOE"
+    ],
+    "playstyles": [
+      "Zone",
+      "Control",
+      "Mage"
+    ],
+    "power_curve": [],
+    "win_conditions": [
+      "Teamfight"
+    ]
+  }
+}

@@ -1,0 +1,4535 @@
+[
+  {
+    "match_id": "KR_7969041313",
+    "minute": 10,
+    "game_duration": 2045,
+    "game_version": "15.24.733.5841",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Mordekaiser",
+        "summoner": "\uce7c\ub0a0\uc758\ucda4",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 2537,
+        "cs": 53,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Giant's Belt"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "MasterYi",
+        "summoner": "\u304d\u305f\u304c\u308f\u307e\u3053\u3068\u3059\u305a",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 4156,
+        "cs": 59,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Recurve Bow",
+          "Vampiric Scepter"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "LeeSin",
+        "summoner": "ymd ryo",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4115,
+        "cs": 65,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Vampiric Scepter",
+          "Long Sword",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Rell",
+        "summoner": "\uc2dc\uc6d4\uc2ed\uc721\uc77c",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3085,
+        "cs": 45,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Bami's Cinder",
+          "Cloth Armor",
+          "Chain Vest"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Bard",
+        "summoner": "Faker",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2992,
+        "cs": 11,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Cloth Armor",
+          "Ruby Crystal",
+          "Winged Moonplate",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Yone",
+        "summoner": "\uc2dc  \uc724",
+        "team": "Red",
+        "level": 9,
+        "total_gold": 4001,
+        "cs": 70,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Dagger",
+          "Dagger",
+          "Berserker's Greaves",
+          "Vampiric Scepter"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Aatrox",
+        "summoner": "\ubc14\ub978\ub9d0\uc720\uc5f0\ud55c\uc0ac\uace0",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3666,
+        "cs": 59,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Pickaxe",
+          "The Brutalizer",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Syndra",
+        "summoner": "\ud2f0\ub04c\ubaa8\uc544\ud30c\uc0b0",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3924,
+        "cs": 67,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Fated Ashes",
+          "Sapphire Crystal",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Smolder",
+        "summoner": "\ub530\ubd09\ub108\uad6c\ub9ac",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3058,
+        "cs": 59,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Caulfield's Warhammer",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Nami",
+        "summoner": "ttkkjjtt",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 2463,
+        "cs": 9,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Ruby Crystal",
+          "Glowing Mote"
+        ]
+      }
+    ],
+    "blue_team_gold": 16885,
+    "red_team_gold": 17112,
+    "gold_diff": -227
+  },
+  {
+    "match_id": "KR_7768456553",
+    "minute": 10,
+    "game_duration": 1103,
+    "game_version": "15.16.704.6097",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Mel",
+        "summoner": "lassowormguard",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 9157,
+        "cs": 97,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Rabadon's Deathcap",
+          "Ruby Crystal",
+          "Sorcerer's Shoes",
+          "Haunting Guise"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "JarvanIV",
+        "summoner": "\ud0dc\ud0dc\ud0dc",
+        "team": "Blue",
+        "level": 12,
+        "total_gold": 9024,
+        "cs": 80,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Long Sword",
+          "Caulfield's Warhammer",
+          "Long Sword",
+          "Pickaxe",
+          "Eclipse"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Alistar",
+        "summoner": "ZndACC",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 5077,
+        "cs": 11,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Cloth Armor",
+          "Bramble Vest",
+          "Chain Vest",
+          "Thornmail",
+          "Boots",
+          "Plated Steelcaps"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Senna",
+        "summoner": "\uba54\ud0c0\ubabd\ubc1c\uac00\ub77d",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7723,
+        "cs": 26,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Dagger",
+          "B. F. Sword",
+          "Pickaxe",
+          "Cloak of Agility",
+          "Infinity Edge"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Kaisa",
+        "summoner": "Let no one",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 6568,
+        "cs": 46,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Long Sword",
+          "Long Sword",
+          "Hearthbound Axe",
+          "Dagger",
+          "Rectrix"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Annie",
+        "summoner": "\ubbfc \uc7ac",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 9024,
+        "cs": 45,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Lost Chapter",
+          "Amplifying Tome",
+          "Boots",
+          "Luden's Companion"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Trundle",
+        "summoner": "Mild Cactus",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6383,
+        "cs": 81,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Scorchclaw Pup",
+          "Tiamat",
+          "Long Sword",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Jhin",
+        "summoner": "\uaf2c\ub9c9\ub0e0\ub0e0",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 7739,
+        "cs": 81,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Serrated Dirk",
+          "Rectrix",
+          "Long Sword",
+          "Youmuu's Ghostblade",
+          "Boots of Swiftness"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Hwei",
+        "summoner": "\ub2f9\uadfc \ucc3e\uc544",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 6619,
+        "cs": 45,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Sapphire Crystal",
+          "Lost Chapter",
+          "Amplifying Tome",
+          "Fated Ashes"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Ahri",
+        "summoner": "Faker",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 5662,
+        "cs": 39,
+        "skills": {
+          "Q": 5,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Blasting Wand",
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Lost Chapter",
+          "Boots"
+        ]
+      }
+    ],
+    "blue_team_gold": 37549,
+    "red_team_gold": 35427,
+    "gold_diff": 2122
+  },
+  {
+    "match_id": "KR_7768428775",
+    "minute": 10,
+    "game_duration": 1015,
+    "game_version": "15.16.704.6097",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Kindred",
+        "summoner": "\ubbfc \uc7ac",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 9884,
+        "cs": 59,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Serrated Dirk",
+          "Boots",
+          "Pickaxe",
+          "Cloak of Agility",
+          "The Collector"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Rumble",
+        "summoner": "Mild Cactus",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 5252,
+        "cs": 19,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Boots",
+          "Sorcerer's Shoes",
+          "Hextech Alternator",
+          "Glowing Mote",
+          "Fiendish Codex"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Mel",
+        "summoner": "\uaf2c\ub9c9\ub0e0\ub0e0",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 7053,
+        "cs": 67,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Needlessly Large Rod",
+          "Amplifying Tome",
+          "Hextech Alternator",
+          "Shadowflame",
+          "Sorcerer's Shoes"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Jayce",
+        "summoner": "\ub2f9\uadfc \ucc3e\uc544",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 7178,
+        "cs": 56,
+        "skills": {
+          "Q": 5,
+          "W": 2,
+          "E": 2,
+          "R": 0
+        },
+        "items": [
+          "Tear of the Goddess",
+          "Boots",
+          "Caulfield's Warhammer",
+          "Pickaxe",
+          "Long Sword",
+          "Eclipse"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Xerath",
+        "summoner": "Faker",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 7016,
+        "cs": 48,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Sapphire Crystal",
+          "Boots",
+          "Luden's Companion"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Blitzcrank",
+        "summoner": "\ub450 \ubc30\ub85c \uc774\ub4dd\ubd24\uc5b4",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 8552,
+        "cs": 81,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Boots",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Luden's Companion",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Karthus",
+        "summoner": "\uc81c\ube75\uc655\uae40Talk",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 6828,
+        "cs": 70,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Fated Ashes",
+          "Amplifying Tome",
+          "Ruby Crystal",
+          "Haunting Guise",
+          "Liandry's Torment"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Talon",
+        "summoner": "NO BBI",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 8532,
+        "cs": 27,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Long Sword",
+          "Serrated Dirk",
+          "Long Sword",
+          "Tunneler",
+          "Edge of Night"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Malphite",
+        "summoner": "\ubc14\ub2e4\uc870\uac01",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6879,
+        "cs": 36,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Hextech Alternator",
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Lost Chapter"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Zed",
+        "summoner": "\ub098 \uc2e0\uc9f1\uad6c",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 6136,
+        "cs": 57,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Boots",
+          "Long Sword",
+          "Serrated Dirk",
+          "Caulfield's Warhammer",
+          "Long Sword"
+        ]
+      }
+    ],
+    "blue_team_gold": 36383,
+    "red_team_gold": 36927,
+    "gold_diff": -544
+  },
+  {
+    "match_id": "KR_7737155171",
+    "minute": 10,
+    "game_duration": 1150,
+    "game_version": "15.15.699.7589",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Tristana",
+        "summoner": "\ud50c\ub808\uc774\uc5b41577754",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7577,
+        "cs": 32,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Hearthbound Axe",
+          "Dagger",
+          "Long Sword",
+          "Kraken Slayer",
+          "Boots",
+          "Scout's Slingshot"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "TwistedFate",
+        "summoner": "Faker",
+        "team": "Blue",
+        "level": 12,
+        "total_gold": 8424,
+        "cs": 36,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 2
+        },
+        "items": [
+          "Lost Chapter",
+          "Luden's Companion",
+          "Boots",
+          "Sorcerer's Shoes",
+          "Zeal",
+          "Scout's Slingshot"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Morgana",
+        "summoner": "\uacf5\uc8fc\ub294 \ub098\uc57c",
+        "team": "Blue",
+        "level": 12,
+        "total_gold": 7712,
+        "cs": 18,
+        "skills": {
+          "Q": 3,
+          "W": 5,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Amplifying Tome",
+          "Blackfire Torch",
+          "Boots",
+          "Sorcerer's Shoes",
+          "Fated Ashes"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Alistar",
+        "summoner": "\ud0b9\uac13\uc5e0\ud37c\ub7ec\uc874\uc798\uc12d",
+        "team": "Blue",
+        "level": 12,
+        "total_gold": 7071,
+        "cs": 8,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 2
+        },
+        "items": [
+          "Giant's Belt",
+          "Tear of the Goddess",
+          "Ruby Crystal",
+          "Winter's Approach",
+          "Mercury's Treads",
+          "Bramble Vest"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Ahri",
+        "summoner": "\uc9d1\uc774\uccb4\uace0\ub2e4",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7321,
+        "cs": 16,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Malignance",
+          "Boots",
+          "Catalyst of Aeons",
+          "Rod of Ages"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Vladimir",
+        "summoner": "\ub9db\uc788\ub294 \ub450\ubd80\uacfc\uc790",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6710,
+        "cs": 12,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 2
+        },
+        "items": [
+          "Haunting Guise",
+          "Boots",
+          "Fiendish Codex",
+          "Amplifying Tome",
+          "Kindlegem",
+          "Riftmaker"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Shaco",
+        "summoner": "dmd \uc544\ub2c8\uc57c",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 7305,
+        "cs": 3,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Luden's Companion",
+          "Haunting Guise",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Mel",
+        "summoner": "69500572del",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 8533,
+        "cs": 48,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Boots",
+          "Hextech Alternator",
+          "Luden's Companion",
+          "Amplifying Tome",
+          "Hextech Alternator"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Sivir",
+        "summoner": "\ud50c\ub531\uc774a",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 7480,
+        "cs": 35,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Berserker's Greaves",
+          "Dagger",
+          "Pickaxe",
+          "Scout's Slingshot",
+          "Rectrix",
+          "Statikk Shiv"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Amumu",
+        "summoner": "\uba85\uc0ac\uc218",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6347,
+        "cs": 7,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Bami's Cinder",
+          "Tear of the Goddess",
+          "Boots",
+          "Null-Magic Mantle",
+          "Mercury's Treads",
+          "Cloth Armor"
+        ]
+      }
+    ],
+    "blue_team_gold": 38105,
+    "red_team_gold": 36375,
+    "gold_diff": 1730
+  },
+  {
+    "match_id": "KR_7694218699",
+    "minute": 10,
+    "game_duration": 943,
+    "game_version": "15.13.693.1306",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Quinn",
+        "summoner": "hiDJ",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3967,
+        "cs": 62,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Cull",
+          "Rectrix",
+          "Hearthbound Axe",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Zac",
+        "summoner": "Faker",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3562,
+        "cs": 55,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Mosstomper Seedling",
+          "Bami's Cinder"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Sylas",
+        "summoner": "\uc21c\ub450\ubd80\ubcf4\ub2e8\uc5f0\ub450\ubd80",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3432,
+        "cs": 60,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Ruby Crystal",
+          "Boots",
+          "Catalyst of Aeons",
+          "Sorcerer's Shoes"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Lucian",
+        "summoner": "\ud55c\ud0c0\uc804\ubb38\uc6d0\ub51c\ub7ec",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 4777,
+        "cs": 68,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Pickaxe",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Lulu",
+        "summoner": "\uc720 \uc0c1 \uacbd",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3043,
+        "cs": 10,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Faerie Charm",
+          "Boots",
+          "Glowing Mote",
+          "Ionian Boots of Lucidity"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Illaoi",
+        "summoner": "\ud79d\uad6c\ub9ac \ud551\ud06c\ud401",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 2724,
+        "cs": 36,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 4,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Sheen",
+          "Cloth Armor",
+          "Chain Vest"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Sejuani",
+        "summoner": "\ucf5c\ub77c\uba39\ub294\ubd81\uadf9\uc758\uacf0",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3186,
+        "cs": 49,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Giant's Belt",
+          "Ruby Crystal",
+          "Crystalline Bracer",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Mel",
+        "summoner": "hopki",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3381,
+        "cs": 78,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Lost Chapter",
+          "Fated Ashes"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Varus",
+        "summoner": "\ubbfc\ucd08\ubd80\uba39\uc9c4\uc21c\ub370\uc790\uc640\uc194\uc758\ub208\ub2e5\ud130\ud398\ud37c",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 3069,
+        "cs": 44,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Zyra",
+        "summoner": "\u0643\u0648\u0631\u064a",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 2800,
+        "cs": 14,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Amplifying Tome"
+        ]
+      }
+    ],
+    "blue_team_gold": 18781,
+    "red_team_gold": 15160,
+    "gold_diff": 3621
+  },
+  {
+    "match_id": "KR_7887506479",
+    "minute": 10,
+    "game_duration": 987,
+    "game_version": "15.21.721.8442",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Seraphine",
+        "summoner": "SEOKHE",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 6023,
+        "cs": 14,
+        "skills": {
+          "Q": 5,
+          "W": 2,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Bandleglass Mirror",
+          "Tear of the Goddess",
+          "Lost Chapter",
+          "Blasting Wand"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Kayle",
+        "summoner": "MN persone",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 7303,
+        "cs": 24,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Recurve Bow",
+          "Amplifying Tome",
+          "Boots",
+          "Fiendish Codex",
+          "Blasting Wand",
+          "Nashor's Tooth"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Tristana",
+        "summoner": "Trigun Maximum",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 6793,
+        "cs": 25,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Serrated Dirk",
+          "Dagger",
+          "Pickaxe",
+          "Cloak of Agility",
+          "The Collector",
+          "Berserker's Greaves"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Anivia",
+        "summoner": "\uc65c\ub098\ub294\uc870\uadf8\ub9c8\ud55c\uc77c\uc5d0\ub9cc\ubd84\uac1c\ud558\ub294\uac00",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7389,
+        "cs": 17,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Blasting Wand",
+          "Tear of the Goddess",
+          "Rod of Ages",
+          "Amplifying Tome",
+          "Boots",
+          "Sorcerer's Shoes"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Olaf",
+        "summoner": "\ub204\uad6c\ub3c4\ub0a0\ub9c9\uc9c0\ubaa8\ud0dc\uc3e0\ub85c",
+        "team": "Blue",
+        "level": 10,
+        "total_gold": 6172,
+        "cs": 6,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Phage",
+          "Dagger",
+          "Tunneler",
+          "Experimental Hexplate",
+          "Boots",
+          "Mercury's Treads"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "LeeSin",
+        "summoner": "\ub9c9\ub0b4\uc0ac\uc6d0",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 8474,
+        "cs": 33,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Caulfield's Warhammer",
+          "Long Sword",
+          "Sundered Sky",
+          "Serrated Dirk",
+          "Pickaxe",
+          "Cloak of Agility"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Taliyah",
+        "summoner": "Zeus",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 7353,
+        "cs": 47,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Blackfire Torch",
+          "Sorcerer's Shoes",
+          "Fated Ashes",
+          "Amplifying Tome",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Talon",
+        "summoner": "\ub178\ub7c9\uc9c4\uacf5\uc2dc\ucda9",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 7399,
+        "cs": 12,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Serrated Dirk",
+          "Tear of the Goddess",
+          "Hubris<br>",
+          "Boots",
+          "Ionian Boots of Lucidity",
+          "Serrated Dirk"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Karma",
+        "summoner": "\ube44\ud0c0\uc721\ubc31",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6551,
+        "cs": 10,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Pyke",
+        "summoner": "Legend Leaguer",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 6314,
+        "cs": 9,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Long Sword",
+          "Caulfield's Warhammer",
+          "Boots",
+          "Hubris<br>",
+          "Ionian Boots of Lucidity"
+        ]
+      }
+    ],
+    "blue_team_gold": 33680,
+    "red_team_gold": 36091,
+    "gold_diff": -2411
+  },
+  {
+    "match_id": "KR_7887465928",
+    "minute": 10,
+    "game_duration": 1759,
+    "game_version": "15.21.721.8442",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Darius",
+        "summoner": "\uc7a5\uad00\uc8fc\ub4dc\ubca8\ub9c1\uc5c4",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 2702,
+        "cs": 59,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Ruby Crystal",
+          "Long Sword",
+          "Cloth Armor",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Nocturne",
+        "summoner": "Zeus",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3580,
+        "cs": 67,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Glowing Mote",
+          "Caulfield's Warhammer",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Vex",
+        "summoner": "\uae40\ubbfc\uc7ac",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3178,
+        "cs": 50,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Sapphire Crystal",
+          "Amplifying Tome",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Jinx",
+        "summoner": "\uc758\ub839 \uc7a5\ub85c\ub4dc\ub798\uace4\uc758 \ubd84\ub178",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3149,
+        "cs": 69,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "B. F. Sword",
+          "Boots",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "MonkeyKing",
+        "summoner": "\ubb582341",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2283,
+        "cs": 21,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Ruby Crystal",
+          "Boots of Swiftness"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Jax",
+        "summoner": "FLIRT",
+        "team": "Red",
+        "level": 9,
+        "total_gold": 3796,
+        "cs": 53,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Long Sword",
+          "Dagger",
+          "Cloth Armor",
+          "Plated Steelcaps",
+          "Pickaxe"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Diana",
+        "summoner": "yunhyoektae",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3192,
+        "cs": 46,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Hextech Alternator",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Galio",
+        "summoner": "\ubabd \ud0a4",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 4102,
+        "cs": 65,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Bami's Cinder",
+          "Spectre's Cowl"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Ezreal",
+        "summoner": "RaMDoMofHeRo",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3808,
+        "cs": 64,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Hearthbound Axe",
+          "Glowing Mote",
+          "Sheen"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Hwei",
+        "summoner": "ThisIsGwho",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3428,
+        "cs": 9,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Lost Chapter",
+          "Tear of the Goddess",
+          "Amplifying Tome",
+          "Glowing Mote"
+        ]
+      }
+    ],
+    "blue_team_gold": 14892,
+    "red_team_gold": 18326,
+    "gold_diff": -3434
+  },
+  {
+    "match_id": "KR_7874345074",
+    "minute": 10,
+    "game_duration": 1384,
+    "game_version": "15.20.719.545",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Mordekaiser",
+        "summoner": "\ub808\ubaac\ub9db \uc218\ubc15",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3071,
+        "cs": 48,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Amplifying Tome",
+          "Ruby Crystal",
+          "Giant's Belt"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "MasterYi",
+        "summoner": "4927356del",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2770,
+        "cs": 44,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Vampiric Scepter",
+          "Pickaxe",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Yasuo",
+        "summoner": "Jorrjaka de Alej",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 3898,
+        "cs": 72,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Berserker's Greaves",
+          "Pickaxe",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Samira",
+        "summoner": "Noaim just brain",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2777,
+        "cs": 32,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Cloak of Agility",
+          "Long Sword",
+          "Serrated Dirk"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Alistar",
+        "summoner": "TIME122",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2889,
+        "cs": 6,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Cloth Armor",
+          "Ruby Crystal",
+          "Kindlegem",
+          "Boots",
+          "Null-Magic Mantle"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Sett",
+        "summoner": "redforest777",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 4330,
+        "cs": 66,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Pickaxe",
+          "Long Sword",
+          "Vampiric Scepter",
+          "Dagger",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Nocturne",
+        "summoner": "Zeus",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4085,
+        "cs": 70,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Caulfield's Warhammer",
+          "Long Sword",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Renekton",
+        "summoner": "\uc990\uae30\uba74 \uc774\uaca8",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 2796,
+        "cs": 60,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Boots",
+          "Cloth Armor",
+          "Plated Steelcaps",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Caitlyn",
+        "summoner": "Bybid",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 5033,
+        "cs": 71,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Serrated Dirk",
+          "Boots",
+          "Pickaxe",
+          "Dagger",
+          "Scout's Slingshot"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Leona",
+        "summoner": "68\ucd5c\uc21c\uc790",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3633,
+        "cs": 11,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Kindlegem",
+          "Cloth Armor",
+          "Null-Magic Mantle",
+          "Boots"
+        ]
+      }
+    ],
+    "blue_team_gold": 15405,
+    "red_team_gold": 19877,
+    "gold_diff": -4472
+  },
+  {
+    "match_id": "KR_7868807425",
+    "minute": 10,
+    "game_duration": 1800,
+    "game_version": "15.20.717.2831",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Singed",
+        "summoner": "\ub0b4\ube64\uc2a4\uc18d\uc5d0\ub2c8\uc190",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 6916,
+        "cs": 28,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Catalyst of Aeons",
+          "Boots",
+          "Rod of Ages",
+          "Boots of Swiftness",
+          "Blasting Wand",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Blitzcrank",
+        "summoner": "\ud5e4\uc774\ub3c4\uce58",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 6545,
+        "cs": 3,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Giant's Belt",
+          "Tear of the Goddess",
+          "Boots",
+          "Ruby Crystal",
+          "Unending Despair",
+          "Mercury's Treads"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Aurora",
+        "summoner": "\uc6c5\ubc25\ud5e4",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7086,
+        "cs": 24,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Lost Chapter",
+          "Boots",
+          "Malignance",
+          "Amplifying Tome",
+          "Sorcerer's Shoes",
+          "Hextech Alternator"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Kaisa",
+        "summoner": "\uc88b\uc740\ubc24\uc774\uae38\ubc14\ub77c\uc694",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 8101,
+        "cs": 53,
+        "skills": {
+          "Q": 6,
+          "W": 2,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Recurve Bow",
+          "Amplifying Tome",
+          "Pickaxe",
+          "Guinsoo's Rageblade",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Poppy",
+        "summoner": "\uc644\ubcbd\ud55c\ud558\ub8e8",
+        "team": "Blue",
+        "level": 11,
+        "total_gold": 7309,
+        "cs": 2,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Giant's Belt",
+          "Tear of the Goddess",
+          "Ruby Crystal",
+          "Giant's Belt",
+          "Heartsteel",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Velkoz",
+        "summoner": "\uc778\ud130\ub137\uc2e4\uba85\uc81c\ucea0\ud398\uc778\ud64d\uc9c0\ud6c8",
+        "team": "Red",
+        "level": 12,
+        "total_gold": 7018,
+        "cs": 17,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 2
+        },
+        "items": [
+          "Lost Chapter",
+          "Blackfire Torch",
+          "Boots",
+          "Amplifying Tome",
+          "Fated Ashes",
+          "Haunting Guise"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Chogath",
+        "summoner": "unist\ub178\uc608",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6162,
+        "cs": 8,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Crystalline Bracer",
+          "Ruby Crystal",
+          "Giant's Belt",
+          "Giant's Belt",
+          "Heartsteel",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "MissFortune",
+        "summoner": "Zeus",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 9826,
+        "cs": 43,
+        "skills": {
+          "Q": 5,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Serrated Dirk",
+          "Tear of the Goddess",
+          "Pickaxe",
+          "Boots",
+          "Dagger",
+          "Cloak of Agility"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Kennen",
+        "summoner": "\uc5d0\uc2a4\ud30c\ub791\uc18c\uc8fc\ud55c\uc794",
+        "team": "Red",
+        "level": 11,
+        "total_gold": 6628,
+        "cs": 24,
+        "skills": {
+          "Q": 5,
+          "W": 2,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Hextech Alternator",
+          "Boots",
+          "Fiendish Codex",
+          "Ruby Crystal",
+          "Hextech Rocketbelt",
+          "Sorcerer's Shoes"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Tryndamere",
+        "summoner": "\ud788\ub4e0\uce74\ub4dc\ucd5c\uc9c4\uc6b0",
+        "team": "Red",
+        "level": 10,
+        "total_gold": 6763,
+        "cs": 25,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Phage",
+          "Dagger",
+          "Boots",
+          "Stridebreaker",
+          "Dagger",
+          "Dagger"
+        ]
+      }
+    ],
+    "blue_team_gold": 35957,
+    "red_team_gold": 36397,
+    "gold_diff": -440
+  },
+  {
+    "match_id": "KR_7868753321",
+    "minute": 10,
+    "game_duration": 2286,
+    "game_version": "15.20.717.2831",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Heimerdinger",
+        "summoner": "\uacf1\uac8c\ud0c0\ub77c\ubc84\uc2a4",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 3904,
+        "cs": 75,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Haunting Guise",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Viego",
+        "summoner": "SUYEONG\ubc30\uac00\ucee4",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3064,
+        "cs": 50,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Vampiric Scepter",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Ahri",
+        "summoner": "\uc2e4\uc218\ub85c \ub454\uac11\ud55c \uace0\uc758",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3342,
+        "cs": 58,
+        "skills": {
+          "Q": 2,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Hextech Alternator"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "MissFortune",
+        "summoner": "\uc815\uc2b9\uc724",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3287,
+        "cs": 75,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "B. F. Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Soraka",
+        "summoner": "Leketenes",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2290,
+        "cs": 12,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Ruby Crystal",
+          "Giant's Belt"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Zac",
+        "summoner": "\ud0c0\uaca9\uc720\uc800",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 2500,
+        "cs": 21,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Cloth Armor",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Nocturne",
+        "summoner": "Zeus",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3659,
+        "cs": 73,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Caulfield's Warhammer",
+          "Pickaxe"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Veigar",
+        "summoner": "\ubc18\uac11\ub178\uc774\uae30",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 2455,
+        "cs": 48,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Tear of the Goddess",
+          "Amplifying Tome",
+          "Sapphire Crystal",
+          "Lost Chapter",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Ziggs",
+        "summoner": "paxword",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 2675,
+        "cs": 52,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Tear of the Goddess",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Mel",
+        "summoner": "\uc5b5\uc7a5\uc774 \ubb38\uc5b4\ucc1c",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 2413,
+        "cs": 19,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Dagger",
+          "Glowing Mote",
+          "Boots",
+          "Amplifying Tome"
+        ]
+      }
+    ],
+    "blue_team_gold": 15887,
+    "red_team_gold": 13702,
+    "gold_diff": 2185
+  },
+  {
+    "match_id": "KR_7962075844",
+    "minute": 10,
+    "game_duration": 910,
+    "game_version": "15.24.732.64",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Ambessa",
+        "summoner": "\ud5e4\ub9acz",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3229,
+        "cs": 77,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Caulfield's Warhammer",
+          "Pickaxe"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Aatrox",
+        "summoner": "Radiohead",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3504,
+        "cs": 64,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Long Sword",
+          "Long Sword",
+          "Long Sword",
+          "Tunneler",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Mel",
+        "summoner": "lakcaj",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3267,
+        "cs": 76,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots",
+          "Lost Chapter",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "MissFortune",
+        "summoner": "Katie sky",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3332,
+        "cs": 70,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Cull",
+          "Vampiric Scepter"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Alistar",
+        "summoner": "Phuc1 \ubbf8\uce5c",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2235,
+        "cs": 7,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Renekton",
+        "summoner": "Hide on bush",
+        "team": "Red",
+        "level": 9,
+        "total_gold": 4088,
+        "cs": 88,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Long Sword",
+          "Long Sword",
+          "Boots",
+          "Caulfield's Warhammer",
+          "Pickaxe"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Sylas",
+        "summoner": "\u6296\u97f3\u4e36\u5c0f\u732a\u4ed4",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3878,
+        "cs": 58,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Blasting Wand",
+          "Amplifying Tome",
+          "Dark Seal",
+          "Aether Wisp",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Talon",
+        "summoner": "\uc804\uc0c1\ub4dd",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3928,
+        "cs": 72,
+        "skills": {
+          "Q": 2,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Long Sword",
+          "Tiamat",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Kaisa",
+        "summoner": "WE GO",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4452,
+        "cs": 84,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Cull",
+          "Recurve Bow",
+          "Long Sword",
+          "Dagger",
+          "Hearthbound Axe"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Neeko",
+        "summoner": "\ubb38\uc601\ud654",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 2737,
+        "cs": 4,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Fiendish Codex",
+          "Amplifying Tome",
+          "Ionian Boots of Lucidity"
+        ]
+      }
+    ],
+    "blue_team_gold": 15567,
+    "red_team_gold": 19083,
+    "gold_diff": -3516
+  },
+  {
+    "match_id": "KR_7962039221",
+    "minute": 10,
+    "game_duration": 1622,
+    "game_version": "15.24.732.64",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Zaahen",
+        "summoner": "\ud5e4\ub9acz",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3375,
+        "cs": 56,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Boots",
+          "Null-Magic Mantle",
+          "Long Sword",
+          "Mercury's Treads",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "LeeSin",
+        "summoner": "\u6296\u97f3\u4e36\u5c0f\u732a\u4ed4",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3766,
+        "cs": 58,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Caulfield's Warhammer",
+          "Long Sword",
+          "Long Sword",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Orianna",
+        "summoner": "\ud3f0\ud558\uc5f0",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3120,
+        "cs": 78,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots",
+          "Amplifying Tome",
+          "Lost Chapter"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Yunara",
+        "summoner": "BLG \uc628",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 4566,
+        "cs": 77,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Recurve Bow",
+          "Long Sword",
+          "Rectrix",
+          "Hearthbound Axe"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Braum",
+        "summoner": "Finale",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2822,
+        "cs": 10,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Ruby Crystal",
+          "Kindlegem",
+          "Faerie Charm"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Aurora",
+        "summoner": "IG Nuguri",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3934,
+        "cs": 80,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots",
+          "Ionian Boots of Lucidity",
+          "Sapphire Crystal",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Sylas",
+        "summoner": "\uc77c\ud558\ub294\uc911",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4277,
+        "cs": 61,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Hextech Alternator",
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Fiendish Codex",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Jayce",
+        "summoner": "\uc6b0\uac08\uc774",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 5828,
+        "cs": 72,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Boots",
+          "Tear of the Goddess",
+          "Long Sword",
+          "Long Sword",
+          "Serrated Dirk"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Aphelios",
+        "summoner": "WE GO",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3653,
+        "cs": 78,
+        "skills": {
+          "Q": 5,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Pickaxe",
+          "Boots",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Neeko",
+        "summoner": "Hide on bush",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3818,
+        "cs": 12,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Amplifying Tome",
+          "Glowing Mote",
+          "Fiendish Codex",
+          "Amplifying Tome",
+          "Hextech Alternator"
+        ]
+      }
+    ],
+    "blue_team_gold": 17649,
+    "red_team_gold": 21510,
+    "gold_diff": -3861
+  },
+  {
+    "match_id": "KR_7961966938",
+    "minute": 10,
+    "game_duration": 1551,
+    "game_version": "15.24.732.64",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Rumble",
+        "summoner": "Daynight",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3891,
+        "cs": 69,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Boots of Swiftness"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Nidalee",
+        "summoner": "Cipher 0",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3351,
+        "cs": 52,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Dark Seal",
+          "Glowing Mote",
+          "Ionian Boots of Lucidity",
+          "Fiendish Codex"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Orianna",
+        "summoner": "Hide on bush",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4357,
+        "cs": 84,
+        "skills": {
+          "Q": 3,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Sapphire Crystal",
+          "Catalyst of Aeons",
+          "Tear of the Goddess",
+          "Blasting Wand"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Corki",
+        "summoner": "fishone",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4223,
+        "cs": 77,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Tear of the Goddess",
+          "Sheen",
+          "Long Sword",
+          "Boots",
+          "Phage"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Pantheon",
+        "summoner": "qiqi",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 3518,
+        "cs": 9,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Symbiotic Soles",
+          "Serrated Dirk",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Ornn",
+        "summoner": "\uae40\uae40\uae40\uc11c\uc601",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3584,
+        "cs": 52,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Null-Magic Mantle",
+          "Negatron Cloak",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "XinZhao",
+        "summoner": "\uc73c\ub31c\ub2e4",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3043,
+        "cs": 57,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Tunneler",
+          "Glowing Mote",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Viktor",
+        "summoner": "\uc774\uc778\ucc2c",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3289,
+        "cs": 66,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 5,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Fated Ashes"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Yunara",
+        "summoner": "\uc740\uc218\ud53c",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4432,
+        "cs": 75,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "B. F. Sword",
+          "Scout's Slingshot",
+          "Long Sword",
+          "Yun Tal Wildarrows"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Janna",
+        "summoner": "\ucf54 \ucf54",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 2919,
+        "cs": 14,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 0
+        },
+        "items": [
+          "Forbidden Idol",
+          "Amplifying Tome",
+          "Aether Wisp"
+        ]
+      }
+    ],
+    "blue_team_gold": 19340,
+    "red_team_gold": 17267,
+    "gold_diff": 2073
+  },
+  {
+    "match_id": "KR_7961750648",
+    "minute": 10,
+    "game_duration": 1608,
+    "game_version": "15.24.732.64",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Ambessa",
+        "summoner": "\ubf1b\uae43\ud138",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 2866,
+        "cs": 66,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Pickaxe",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Aatrox",
+        "summoner": "DK Solid",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4592,
+        "cs": 75,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Tunneler",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Cassiopeia",
+        "summoner": "Hide on bush",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 4666,
+        "cs": 86,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 4,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Tear of the Goddess",
+          "Catalyst of Aeons",
+          "Lost Chapter"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Yunara",
+        "summoner": "K  T",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 4011,
+        "cs": 60,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Cull",
+          "Dagger",
+          "Recurve Bow",
+          "Long Sword",
+          "Hearthbound Axe"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Rell",
+        "summoner": "\uc1a1\ud558\uc601",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3452,
+        "cs": 14,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Ionian Boots of Lucidity",
+          "Ruby Crystal",
+          "Kindlegem",
+          "Faerie Charm"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Yorick",
+        "summoner": "kiwi peludo",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3497,
+        "cs": 74,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Phage",
+          "Sheen",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Qiyana",
+        "summoner": "Shylie",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 5130,
+        "cs": 73,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Pickaxe",
+          "The Brutalizer",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Leblanc",
+        "summoner": "Witt",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 2859,
+        "cs": 54,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Tristana",
+        "summoner": "\uc544\ub984\uc774\uba39\uc5ec\uc0b4\ub9ac\uae30",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4720,
+        "cs": 77,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "B. F. Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Swain",
+        "summoner": "\ub51c\uc548\ub123\uace0\ubb50\ud558\ub0d0",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 2454,
+        "cs": 17,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Ruby Crystal",
+          "Giant's Belt"
+        ]
+      }
+    ],
+    "blue_team_gold": 19587,
+    "red_team_gold": 18660,
+    "gold_diff": 927
+  },
+  {
+    "match_id": "KR_7961586061",
+    "minute": 10,
+    "game_duration": 1960,
+    "game_version": "15.24.732.64",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Ambessa",
+        "summoner": "Stellar Moments",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 2861,
+        "cs": 60,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Long Sword",
+          "Long Sword",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Qiyana",
+        "summoner": "lakcaj",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 5005,
+        "cs": 65,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Long Sword",
+          "The Brutalizer",
+          "Profane Hydra"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Sylas",
+        "summoner": "Hide on bush",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4862,
+        "cs": 69,
+        "skills": {
+          "Q": 2,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Dark Seal",
+          "Boots",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Hextech Alternator"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Yunara",
+        "summoner": "dndnfgo",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 4250,
+        "cs": 64,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Hearthbound Axe",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Lulu",
+        "summoner": "\u88ab\u6211\u5f04\u4e22\u7684\u4f60",
+        "team": "Blue",
+        "level": 4,
+        "total_gold": 3093,
+        "cs": 6,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 2,
+          "R": 0
+        },
+        "items": [
+          "Aether Wisp",
+          "Faerie Charm",
+          "Forbidden Idol",
+          "Ardent Censer"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Olaf",
+        "summoner": "\ube44\ubc00\uacf5\uc791\uc6d0",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 4355,
+        "cs": 85,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Tiamat",
+          "Boots",
+          "Cloth Armor",
+          "Plated Steelcaps"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "LeeSin",
+        "summoner": "\u02c7\u6d2a\u6620",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 5214,
+        "cs": 72,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Caulfield's Warhammer",
+          "Ruby Crystal",
+          "Sundered Sky",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Taliyah",
+        "summoner": "Qnayia",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3629,
+        "cs": 72,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Tear of the Goddess",
+          "Sapphire Crystal",
+          "Amplifying Tome",
+          "Lost Chapter",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Sivir",
+        "summoner": "\u6296\u97f3\u4e36\u5c0f\u732a\u4ed4",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3757,
+        "cs": 62,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Doran's Blade",
+          "Pickaxe",
+          "Long Sword",
+          "Long Sword",
+          "Cloak of Agility",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Alistar",
+        "summoner": "IG Nuguri",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 3217,
+        "cs": 8,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Ruby Crystal",
+          "Kindlegem",
+          "Faerie Charm",
+          "Forbidden Idol"
+        ]
+      }
+    ],
+    "blue_team_gold": 20071,
+    "red_team_gold": 20172,
+    "gold_diff": -101
+  },
+  {
+    "match_id": "KR_7918947856",
+    "minute": 10,
+    "game_duration": 914,
+    "game_version": "15.22.724.5161",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Yorick",
+        "summoner": "\ucf00\ucc391\uc138",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3051,
+        "cs": 62,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 4,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Fated Ashes",
+          "Sapphire Crystal",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Lillia",
+        "summoner": "\ud325\uc21c\uc774",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3531,
+        "cs": 62,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Fated Ashes",
+          "Amplifying Tome",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Yasuo",
+        "summoner": "\uc2e0\ub9d0\ub144",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 2445,
+        "cs": 53,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Dagger",
+          "Dagger",
+          "Boots",
+          "Berserker's Greaves",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Ezreal",
+        "summoner": "\ub3c5\uace0\uae30\uc900",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2941,
+        "cs": 69,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Tear of the Goddess",
+          "Long Sword",
+          "Sheen",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Ashe",
+        "summoner": "Chovy",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2419,
+        "cs": 20,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Boots",
+          "Ionian Boots of Lucidity"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Malphite",
+        "summoner": "\uc544\uc790\uc790\ucd78\ucd78",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3596,
+        "cs": 64,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Blasting Wand",
+          "Sapphire Crystal",
+          "Lost Chapter",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Vi",
+        "summoner": "\ud654 \ub81d",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3500,
+        "cs": 61,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Scorchclaw Pup",
+          "Sheen",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Sylas",
+        "summoner": "\uc5fd\uc0a5\ubf55",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 4478,
+        "cs": 66,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Sorcerer's Shoes"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Jhin",
+        "summoner": "mingstar",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 4520,
+        "cs": 85,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Serrated Dirk",
+          "Long Sword",
+          "Boots",
+          "Rectrix",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Nautilus",
+        "summoner": "\uc21c \uc9c4",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3013,
+        "cs": 13,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Ruby Crystal",
+          "Boots",
+          "Kindlegem"
+        ]
+      }
+    ],
+    "blue_team_gold": 14387,
+    "red_team_gold": 19107,
+    "gold_diff": -4720
+  },
+  {
+    "match_id": "KR_7918932353",
+    "minute": 10,
+    "game_duration": 1185,
+    "game_version": "15.22.724.5161",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Malphite",
+        "summoner": "\uac31\uc624\uba74\uc8fd\uc74c",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3138,
+        "cs": 73,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Bramble Vest",
+          "Boots",
+          "Cloth Armor",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Sylas",
+        "summoner": "\ud325\uc21c\uc774",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3815,
+        "cs": 60,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Hextech Alternator",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Naafiri",
+        "summoner": "\uc194\ub85c\ud0ac\uc808\ub300\ubabb\ub0c4",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3649,
+        "cs": 78,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Long Sword",
+          "The Brutalizer"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Ashe",
+        "summoner": "\ub3c5\uace0\uae30\uc900",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2934,
+        "cs": 51,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Vampiric Scepter",
+          "Boots",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Karma",
+        "summoner": "Chovy",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2531,
+        "cs": 4,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Amplifying Tome",
+          "Ionian Boots of Lucidity"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "MonkeyKing",
+        "summoner": "wujiandao",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3178,
+        "cs": 50,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Phage",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Rammus",
+        "summoner": "\uc2a4\ud53c\ub4dc",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3874,
+        "cs": 68,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Bami's Cinder",
+          "Cloth Armor",
+          "Bramble Vest",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Galio",
+        "summoner": "\ubbfc\ud2b8\ucd08\ucf54\uba58\ud1a0\uc2a4",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3647,
+        "cs": 68,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Amplifying Tome",
+          "Amplifying Tome",
+          "Hextech Alternator",
+          "Ruby Crystal",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Tristana",
+        "summoner": "ILLIT syn",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 6215,
+        "cs": 80,
+        "skills": {
+          "Q": 1,
+          "W": 1,
+          "E": 3,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Scout's Slingshot",
+          "B. F. Sword",
+          "Long Sword",
+          "Yun Tal Wildarrows",
+          "Berserker's Greaves"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Rell",
+        "summoner": "\ucd08\ubcf4\uc5d0\uc694\uc81c\ubc1c\ud55c\ubc88\ub9cc\ubd10\uc8fc\uc138\uc694",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3550,
+        "cs": 11,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Boots",
+          "Ruby Crystal",
+          "Boots of Swiftness",
+          "Winged Moonplate"
+        ]
+      }
+    ],
+    "blue_team_gold": 16067,
+    "red_team_gold": 20464,
+    "gold_diff": -4397
+  },
+  {
+    "match_id": "KR_7918899077",
+    "minute": 10,
+    "game_duration": 1481,
+    "game_version": "15.22.724.5161",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Yasuo",
+        "summoner": "\uae40\ud604\uc6b0",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 3605,
+        "cs": 95,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Berserker's Greaves"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "LeeSin",
+        "summoner": "\uc21c \ub2f9 \ubc31",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3526,
+        "cs": 55,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Pickaxe",
+          "Glowing Mote",
+          "Long Sword",
+          "Caulfield's Warhammer",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Leblanc",
+        "summoner": "AussieHan",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 4434,
+        "cs": 69,
+        "skills": {
+          "Q": 1,
+          "W": 4,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Lost Chapter",
+          "Dark Seal",
+          "Boots",
+          "Amplifying Tome",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Smolder",
+        "summoner": "SQQQ SOXS TSLQ",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3679,
+        "cs": 66,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Pickaxe",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Yuumi",
+        "summoner": "\ub0b4\ud0d3\ud558\uba74 \uc6d0\uc22d\uc774",
+        "team": "Blue",
+        "level": 5,
+        "total_gold": 2413,
+        "cs": 8,
+        "skills": {
+          "Q": 3,
+          "W": 0,
+          "E": 2,
+          "R": 0
+        },
+        "items": [
+          "Faerie Charm",
+          "Forbidden Idol",
+          "Ruby Crystal",
+          "Kindlegem"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "TwistedFate",
+        "summoner": "\uc9c0\uc2b9\uc789",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3478,
+        "cs": 73,
+        "skills": {
+          "Q": 4,
+          "W": 2,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots of Swiftness",
+          "Catalyst of Aeons"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "Sylas",
+        "summoner": "\uad8c\uc21c\ubbfc",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3165,
+        "cs": 45,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Amplifying Tome",
+          "Hextech Alternator",
+          "Amplifying Tome"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Zed",
+        "summoner": "Chovy",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 4323,
+        "cs": 65,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Caulfield's Warhammer",
+          "Pickaxe",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Kaisa",
+        "summoner": "Winter",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3496,
+        "cs": 56,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Cull",
+          "Boots",
+          "Recurve Bow",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Bard",
+        "summoner": "\uae30\ubb18             \ud55c",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 2648,
+        "cs": 8,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Ruby Crystal",
+          "Winged Moonplate"
+        ]
+      }
+    ],
+    "blue_team_gold": 17657,
+    "red_team_gold": 17110,
+    "gold_diff": 547
+  },
+  {
+    "match_id": "KR_7883915807",
+    "minute": 10,
+    "game_duration": 1160,
+    "game_version": "15.21.721.4012",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Kled",
+        "summoner": "\ub2e8\ub2e8\ubc27\uc904",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 2884,
+        "cs": 47,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Executioner's Calling",
+          "Boots",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "LeeSin",
+        "summoner": "krbum",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 3764,
+        "cs": 67,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Tunneler",
+          "Caulfield's Warhammer"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Malzahar",
+        "summoner": "\uc81c\uc8fc\ub3c4\uc5bc\ub8e9\ub9d0\uc790\ud558",
+        "team": "Blue",
+        "level": 9,
+        "total_gold": 4368,
+        "cs": 85,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 4,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Lost Chapter"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Ashe",
+        "summoner": "\ub178\uc775\uc2a4",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3578,
+        "cs": 56,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Long Sword",
+          "Hearthbound Axe",
+          "Long Sword",
+          "Dagger"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Poppy",
+        "summoner": "\ud64d\uc2dc\uc544",
+        "team": "Blue",
+        "level": 7,
+        "total_gold": 2944,
+        "cs": 17,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Boots of Swiftness"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Fiora",
+        "summoner": "\ub178\uba40\uc5281",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3999,
+        "cs": 74,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Vampiric Scepter",
+          "Long Sword",
+          "Tiamat"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "MonkeyKing",
+        "summoner": "\ucf00\ucc39\ucf00\ubc25\ucf00\ub85c\ub85c",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3421,
+        "cs": 63,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Long Sword",
+          "Ruby Crystal"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Orianna",
+        "summoner": "\ubcf4\ub9ac \uc6b0\uc5f0 \ud558\ub8e8",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3501,
+        "cs": 88,
+        "skills": {
+          "Q": 3,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Lost Chapter",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Varus",
+        "summoner": "Chovy",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3582,
+        "cs": 84,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Tear of the Goddess",
+          "Serrated Dirk"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Pyke",
+        "summoner": "\ubabb\uc0dd\uae34\ub178\uc744\uc774",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 2527,
+        "cs": 13,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Long Sword",
+          "Ionian Boots of Lucidity"
+        ]
+      }
+    ],
+    "blue_team_gold": 17538,
+    "red_team_gold": 17030,
+    "gold_diff": 508
+  },
+  {
+    "match_id": "KR_7883901157",
+    "minute": 10,
+    "game_duration": 1790,
+    "game_version": "15.21.721.4012",
+    "players": [
+      {
+        "participant_id": 1,
+        "champion": "Gangplank",
+        "summoner": "solarbacca",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3984,
+        "cs": 71,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Shield",
+          "Sheen",
+          "Boots",
+          "Phage"
+        ]
+      },
+      {
+        "participant_id": 2,
+        "champion": "Nidalee",
+        "summoner": "30\ub300\uc758\ud65c\ub825",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 4413,
+        "cs": 55,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Dark Seal",
+          "Amplifying Tome",
+          "Sheen",
+          "Aether Wisp",
+          "Blasting Wand"
+        ]
+      },
+      {
+        "participant_id": 3,
+        "champion": "Zed",
+        "summoner": "\ucd08\uc774\uc6d0\uc11d",
+        "team": "Blue",
+        "level": 8,
+        "total_gold": 3419,
+        "cs": 71,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Long Sword",
+          "Pickaxe"
+        ]
+      },
+      {
+        "participant_id": 4,
+        "champion": "Caitlyn",
+        "summoner": "\uc5b4\ub978\uc774\ud2b9\uacf5\ub3001",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 3769,
+        "cs": 79,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Long Sword",
+          "Long Sword",
+          "Serrated Dirk",
+          "Boots"
+        ]
+      },
+      {
+        "participant_id": 5,
+        "champion": "Braum",
+        "summoner": "\ubd07 \uc0ac\ubbf8\ub77c  ",
+        "team": "Blue",
+        "level": 6,
+        "total_gold": 2913,
+        "cs": 16,
+        "skills": {
+          "Q": 2,
+          "W": 1,
+          "E": 2,
+          "R": 0
+        },
+        "items": [
+          "Ruby Crystal",
+          "Kindlegem"
+        ]
+      },
+      {
+        "participant_id": 6,
+        "champion": "Vladimir",
+        "summoner": "\ub0a8\uc6d0\uac10\uade4\ubbf8\ub9cc\uc7a1",
+        "team": "Red",
+        "level": 8,
+        "total_gold": 3167,
+        "cs": 69,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 2,
+          "R": 1
+        },
+        "items": [
+          "Doran's Ring",
+          "Boots of Swiftness",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 7,
+        "champion": "XinZhao",
+        "summoner": "1127",
+        "team": "Red",
+        "level": 6,
+        "total_gold": 3158,
+        "cs": 52,
+        "skills": {
+          "Q": 1,
+          "W": 3,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Gustwalker Hatchling",
+          "Pickaxe",
+          "Long Sword",
+          "Long Sword",
+          "Glowing Mote"
+        ]
+      },
+      {
+        "participant_id": 8,
+        "champion": "Irelia",
+        "summoner": "Chovy",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3000,
+        "cs": 68,
+        "skills": {
+          "Q": 4,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Recurve Bow",
+          "Cull",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 9,
+        "champion": "Kaisa",
+        "summoner": "Zzenoss",
+        "team": "Red",
+        "level": 7,
+        "total_gold": 3866,
+        "cs": 55,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 1
+        },
+        "items": [
+          "Doran's Blade",
+          "Cull",
+          "Recurve Bow",
+          "Long Sword",
+          "Long Sword"
+        ]
+      },
+      {
+        "participant_id": 10,
+        "champion": "Poppy",
+        "summoner": "\ubabb\uc0dd\uae34\ub178\uc744\uc774",
+        "team": "Red",
+        "level": 5,
+        "total_gold": 2667,
+        "cs": 4,
+        "skills": {
+          "Q": 3,
+          "W": 1,
+          "E": 1,
+          "R": 0
+        },
+        "items": [
+          "Boots",
+          "Boots of Swiftness",
+          "Ruby Crystal"
+        ]
+      }
+    ],
+    "blue_team_gold": 18498,
+    "red_team_gold": 15858,
+    "gold_diff": 2640
+  }
+]

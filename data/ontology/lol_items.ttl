@@ -1,0 +1,4391 @@
+@prefix moba: <http://www.semanticweb.org/gizemyilmaz/ontologies/moba/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+moba:Anathemas_Chains a moba:ComponentItem ;
+    rdfs:label "Anathema's Chains"@en ;
+    moba:goldCost 2500 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Anathema's Chains"^^xsd:string ;
+    moba:providesStats moba:Anathemas_Chains_Stats ;
+    moba:uniquePassive true .
+
+moba:Anti_Tower_Socks a moba:ComponentItem ;
+    rdfs:label "Anti-Tower Socks"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Anti-Tower Socks"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Arcane_Sweeper_Trinket a moba:ComponentItem ;
+    rdfs:label "Arcane Sweeper (Trinket)"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Arcane Sweeper (Trinket)"^^xsd:string ;
+    rdfs:comment "Activate to reveal a nearby area of the map"@en .
+
+moba:Atmas_Reckoning a moba:ComponentItem ;
+    rdfs:label "Atma's Reckoning"@en ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Atma's Reckoning"^^xsd:string ;
+    moba:providesStats moba:Atmas_Reckoning_Stats ;
+    moba:uniquePassive true .
+
+moba:Base_Turret_Reinforced_Armor_Turret_Item a moba:ComponentItem ;
+    rdfs:label "Base Turret Reinforced Armor (Turret Item)"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Base Turret Reinforced Armor (Turret Item)"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Black_Hole_Gauntlet a moba:ComponentItem ;
+    rdfs:label "Black Hole Gauntlet"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Black Hole Gauntlet"^^xsd:string ;
+    moba:providesStats moba:Black_Hole_Gauntlet_Stats ;
+    moba:uniquePassive true .
+
+moba:Black_Spear a moba:ComponentItem ;
+    rdfs:label "Black Spear"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Black Spear"^^xsd:string ;
+    rdfs:comment "Kalista's spear that binds an Oathsworn Ally."@en .
+
+moba:Cappa_Juice a moba:ConsumableItem ;
+    rdfs:label "Cappa Juice"@en ;
+    moba:goldCost 300 ;
+    moba:itemName "Cappa Juice"^^xsd:string .
+
+moba:Cloak_of_Starry_Night a moba:ComponentItem ;
+    rdfs:label "Cloak of Starry Night"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Cloak of Starry Night"^^xsd:string ;
+    moba:providesStats moba:Cloak_of_Starry_Night_Stats ;
+    moba:uniquePassive true .
+
+moba:Control_Ward a moba:ConsumableItem ;
+    rdfs:label "Control Ward"@en ;
+    moba:goldCost 75 ;
+    moba:itemName "Control Ward"^^xsd:string ;
+    rdfs:comment "Used to disable wards and invisible traps in an area."@en .
+
+moba:Crown_of_the_Shattered_Queen a moba:ComponentItem ;
+    rdfs:label "Crown of the Shattered Queen"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Crown of the Shattered Queen"^^xsd:string ;
+    moba:providesStats moba:Crown_of_the_Shattered_Queen_Stats ;
+    moba:uniquePassive true .
+
+moba:Cruelty a moba:ComponentItem ;
+    rdfs:label "Cruelty"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Cruelty"^^xsd:string ;
+    moba:providesStats moba:Cruelty_Stats ;
+    moba:uniquePassive true .
+
+moba:Cull a moba:ComponentItem ;
+    rdfs:label "Cull"@en ;
+    moba:goldCost 450 ;
+    moba:itemName "Cull"^^xsd:string ;
+    moba:providesStats moba:Cull_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Provides damage and Life Steal on hit - Killing minions grant bonus Gold"@en .
+
+moba:Darksteel_Talons a moba:ComponentItem ;
+    rdfs:label "Darksteel Talons"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Darksteel Talons"^^xsd:string ;
+    moba:providesStats moba:Darksteel_Talons_Stats ;
+    moba:uniquePassive true .
+
+moba:Deaths_Daughter a moba:ComponentItem ;
+    rdfs:label "Death's Daughter"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Death's Daughter"^^xsd:string ;
+    moba:uniquePassive true ;
+    rdfs:comment "<mainText>Cannon Barrage additionally fires a mega-cannonball at the center of the Barrage, dealing <trueDamage>bonus true damage</trueDamage> and <status>Slowing</status>.</mainText>"@en .
+
+moba:Decapitator a moba:ComponentItem ;
+    rdfs:label "Decapitator"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Decapitator"^^xsd:string ;
+    moba:providesStats moba:Decapitator_Stats ;
+    moba:uniquePassive true .
+
+moba:Demon_Kings_Crown a moba:ComponentItem ;
+    rdfs:label "Demon King's Crown"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Demon King's Crown"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Demonic_Embrace a moba:ComponentItem ;
+    rdfs:label "Demonic Embrace"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Demonic Embrace"^^xsd:string ;
+    moba:providesStats moba:Demonic_Embrace_Stats ;
+    moba:uniquePassive true .
+
+moba:Detonation_Orb a moba:ComponentItem ;
+    rdfs:label "Detonation Orb"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Detonation Orb"^^xsd:string ;
+    moba:providesStats moba:Detonation_Orb_Stats ;
+    moba:uniquePassive true .
+
+moba:Diamond_Tipped_Spear a moba:ComponentItem ;
+    rdfs:label "Diamond-Tipped Spear"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Diamond-Tipped Spear"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Divine_Sunderer a moba:ComponentItem ;
+    rdfs:label "Divine Sunderer"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Divine Sunderer"^^xsd:string ;
+    moba:providesStats moba:Divine_Sunderer_Stats ;
+    moba:uniquePassive true .
+
+moba:Dorans_Blade a moba:ComponentItem ;
+    rdfs:label "Doran's Blade"@en ;
+    moba:goldCost 450 ;
+    moba:itemName "Doran's Blade"^^xsd:string ;
+    moba:providesStats moba:Dorans_Blade_Stats ;
+    rdfs:comment "Good starting item for attackers"@en .
+
+moba:Dorans_Ring a moba:ComponentItem ;
+    rdfs:label "Doran's Ring"@en ;
+    moba:goldCost 400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:ManaRestore ;
+    moba:itemName "Doran's Ring"^^xsd:string ;
+    moba:providesStats moba:Dorans_Ring_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Good starting item for casters"@en .
+
+moba:Dorans_Shield a moba:ComponentItem ;
+    rdfs:label "Doran's Shield"@en ;
+    moba:goldCost 450 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Doran's Shield"^^xsd:string ;
+    moba:providesStats moba:Dorans_Shield_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Good defensive starting item"@en .
+
+moba:Dragonheart a moba:ComponentItem ;
+    rdfs:label "Dragonheart"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Dragonheart"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Duskblade_of_Draktharr a moba:ComponentItem ;
+    rdfs:label "Duskblade of Draktharr"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Duskblade of Draktharr"^^xsd:string ;
+    moba:providesStats moba:Duskblade_of_Draktharr_Stats ;
+    moba:uniquePassive true .
+
+moba:Eleisas_Miracle a moba:ComponentItem ;
+    rdfs:label "Eleisa's Miracle"@en ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Eleisa's Miracle"^^xsd:string ;
+    moba:providesStats moba:Eleisas_Miracle_Stats ;
+    moba:uniquePassive true .
+
+moba:Elixir_of_Avarice a moba:ConsumableItem ;
+    rdfs:label "Elixir of Avarice"@en ;
+    moba:itemName "Elixir of Avarice"^^xsd:string .
+
+moba:Elixir_of_Force a moba:ConsumableItem ;
+    rdfs:label "Elixir of Force"@en ;
+    moba:itemName "Elixir of Force"^^xsd:string .
+
+moba:Elixir_of_Iron a moba:ConsumableItem ;
+    rdfs:label "Elixir of Iron"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Elixir of Iron"^^xsd:string ;
+    rdfs:comment "Temporarily increases defenses. Leaves a trail for allies to follow."@en .
+
+moba:Elixir_of_Skill a moba:ConsumableItem ;
+    rdfs:label "Elixir of Skill"@en ;
+    moba:itemName "Elixir of Skill"^^xsd:string .
+
+moba:Elixir_of_Sorcery a moba:ConsumableItem ;
+    rdfs:label "Elixir of Sorcery"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Elixir of Sorcery"^^xsd:string ;
+    rdfs:comment "Temporarily grants Ability Power and Bonus Damage to champions and turrets."@en .
+
+moba:Elixir_of_Wrath a moba:ConsumableItem ;
+    rdfs:label "Elixir of Wrath"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Elixir of Wrath"^^xsd:string ;
+    rdfs:comment "Temporarily grants Attack Damage and heals you when dealing physical damage to champions."@en .
+
+moba:Empyrean_Promise a moba:ComponentItem ;
+    rdfs:label "Empyrean Promise"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Empyrean Promise"^^xsd:string ;
+    moba:providesStats moba:Empyrean_Promise_Stats .
+
+moba:Enhanced_Lucky_Dice a moba:ComponentItem ;
+    rdfs:label "Enhanced Lucky Dice"@en ;
+    moba:itemName "Enhanced Lucky Dice"^^xsd:string .
+
+moba:Everfrost a moba:ComponentItem ;
+    rdfs:label "Everfrost"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Everfrost"^^xsd:string ;
+    moba:providesStats moba:Everfrost_Stats .
+
+moba:Eye_of_the_Herald a moba:ComponentItem ;
+    rdfs:label "Eye of the Herald"@en ;
+    moba:itemName "Eye of the Herald"^^xsd:string ;
+    rdfs:comment "Eye of the Herald - a Gift of the Void."@en .
+
+moba:Farsight_Alteration a moba:ComponentItem ;
+    rdfs:label "Farsight Alteration"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Farsight Alteration"^^xsd:string ;
+    rdfs:comment "Grants increased range and reveals the targetted area"@en .
+
+moba:Fimbulwinter a moba:ComponentItem ;
+    rdfs:label "Fimbulwinter"@en ;
+    moba:goldCost 2400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield,
+        moba:Slow ;
+    moba:itemName "Fimbulwinter"^^xsd:string ;
+    moba:providesStats moba:Fimbulwinter_Stats ;
+    moba:uniquePassive true .
+
+moba:Fire_at_Will a moba:ComponentItem ;
+    rdfs:label "Fire at Will"@en ;
+    moba:itemName "Fire at Will"^^xsd:string ;
+    moba:uniquePassive true ;
+    rdfs:comment "Cannon Barrage fires at an increasing rate over time (additional 6 waves over the duration)."@en .
+
+moba:Flesheater a moba:ComponentItem ;
+    rdfs:label "Flesheater"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Flesheater"^^xsd:string ;
+    moba:providesStats moba:Flesheater_Stats ;
+    moba:uniquePassive true .
+
+moba:Force_of_Entropy a moba:ComponentItem ;
+    rdfs:label "Force of Entropy"@en ;
+    moba:itemName "Force of Entropy"^^xsd:string ;
+    moba:providesStats moba:Force_of_Entropy_Stats ;
+    moba:uniquePassive true .
+
+moba:Fulmination a moba:ComponentItem ;
+    rdfs:label "Fulmination"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Fulmination"^^xsd:string ;
+    moba:providesStats moba:Fulmination_Stats ;
+    moba:uniquePassive true .
+
+moba:Galeforce a moba:ComponentItem ;
+    rdfs:label "Galeforce"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Galeforce"^^xsd:string ;
+    moba:providesStats moba:Galeforce_Stats .
+
+moba:Gamblers_Blade a moba:ComponentItem ;
+    rdfs:label "Gambler's Blade"@en ;
+    moba:itemName "Gambler's Blade"^^xsd:string ;
+    moba:providesStats moba:Gamblers_Blade_Stats ;
+    moba:uniquePassive true .
+
+moba:Gargoyle_Stoneplate a moba:ComponentItem ;
+    rdfs:label "Gargoyle Stoneplate"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Gargoyle Stoneplate"^^xsd:string ;
+    moba:providesStats moba:Gargoyle_Stoneplate_Stats .
+
+moba:Ghostcrawlers a moba:ComponentItem ;
+    rdfs:label "Ghostcrawlers"@en ;
+    moba:goldCost 500 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Ghostcrawlers"^^xsd:string ;
+    moba:providesStats moba:Ghostcrawlers_Stats .
+
+moba:Goredrinker a moba:ComponentItem ;
+    rdfs:label "Goredrinker"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Goredrinker"^^xsd:string ;
+    moba:providesStats moba:Goredrinker_Stats .
+
+moba:Guardians_Amulet a moba:ComponentItem ;
+    rdfs:label "Guardian's Amulet"@en ;
+    moba:goldCost 500 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:ManaRestore ;
+    moba:itemName "Guardian's Amulet"^^xsd:string ;
+    moba:providesStats moba:Guardians_Amulet_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Health and provides Stealth Wards over time"@en .
+
+moba:Guardians_Blade a moba:ComponentItem ;
+    rdfs:label "Guardian's Blade"@en ;
+    moba:goldCost 950 ;
+    moba:itemName "Guardian's Blade"^^xsd:string ;
+    moba:providesStats moba:Guardians_Blade_Stats ;
+    rdfs:comment "Good starting item for attackers"@en .
+
+moba:Guardians_Dirk a moba:ComponentItem ;
+    rdfs:label "Guardian's Dirk"@en ;
+    moba:goldCost 500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Guardian's Dirk"^^xsd:string ;
+    moba:providesStats moba:Guardians_Dirk_Stats ;
+    moba:uniquePassive true .
+
+moba:Guardians_Hammer a moba:ComponentItem ;
+    rdfs:label "Guardian's Hammer"@en ;
+    moba:goldCost 950 ;
+    moba:itemName "Guardian's Hammer"^^xsd:string ;
+    moba:providesStats moba:Guardians_Hammer_Stats ;
+    rdfs:comment "Good starting item for attackers"@en .
+
+moba:Guardians_Horn a moba:ComponentItem ;
+    rdfs:label "Guardian's Horn"@en ;
+    moba:goldCost 950 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Guardian's Horn"^^xsd:string ;
+    moba:providesStats moba:Guardians_Horn_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Good starting item for tanks"@en .
+
+moba:Guardians_Orb a moba:ComponentItem ;
+    rdfs:label "Guardian's Orb"@en ;
+    moba:goldCost 950 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Guardian's Orb"^^xsd:string ;
+    moba:providesStats moba:Guardians_Orb_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Good starting item for mages"@en .
+
+moba:Guardians_Shroud a moba:ComponentItem ;
+    rdfs:label "Guardian's Shroud"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Guardian's Shroud"^^xsd:string ;
+    moba:providesStats moba:Guardians_Shroud_Stats .
+
+moba:Gusto a moba:ComponentItem ;
+    rdfs:label "Gusto"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Gusto"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Gustwalker_Hatchling a moba:ComponentItem ;
+    rdfs:label "Gustwalker Hatchling"@en ;
+    moba:goldCost 450 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:itemName "Gustwalker Hatchling"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Hamstringer a moba:ComponentItem ;
+    rdfs:label "Hamstringer"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Hamstringer"^^xsd:string ;
+    moba:providesStats moba:Hamstringer_Stats ;
+    moba:uniquePassive true .
+
+moba:Health_Potion a moba:ConsumableItem ;
+    rdfs:label "Health Potion"@en ;
+    moba:goldCost 50 ;
+    moba:itemName "Health Potion"^^xsd:string ;
+    rdfs:comment "Consume to restore Health over time"@en .
+
+moba:Hellfire_Hatchet a moba:ComponentItem ;
+    rdfs:label "Hellfire Hatchet"@en ;
+    moba:goldCost 2500 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Hellfire Hatchet"^^xsd:string ;
+    moba:providesStats moba:Hellfire_Hatchet_Stats ;
+    moba:uniquePassive true .
+
+moba:Hemomancers_Helm a moba:ComponentItem ;
+    rdfs:label "Hemomancer's Helm"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Hemomancer's Helm"^^xsd:string ;
+    moba:providesStats moba:Hemomancers_Helm_Stats ;
+    moba:uniquePassive true .
+
+moba:Hexbolt_Companion a moba:ComponentItem ;
+    rdfs:label "Hexbolt Companion"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Hexbolt Companion"^^xsd:string ;
+    moba:providesStats moba:Hexbolt_Companion_Stats ;
+    moba:uniquePassive true .
+
+moba:Hextech_Gunblade a moba:ComponentItem ;
+    rdfs:label "Hextech Gunblade"@en ;
+    moba:goldCost 2500 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Hextech Gunblade"^^xsd:string ;
+    moba:providesStats moba:Hextech_Gunblade_Stats .
+
+moba:Innervating_Locket a moba:ComponentItem ;
+    rdfs:label "Innervating Locket"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "Innervating Locket"^^xsd:string ;
+    moba:providesStats moba:Innervating_Locket_Stats ;
+    moba:uniquePassive true .
+
+moba:Juice_of_Haste a moba:ConsumableItem ;
+    rdfs:label "Juice of Haste"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Juice of Haste"^^xsd:string .
+
+moba:Juice_of_Power a moba:ConsumableItem ;
+    rdfs:label "Juice of Power"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Juice of Power"^^xsd:string .
+
+moba:Juice_of_Vitality a moba:ConsumableItem ;
+    rdfs:label "Juice of Vitality"@en ;
+    moba:goldCost 500 ;
+    moba:itemName "Juice of Vitality"^^xsd:string .
+
+moba:Kinkou_Jitte a moba:ComponentItem ;
+    rdfs:label "Kinkou Jitte"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Kinkou Jitte"^^xsd:string ;
+    moba:providesStats moba:Kinkou_Jitte_Stats ;
+    moba:uniquePassive true .
+
+moba:Lane_Swap_Detector a moba:ComponentItem ;
+    rdfs:label "Lane Swap Detector"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Lane Swap Detector"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Legendary_Assassin_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Assassin Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Assassin Item"^^xsd:string .
+
+moba:Legendary_Fighter_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Fighter Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Fighter Item"^^xsd:string .
+
+moba:Legendary_Mage_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Mage Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Mage Item"^^xsd:string .
+
+moba:Legendary_Marksman_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Marksman Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Marksman Item"^^xsd:string .
+
+moba:Legendary_Support_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Support Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Support Item"^^xsd:string .
+
+moba:Legendary_Tank_Item a moba:ConsumableItem ;
+    rdfs:label "Legendary Tank Item"@en ;
+    moba:goldCost 2000 ;
+    moba:itemName "Legendary Tank Item"^^xsd:string .
+
+moba:Lightning_Rod a moba:ComponentItem ;
+    rdfs:label "Lightning Rod"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield,
+        moba:Slow ;
+    moba:itemName "Lightning Rod"^^xsd:string ;
+    moba:providesStats moba:Lightning_Rod_Stats ;
+    moba:uniquePassive true .
+
+moba:Lucky_Dice a moba:ComponentItem ;
+    rdfs:label "Lucky Dice"@en ;
+    moba:itemName "Lucky Dice"^^xsd:string .
+
+moba:Mirage_Blade a moba:ComponentItem ;
+    rdfs:label "Mirage Blade"@en ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Mirage Blade"^^xsd:string ;
+    moba:providesStats moba:Mirage_Blade_Stats ;
+    moba:uniquePassive true .
+
+moba:Moonflair_Spellblade a moba:ComponentItem ;
+    rdfs:label "Moonflair Spellblade"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Moonflair Spellblade"^^xsd:string ;
+    moba:providesStats moba:Moonflair_Spellblade_Stats ;
+    moba:uniquePassive true .
+
+moba:Mosstomper_Seedling a moba:ComponentItem ;
+    rdfs:label "Mosstomper Seedling"@en ;
+    moba:goldCost 450 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:itemName "Mosstomper Seedling"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Muramana a moba:ComponentItem ;
+    rdfs:label "Muramana"@en ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Muramana"^^xsd:string ;
+    moba:providesStats moba:Muramana_Stats ;
+    moba:uniquePassive true .
+
+moba:Night_Harvester a moba:ComponentItem ;
+    rdfs:label "Night Harvester"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Night Harvester"^^xsd:string ;
+    moba:providesStats moba:Night_Harvester_Stats ;
+    moba:uniquePassive true .
+
+moba:Ohmwrecker_Turret_Item a moba:ComponentItem ;
+    rdfs:label "Ohmwrecker (Turret Item)"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Ohmwrecker (Turret Item)"^^xsd:string ;
+    moba:providesStats moba:Ohmwrecker_Turret_Item_Stats ;
+    moba:uniquePassive true .
+
+moba:Oracle_Lens a moba:ComponentItem ;
+    rdfs:label "Oracle Lens"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Oracle Lens"^^xsd:string ;
+    rdfs:comment "Disables nearby invisible wards and traps for a duration"@en .
+
+moba:Overcharged a moba:ComponentItem ;
+    rdfs:label "Overcharged"@en ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Overcharged"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Perplexity a moba:ComponentItem ;
+    rdfs:label "Perplexity"@en ;
+    moba:goldCost 2500 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Perplexity"^^xsd:string ;
+    moba:providesStats moba:Perplexity_Stats ;
+    moba:uniquePassive true .
+
+moba:Phreakish_Gusto a moba:ComponentItem ;
+    rdfs:label "Phreakish Gusto"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Phreakish Gusto"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Poro_Snax a moba:ComponentItem ;
+    rdfs:label "Poro-Snax"@en ;
+    moba:itemName "Poro-Snax"^^xsd:string .
+
+moba:Prismatic_Item a moba:ConsumableItem ;
+    rdfs:label "Prismatic Item"@en ;
+    moba:goldCost 4000 ;
+    moba:itemName "Prismatic Item"^^xsd:string .
+
+moba:Prowlers_Claw a moba:ComponentItem ;
+    rdfs:label "Prowler's Claw"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Prowler's Claw"^^xsd:string ;
+    moba:providesStats moba:Prowlers_Claw_Stats ;
+    moba:uniquePassive true .
+
+moba:Puppeteer a moba:ComponentItem ;
+    rdfs:label "Puppeteer"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "Puppeteer"^^xsd:string ;
+    moba:providesStats moba:Puppeteer_Stats ;
+    moba:uniquePassive true .
+
+moba:Pyromancers_Cloak a moba:ComponentItem ;
+    rdfs:label "Pyromancer's Cloak"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Pyromancer's Cloak"^^xsd:string ;
+    moba:providesStats moba:Pyromancers_Cloak_Stats ;
+    moba:uniquePassive true .
+
+moba:Radiant_Virtue a moba:ComponentItem ;
+    rdfs:label "Radiant Virtue"@en ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Radiant Virtue"^^xsd:string ;
+    moba:providesStats moba:Radiant_Virtue_Stats ;
+    moba:uniquePassive true .
+
+moba:Raise_Morale a moba:ComponentItem ;
+    rdfs:label "Raise Morale"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Raise Morale"^^xsd:string ;
+    moba:uniquePassive true ;
+    rdfs:comment "Allies in the Cannon Barrage gain <speed>bonus Move Speed</speed>."@en .
+
+moba:Reality_Fracture a moba:ComponentItem ;
+    rdfs:label "Reality Fracture"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Reality Fracture"^^xsd:string ;
+    moba:providesStats moba:Reality_Fracture_Stats ;
+    moba:uniquePassive true .
+
+moba:Reapers_Toll a moba:ComponentItem ;
+    rdfs:label "Reaper's Toll"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Reaper's Toll"^^xsd:string ;
+    moba:providesStats moba:Reapers_Toll_Stats ;
+    moba:uniquePassive true .
+
+moba:Refillable_Potion a moba:ConsumableItem ;
+    rdfs:label "Refillable Potion"@en ;
+    moba:goldCost 150 ;
+    moba:itemName "Refillable Potion"^^xsd:string ;
+    moba:uniquePassive true ;
+    rdfs:comment "Restores Health over time. Refills at shop."@en .
+
+moba:Regicide a moba:ComponentItem ;
+    rdfs:label "Regicide"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Regicide"^^xsd:string ;
+    moba:providesStats moba:Regicide_Stats ;
+    moba:uniquePassive true .
+
+moba:Reinforced_Armor_Turret_Item a moba:ComponentItem ;
+    rdfs:label "Reinforced Armor (Turret Item)"@en ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Reinforced Armor (Turret Item)"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Reverberation a moba:ComponentItem ;
+    rdfs:label "Reverberation"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Reverberation"^^xsd:string ;
+    moba:providesStats moba:Reverberation_Stats ;
+    moba:uniquePassive true .
+
+moba:Rite_of_Ruin a moba:ComponentItem ;
+    rdfs:label "Rite of Ruin"@en ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Shield ;
+    moba:itemName "Rite of Ruin"^^xsd:string ;
+    moba:providesStats moba:Rite_of_Ruin_Stats ;
+    moba:uniquePassive true .
+
+moba:Runecarver a moba:ComponentItem ;
+    rdfs:label "Runecarver"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Runecarver"^^xsd:string ;
+    moba:providesStats moba:Runecarver_Stats ;
+    moba:uniquePassive true .
+
+moba:Runic_Compass a moba:ComponentItem ;
+    rdfs:label "Runic Compass"@en ;
+    moba:goldCost 400 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Runic Compass"^^xsd:string ;
+    moba:providesStats moba:Runic_Compass_Stats ;
+    moba:uniquePassive true .
+
+moba:Sanguine_Gift a moba:ComponentItem ;
+    rdfs:label "Sanguine Gift"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Sanguine Gift"^^xsd:string ;
+    moba:providesStats moba:Sanguine_Gift_Stats ;
+    moba:uniquePassive true .
+
+moba:Scarecrow_Effigy a moba:ComponentItem ;
+    rdfs:label "Scarecrow Effigy"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Scarecrow Effigy"^^xsd:string ;
+    rdfs:comment "Periodically place a Stealth Ward"@en .
+
+moba:Scorchclaw_Pup a moba:ComponentItem ;
+    rdfs:label "Scorchclaw Pup"@en ;
+    moba:goldCost 450 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:itemName "Scorchclaw Pup"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Seraphs_Embrace a moba:ComponentItem ;
+    rdfs:label "Seraph's Embrace"@en ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Seraph's Embrace"^^xsd:string ;
+    moba:providesStats moba:Seraphs_Embrace_Stats ;
+    moba:uniquePassive true .
+
+moba:Shield_of_Molten_Stone a moba:ComponentItem ;
+    rdfs:label "Shield of Molten Stone"@en ;
+    moba:itemName "Shield of Molten Stone"^^xsd:string ;
+    moba:providesStats moba:Shield_of_Molten_Stone_Stats ;
+    moba:uniquePassive true .
+
+moba:Slightly_Magical_Boots a moba:ComponentItem ;
+    rdfs:label "Slightly Magical Boots"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Slightly Magical Boots"^^xsd:string ;
+    moba:providesStats moba:Slightly_Magical_Boots_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Berserkers_Greaves,
+        moba:Boots_of_Swiftness,
+        moba:Ionian_Boots_of_Lucidity,
+        moba:Mercurys_Treads,
+        moba:Plated_Steelcaps,
+        moba:Sorcerers_Shoes .
+
+moba:Spectral_Cutlass a moba:ComponentItem ;
+    rdfs:label "Spectral Cutlass"@en ;
+    moba:goldCost 2800 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Spectral Cutlass"^^xsd:string ;
+    moba:providesStats moba:Spectral_Cutlass_Stats .
+
+moba:Stat_Bonus a moba:ConsumableItem ;
+    rdfs:label "Stat Bonus"@en ;
+    moba:goldCost 750 ;
+    moba:itemName "Stat Bonus"^^xsd:string .
+
+moba:Stealth_Ward a moba:ConsumableItem ;
+    rdfs:label "Stealth Ward"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Stealth Ward"^^xsd:string ;
+    rdfs:comment "Periodically place a Stealth Ward"@en .
+
+moba:Stormrazor a moba:ComponentItem ;
+    rdfs:label "Stormrazor"@en ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Stormrazor"^^xsd:string ;
+    moba:providesStats moba:Stormrazor_Stats ;
+    moba:uniquePassive true .
+
+moba:Super_Mech_Armor a moba:ComponentItem ;
+    rdfs:label "Super Mech Armor"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Super Mech Armor"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Super_Mech_Power_Field a moba:ComponentItem ;
+    rdfs:label "Super Mech Power Field"@en ;
+    moba:itemName "Super Mech Power Field"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Sword_of_Blossoming_Dawn a moba:ComponentItem ;
+    rdfs:label "Sword of Blossoming Dawn"@en ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "Sword of Blossoming Dawn"^^xsd:string ;
+    moba:providesStats moba:Sword_of_Blossoming_Dawn_Stats ;
+    moba:uniquePassive true .
+
+moba:Sword_of_the_Divine a moba:ComponentItem ;
+    rdfs:label "Sword of the Divine"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Sword of the Divine"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Talisman_of_Ascension a moba:ComponentItem ;
+    rdfs:label "Talisman of Ascension"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Talisman of Ascension"^^xsd:string .
+
+moba:The_Golden_Spatula a moba:ComponentItem ;
+    rdfs:label "The Golden Spatula"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "The Golden Spatula"^^xsd:string ;
+    moba:providesStats moba:The_Golden_Spatula_Stats ;
+    moba:uniquePassive true .
+
+moba:Total_Biscuit_of_Everlasting_Will a moba:ComponentItem ;
+    rdfs:label "Total Biscuit of Everlasting Will"@en ;
+    moba:itemName "Total Biscuit of Everlasting Will"^^xsd:string .
+
+moba:Turbo_Chemtank a moba:ComponentItem ;
+    rdfs:label "Turbo Chemtank"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Turbo Chemtank"^^xsd:string ;
+    moba:providesStats moba:Turbo_Chemtank_Stats .
+
+moba:Turret_Plating a moba:ComponentItem ;
+    rdfs:label "Turret Plating"@en ;
+    moba:itemName "Turret Plating"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Twilights_Edge a moba:ComponentItem ;
+    rdfs:label "Twilight's Edge"@en ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Twilight's Edge"^^xsd:string ;
+    moba:providesStats moba:Twilights_Edge_Stats ;
+    moba:uniquePassive true .
+
+moba:Twin_Mask a moba:ComponentItem ;
+    rdfs:label "Twin Mask"@en ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Twin Mask"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Wardens_Eye a moba:ConsumableItem ;
+    rdfs:label "Warden's Eye"@en ;
+    moba:itemName "Warden's Eye"^^xsd:string ;
+    moba:uniquePassive true .
+
+moba:Wooglets_Witchcap a moba:ComponentItem ;
+    rdfs:label "Wooglet's Witchcap"@en ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Wooglet's Witchcap"^^xsd:string ;
+    moba:providesStats moba:Wooglets_Witchcap_Stats ;
+    moba:uniquePassive true .
+
+moba:Wordless_Promise a moba:ComponentItem ;
+    rdfs:label "Wordless Promise"@en ;
+    moba:goldCost 2500 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Wordless Promise"^^xsd:string ;
+    moba:providesStats moba:Wordless_Promise_Stats ;
+    moba:uniquePassive true .
+
+moba:World_Atlas a moba:ComponentItem ;
+    rdfs:label "World Atlas"@en ;
+    moba:goldCost 400 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "World Atlas"^^xsd:string ;
+    moba:providesStats moba:World_Atlas_Stats ;
+    moba:uniquePassive true .
+
+moba:Your_Cut a moba:ComponentItem ;
+    rdfs:label "Your Cut"@en ;
+    moba:itemName "Your Cut"^^xsd:string .
+
+moba:Abyssal_Mask_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMagicResist "45.0"^^xsd:float .
+
+moba:Aegis_of_the_Legion_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Aether_Wisp_Stats a moba:Stats ;
+    moba:hasAbilityPower "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Amplifying_Tome_Stats a moba:Stats ;
+    moba:hasAbilityPower "20.0"^^xsd:float .
+
+moba:Anathemas_Chains_Stats a moba:Stats ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "650.0"^^xsd:float .
+
+moba:Archangels_Staff_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Ardent_Censer_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Armored_Advance a moba:AdvancedItem ;
+    rdfs:label "Armored Advance"@en ;
+    moba:buildPath moba:Plated_Steelcaps ;
+    moba:goldCost 1700 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Armored Advance"^^xsd:string ;
+    moba:providesStats moba:Armored_Advance_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Deal damage to empower your heals and shields"@en .
+
+moba:Armored_Advance_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float ;
+    moba:hasMovementSpeed "50.0"^^xsd:float .
+
+moba:Atmas_Reckoning_Stats a moba:Stats ;
+    moba:hasHealth "700.0"^^xsd:float .
+
+moba:Axiom_Arc_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:B_F_Sword_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float .
+
+moba:Bamis_Cinder_Stats a moba:Stats ;
+    moba:hasCooldownReduction "5.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Bandleglass_Mirror_Stats a moba:Stats ;
+    moba:hasAbilityPower "20.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasManaRegen "100.0"^^xsd:float .
+
+moba:Banshees_Veil_Stats a moba:Stats ;
+    moba:hasAbilityPower "105.0"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float .
+
+moba:Berserkers_Greaves_Stats a moba:Stats ;
+    moba:hasMovementSpeed "45.0"^^xsd:float .
+
+moba:Black_Cleaver_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Black_Hole_Gauntlet_Stats a moba:Stats ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasHealth "900.0"^^xsd:float .
+
+moba:Blackfire_Torch_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Blade_of_the_Ruined_King_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float .
+
+moba:Blasting_Wand_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float .
+
+moba:Blighting_Jewel_Stats a moba:Stats ;
+    moba:hasAbilityPower "25.0"^^xsd:float ;
+    moba:hasMagicPenetration "13.0"^^xsd:float .
+
+moba:Bloodletters_Curse_Stats a moba:Stats ;
+    moba:hasAbilityPower "65.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Bloodsong a moba:AdvancedItem ;
+    rdfs:label "Bloodsong"@en ;
+    moba:buildPath moba:Bounty_of_Worlds ;
+    moba:goldCost 400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Bloodsong"^^xsd:string ;
+    moba:providesStats moba:Bloodsong_Stats ;
+    moba:uniquePassive true .
+
+moba:Bloodsong_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Bloodthirster_Stats a moba:Stats ;
+    moba:hasAttackDamage "80.0"^^xsd:float .
+
+moba:Boots_Stats a moba:Stats ;
+    moba:hasMovementSpeed "25.0"^^xsd:float .
+
+moba:Boots_of_Swiftness_Stats a moba:Stats ;
+    moba:hasMovementSpeed "55.0"^^xsd:float .
+
+moba:Bounty_of_Worlds_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Bramble_Vest_Stats a moba:Stats ;
+    moba:hasArmor "30.0"^^xsd:float .
+
+moba:Catalyst_of_Aeons_Stats a moba:Stats ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMana "375.0"^^xsd:float .
+
+moba:Caulfields_Warhammer_Stats a moba:Stats ;
+    moba:hasAttackDamage "20.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Celestial_Opposition a moba:AdvancedItem ;
+    rdfs:label "Celestial Opposition"@en ;
+    moba:buildPath moba:Bounty_of_Worlds ;
+    moba:goldCost 400 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Celestial Opposition"^^xsd:string ;
+    moba:providesStats moba:Celestial_Opposition_Stats ;
+    moba:uniquePassive true .
+
+moba:Celestial_Opposition_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Chain_Vest_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float .
+
+moba:Chainlaced_Crushers a moba:AdvancedItem ;
+    rdfs:label "Chainlaced Crushers"@en ;
+    moba:buildPath moba:Mercurys_Treads ;
+    moba:goldCost 1750 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Chainlaced Crushers"^^xsd:string ;
+    moba:providesStats moba:Chainlaced_Crushers_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Move Speed and Cooldown Reduction"@en .
+
+moba:Chainlaced_Crushers_Stats a moba:Stats ;
+    moba:hasMagicResist "35.0"^^xsd:float ;
+    moba:hasMovementSpeed "50.0"^^xsd:float ;
+    moba:hasTenacity "30.0"^^xsd:float .
+
+moba:Chempunk_Chainsword_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "450.0"^^xsd:float .
+
+moba:Cloak_of_Starry_Night_Stats a moba:Stats ;
+    moba:hasHealth "300.0"^^xsd:float ;
+    moba:hasMagicResist "100.0"^^xsd:float .
+
+moba:Cloth_Armor_Stats a moba:Stats ;
+    moba:hasArmor "15.0"^^xsd:float .
+
+moba:Cosmic_Drive_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Crimson_Lucidity a moba:AdvancedItem ;
+    rdfs:label "Crimson Lucidity"@en ;
+    moba:buildPath moba:Ionian_Boots_of_Lucidity ;
+    moba:goldCost 1400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "Crimson Lucidity"^^xsd:string ;
+    moba:providesStats moba:Crimson_Lucidity_Stats ;
+    moba:uniquePassive true .
+
+moba:Crimson_Lucidity_Stats a moba:Stats ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasMovementSpeed "50.0"^^xsd:float .
+
+moba:Crown_of_the_Shattered_Queen_Stats a moba:Stats ;
+    moba:hasAbilityPower "85.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Cruelty_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasArmor "30.0"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float .
+
+moba:Cryptbloom_Stats a moba:Stats ;
+    moba:hasAbilityPower "75.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasMagicPenetration "30.0"^^xsd:float .
+
+moba:Crystalline_Bracer_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float .
+
+moba:Cull_Stats a moba:Stats ;
+    moba:hasAttackDamage "7.0"^^xsd:float .
+
+moba:Dark_Seal a moba:ComponentItem ;
+    rdfs:label "Dark Seal"@en ;
+    moba:goldCost 350 ;
+    moba:itemName "Dark Seal"^^xsd:string ;
+    moba:providesStats moba:Dark_Seal_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Mejais_Soulstealer ;
+    rdfs:comment "Provides Ability Power and Mana.  Increases in power as you kill enemies."@en .
+
+moba:Dark_Seal_Stats a moba:Stats ;
+    moba:hasAbilityPower "15.0"^^xsd:float ;
+    moba:hasHealth "50.0"^^xsd:float .
+
+moba:Darksteel_Talons_Stats a moba:Stats ;
+    moba:hasArmor "55.0"^^xsd:float ;
+    moba:hasMovementSpeed "10.0"^^xsd:float .
+
+moba:Dawncore_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float ;
+    moba:hasManaRegen "100.0"^^xsd:float .
+
+moba:Dead_Mans_Plate_Stats a moba:Stats ;
+    moba:hasArmor "55.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Deaths_Dance_Stats a moba:Stats ;
+    moba:hasArmor "50.0"^^xsd:float ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Decapitator_Stats a moba:Stats ;
+    moba:hasMovementSpeed "12.0"^^xsd:float .
+
+moba:Demonic_Embrace_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasHealth "700.0"^^xsd:float .
+
+moba:Detonation_Orb_Stats a moba:Stats ;
+    moba:hasAbilityPower "90.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasMagicPenetration "12.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Divine_Sunderer_Stats a moba:Stats ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Dorans_Blade_Stats a moba:Stats ;
+    moba:hasAttackDamage "10.0"^^xsd:float ;
+    moba:hasHealth "80.0"^^xsd:float .
+
+moba:Dorans_Ring_Stats a moba:Stats ;
+    moba:hasAbilityPower "18.0"^^xsd:float ;
+    moba:hasHealth "90.0"^^xsd:float .
+
+moba:Dorans_Shield_Stats a moba:Stats ;
+    moba:hasHealth "110.0"^^xsd:float .
+
+moba:Dream_Maker a moba:AdvancedItem ;
+    rdfs:label "Dream Maker"@en ;
+    moba:buildPath moba:Bounty_of_Worlds ;
+    moba:goldCost 400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Dream Maker"^^xsd:string ;
+    moba:providesStats moba:Dream_Maker_Stats ;
+    moba:uniquePassive true .
+
+moba:Dream_Maker_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Duskblade_of_Draktharr_Stats a moba:Stats ;
+    moba:hasArmorPenetration "20.0"^^xsd:float ;
+    moba:hasAttackDamage "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:Echoes_of_Helia_Stats a moba:Stats ;
+    moba:hasAbilityPower "35.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float .
+
+moba:Eclipse_Stats a moba:Stats ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Edge_of_Night_Stats a moba:Stats ;
+    moba:hasArmorPenetration "15.0"^^xsd:float ;
+    moba:hasAttackDamage "50.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float .
+
+moba:Eleisas_Miracle_Stats a moba:Stats ;
+    moba:hasArmor "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasMagicResist "50.0"^^xsd:float .
+
+moba:Empyrean_Promise_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "30.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float .
+
+moba:Essence_Reaver_Stats a moba:Stats ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Everfrost_Stats a moba:Stats ;
+    moba:hasAbilityPower "100.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Executioners_Calling_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float .
+
+moba:Experimental_Hexplate_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasHealth "450.0"^^xsd:float .
+
+moba:Faerie_Charm_Stats a moba:Stats ;
+    moba:hasManaRegen "50.0"^^xsd:float .
+
+moba:Fated_Ashes_Stats a moba:Stats ;
+    moba:hasAbilityPower "30.0"^^xsd:float .
+
+moba:Fiendish_Codex_Stats a moba:Stats ;
+    moba:hasAbilityPower "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Fimbulwinter_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "550.0"^^xsd:float ;
+    moba:hasMana "860.0"^^xsd:float .
+
+moba:Flesheater_Stats a moba:Stats ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "500.0"^^xsd:float .
+
+moba:Forbidden_Idol_Stats a moba:Stats ;
+    moba:hasManaRegen "50.0"^^xsd:float .
+
+moba:Force_of_Entropy_Stats a moba:Stats ;
+    moba:hasCooldownReduction "30.0"^^xsd:float ;
+    moba:hasHealth "900.0"^^xsd:float .
+
+moba:Force_of_Nature_Stats a moba:Stats ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasMagicResist "55.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Forever_Forward a moba:ConsumableItem ;
+    rdfs:label "Forever Forward"@en ;
+    moba:buildPath moba:Synchronized_Souls ;
+    moba:goldCost 1400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Forever Forward"^^xsd:string ;
+    moba:providesStats moba:Forever_Forward_Stats ;
+    moba:uniquePassive true .
+
+moba:Forever_Forward_Stats a moba:Stats ;
+    moba:hasMovementSpeed "55.0"^^xsd:float .
+
+moba:Frozen_Heart_Stats a moba:Stats ;
+    moba:hasArmor "75.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasMana "400.0"^^xsd:float .
+
+moba:Fulmination_Stats a moba:Stats ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasMovementSpeed "15.0"^^xsd:float .
+
+moba:Galeforce_Stats a moba:Stats ;
+    moba:hasAttackDamage "65.0"^^xsd:float ;
+    moba:hasMovementSpeed "12.0"^^xsd:float .
+
+moba:Gamblers_Blade_Stats a moba:Stats ;
+    moba:hasCooldownReduction "40.0"^^xsd:float ;
+    moba:hasMovementSpeed "8.0"^^xsd:float .
+
+moba:Gargoyle_Stoneplate_Stats a moba:Stats ;
+    moba:hasArmor "65.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasMagicResist "65.0"^^xsd:float ;
+    moba:hasMovementSpeed "10.0"^^xsd:float .
+
+moba:Ghostcrawlers_Stats a moba:Stats ;
+    moba:hasMovementSpeed "70.0"^^xsd:float .
+
+moba:Giants_Belt_Stats a moba:Stats ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Glacial_Buckler_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMana "300.0"^^xsd:float .
+
+moba:Glowing_Mote_Stats a moba:Stats ;
+    moba:hasCooldownReduction "5.0"^^xsd:float .
+
+moba:Goredrinker_Stats a moba:Stats ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Guardian_Angel_Stats a moba:Stats ;
+    moba:hasArmor "45.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float .
+
+moba:Guardians_Amulet_Stats a moba:Stats ;
+    moba:hasAbilityPower "20.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:Guardians_Blade_Stats a moba:Stats ;
+    moba:hasAttackDamage "30.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Guardians_Dirk_Stats a moba:Stats ;
+    moba:hasArmorPenetration "11.0"^^xsd:float ;
+    moba:hasAttackDamage "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Guardians_Hammer_Stats a moba:Stats ;
+    moba:hasAttackDamage "25.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Guardians_Horn_Stats a moba:Stats ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Guardians_Orb_Stats a moba:Stats ;
+    moba:hasAbilityPower "50.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Guardians_Shroud_Stats a moba:Stats ;
+    moba:hasAbilityPower "35.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Guinsoos_Rageblade_Stats a moba:Stats ;
+    moba:hasAbilityPower "30.0"^^xsd:float ;
+    moba:hasAttackDamage "30.0"^^xsd:float .
+
+moba:Hamstringer_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float .
+
+moba:Haunting_Guise_Stats a moba:Stats ;
+    moba:hasAbilityPower "30.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float .
+
+moba:Hearthbound_Axe_Stats a moba:Stats ;
+    moba:hasAttackDamage "20.0"^^xsd:float .
+
+moba:Heartsteel_Stats a moba:Stats ;
+    moba:hasHealth "900.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float .
+
+moba:Hellfire_Hatchet_Stats a moba:Stats ;
+    moba:hasArmorPenetration "12.0"^^xsd:float ;
+    moba:hasAttackDamage "35.0"^^xsd:float .
+
+moba:Hemomancers_Helm_Stats a moba:Stats ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "30.0"^^xsd:float .
+
+moba:Hexbolt_Companion_Stats a moba:Stats ;
+    moba:hasHealth "500.0"^^xsd:float .
+
+moba:Hexdrinker_Stats a moba:Stats ;
+    moba:hasAttackDamage "25.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Hextech_Alternator_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float .
+
+moba:Hextech_Gunblade_Stats a moba:Stats ;
+    moba:hasAbilityPower "90.0"^^xsd:float ;
+    moba:hasAttackDamage "45.0"^^xsd:float .
+
+moba:Hextech_Rocketbelt_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Hollow_Radiance_Stats a moba:Stats ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float .
+
+moba:Horizon_Focus_Stats a moba:Stats ;
+    moba:hasAbilityPower "115.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float .
+
+moba:Hubris_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Hullbreaker_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasHealth "500.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Iceborn_Gauntlet_Stats a moba:Stats ;
+    moba:hasArmor "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Immortal_Shieldbow_Stats a moba:Stats ;
+    moba:hasAttackDamage "55.0"^^xsd:float .
+
+moba:Imperial_Mandate_Stats a moba:Stats ;
+    moba:hasAbilityPower "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float .
+
+moba:Infinity_Edge_Stats a moba:Stats ;
+    moba:hasAttackDamage "65.0"^^xsd:float .
+
+moba:Innervating_Locket_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float .
+
+moba:Ionian_Boots_of_Lucidity_Stats a moba:Stats ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMovementSpeed "45.0"^^xsd:float .
+
+moba:JakSho_The_Protean_Stats a moba:Stats ;
+    moba:hasArmor "45.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMagicResist "45.0"^^xsd:float .
+
+moba:Kaenic_Rookern_Stats a moba:Stats ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float ;
+    moba:hasMagicResist "80.0"^^xsd:float .
+
+moba:Kindlegem_Stats a moba:Stats ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float .
+
+moba:Kinkou_Jitte_Stats a moba:Stats ;
+    moba:hasCooldownReduction "30.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Knights_Vow_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float .
+
+moba:Kraken_Slayer_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Last_Whisper_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "20.0"^^xsd:float .
+
+moba:Liandrys_Torment_Stats a moba:Stats ;
+    moba:hasAbilityPower "60.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Lich_Bane_Stats a moba:Stats ;
+    moba:hasAbilityPower "100.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Lifeline_Stats a moba:Stats ;
+    moba:hasArmorPenetration "5.0"^^xsd:float ;
+    moba:hasAttackDamage "25.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Lightning_Rod_Stats a moba:Stats ;
+    moba:hasArmor "30.0"^^xsd:float ;
+    moba:hasHealth "500.0"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "8.0"^^xsd:float .
+
+moba:Locket_of_the_Iron_Solari_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Long_Sword_Stats a moba:Stats ;
+    moba:hasAttackDamage "10.0"^^xsd:float .
+
+moba:Lord_Dominiks_Regards_Stats a moba:Stats ;
+    moba:hasArmorPenetration "40.0"^^xsd:float ;
+    moba:hasAttackDamage "35.0"^^xsd:float .
+
+moba:Lost_Chapter_Stats a moba:Stats ;
+    moba:hasAbilityPower "40.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMana "300.0"^^xsd:float .
+
+moba:Ludens_Companion_Stats a moba:Stats ;
+    moba:hasAbilityPower "100.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Malignance_Stats a moba:Stats ;
+    moba:hasAbilityPower "90.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasMana "600.0"^^xsd:float .
+
+moba:Manamune_Stats a moba:Stats ;
+    moba:hasAttackDamage "35.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasMana "500.0"^^xsd:float .
+
+moba:Maw_of_Malmortius_Stats a moba:Stats ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float .
+
+moba:Mejais_Soulstealer a moba:AdvancedItem ;
+    rdfs:label "Mejai's Soulstealer"@en ;
+    moba:buildPath moba:Dark_Seal ;
+    moba:goldCost 1500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Mejai's Soulstealer"^^xsd:string ;
+    moba:providesStats moba:Mejais_Soulstealer_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants Ability Power for kills and assists"@en .
+
+moba:Mejais_Soulstealer_Stats a moba:Stats ;
+    moba:hasAbilityPower "20.0"^^xsd:float ;
+    moba:hasHealth "100.0"^^xsd:float .
+
+moba:Mercurial_Scimitar_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float .
+
+moba:Mercurys_Treads_Stats a moba:Stats ;
+    moba:hasMagicResist "20.0"^^xsd:float ;
+    moba:hasMovementSpeed "45.0"^^xsd:float ;
+    moba:hasTenacity "30.0"^^xsd:float .
+
+moba:Mikaels_Blessing_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float ;
+    moba:hasManaRegen "100.0"^^xsd:float .
+
+moba:Mirage_Blade_Stats a moba:Stats ;
+    moba:hasMovementSpeed "12.0"^^xsd:float .
+
+moba:Moonflair_Spellblade_Stats a moba:Stats ;
+    moba:hasAbilityPower "85.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasTenacity "30.0"^^xsd:float .
+
+moba:Moonstone_Renewer_Stats a moba:Stats ;
+    moba:hasAbilityPower "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float .
+
+moba:Morellonomicon_Stats a moba:Stats ;
+    moba:hasAbilityPower "75.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Mortal_Reminder_Stats a moba:Stats ;
+    moba:hasArmorPenetration "35.0"^^xsd:float ;
+    moba:hasAttackDamage "35.0"^^xsd:float .
+
+moba:Muramana_Stats a moba:Stats ;
+    moba:hasAttackDamage "35.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasMana "860.0"^^xsd:float .
+
+moba:Nashors_Tooth_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Navori_Flickerblade_Stats a moba:Stats ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Needlessly_Large_Rod_Stats a moba:Stats ;
+    moba:hasAbilityPower "65.0"^^xsd:float .
+
+moba:Negatron_Cloak_Stats a moba:Stats ;
+    moba:hasMagicResist "45.0"^^xsd:float .
+
+moba:Night_Harvester_Stats a moba:Stats ;
+    moba:hasAbilityPower "90.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Noonquiver_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float .
+
+moba:Null_Magic_Mantle_Stats a moba:Stats ;
+    moba:hasMagicResist "20.0"^^xsd:float .
+
+moba:Oblivion_Orb_Stats a moba:Stats ;
+    moba:hasAbilityPower "25.0"^^xsd:float .
+
+moba:Ohmwrecker_Turret_Item_Stats a moba:Stats ;
+    moba:hasArmorPenetration "30.0"^^xsd:float .
+
+moba:Opportunity_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float .
+
+moba:Overlords_Bloodmail a moba:AdvancedItem ;
+    rdfs:label "Overlord's Bloodmail"@en ;
+    moba:buildPath moba:Tunneler ;
+    moba:goldCost 3300 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Overlord's Bloodmail"^^xsd:string ;
+    moba:providesStats moba:Overlords_Bloodmail_Stats ;
+    moba:uniquePassive true .
+
+moba:Overlords_Bloodmail_Stats a moba:Stats ;
+    moba:hasAttackDamage "30.0"^^xsd:float ;
+    moba:hasHealth "550.0"^^xsd:float .
+
+moba:Perplexity_Stats a moba:Stats ;
+    moba:hasAbilityPower "60.0"^^xsd:float ;
+    moba:hasArmorPenetration "22.0"^^xsd:float ;
+    moba:hasMagicPenetration "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "5.0"^^xsd:float .
+
+moba:Phage_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float .
+
+moba:Phantom_Dancer_Stats a moba:Stats ;
+    moba:hasMovementSpeed "10.0"^^xsd:float .
+
+moba:Pickaxe_Stats a moba:Stats ;
+    moba:hasAttackDamage "25.0"^^xsd:float .
+
+moba:Plated_Steelcaps_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasMovementSpeed "45.0"^^xsd:float .
+
+moba:Profane_Hydra_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Prowlers_Claw_Stats a moba:Stats ;
+    moba:hasArmorPenetration "22.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:Puppeteer_Stats a moba:Stats ;
+    moba:hasCooldownReduction "40.0"^^xsd:float ;
+    moba:hasManaRegen "150.0"^^xsd:float .
+
+moba:Pyromancers_Cloak_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Quicksilver_Sash_Stats a moba:Stats ;
+    moba:hasMagicResist "30.0"^^xsd:float .
+
+moba:Rabadons_Deathcap a moba:AdvancedItem ;
+    rdfs:label "Rabadon's Deathcap"@en ;
+    moba:buildPath moba:Needlessly_Large_Rod ;
+    moba:goldCost 3500 ;
+    moba:itemName "Rabadon's Deathcap"^^xsd:string ;
+    moba:providesStats moba:Rabadons_Deathcap_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Massively increases Ability Power"@en .
+
+moba:Rabadons_Deathcap_Stats a moba:Stats ;
+    moba:hasAbilityPower "130.0"^^xsd:float .
+
+moba:Radiant_Virtue_Stats a moba:Stats ;
+    moba:hasArmor "35.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasMagicResist "35.0"^^xsd:float .
+
+moba:Randuins_Omen_Stats a moba:Stats ;
+    moba:hasArmor "75.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Rapid_Firecannon_Stats a moba:Stats ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Ravenous_Hydra_Stats a moba:Stats ;
+    moba:hasAttackDamage "65.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Reality_Fracture_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Reapers_Toll_Stats a moba:Stats ;
+    moba:hasMovementSpeed "10.0"^^xsd:float .
+
+moba:Rectrix_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Redemption_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasManaRegen "100.0"^^xsd:float .
+
+moba:Regicide_Stats a moba:Stats ;
+    moba:hasArmorPenetration "15.0"^^xsd:float ;
+    moba:hasAttackDamage "60.0"^^xsd:float ;
+    moba:hasMovementSpeed "8.0"^^xsd:float .
+
+moba:Rejuvenation_Bead_Stats a moba:Stats ;
+    moba:hasHealthRegen "100.0"^^xsd:float .
+
+moba:Reverberation_Stats a moba:Stats ;
+    moba:hasArmor "35.0"^^xsd:float ;
+    moba:hasMagicResist "35.0"^^xsd:float .
+
+moba:Riftmaker_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Rite_of_Ruin_Stats a moba:Stats ;
+    moba:hasAbilityPower "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Rod_of_Ages_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasMana "500.0"^^xsd:float .
+
+moba:Ruby_Crystal_Stats a moba:Stats ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Runaans_Hurricane_Stats a moba:Stats ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Runecarver_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasMovementSpeed "8.0"^^xsd:float .
+
+moba:Runic_Compass_Stats a moba:Stats ;
+    moba:hasHealth "100.0"^^xsd:float ;
+    moba:hasHealthRegen "50.0"^^xsd:float ;
+    moba:hasManaRegen "50.0"^^xsd:float .
+
+moba:Rylais_Crystal_Scepter_Stats a moba:Stats ;
+    moba:hasAbilityPower "65.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Sanguine_Gift_Stats a moba:Stats ;
+    moba:hasAbilityPower "80.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:Sapphire_Crystal_Stats a moba:Stats ;
+    moba:hasMana "300.0"^^xsd:float .
+
+moba:Seekers_Armguard_Stats a moba:Stats ;
+    moba:hasAbilityPower "40.0"^^xsd:float ;
+    moba:hasArmor "25.0"^^xsd:float .
+
+moba:Seraphs_Embrace_Stats a moba:Stats ;
+    moba:hasAbilityPower "70.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float ;
+    moba:hasMana "1000.0"^^xsd:float .
+
+moba:Serpents_Fang_Stats a moba:Stats ;
+    moba:hasArmorPenetration "15.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float .
+
+moba:Serrated_Dirk_Stats a moba:Stats ;
+    moba:hasArmorPenetration "10.0"^^xsd:float ;
+    moba:hasAttackDamage "20.0"^^xsd:float .
+
+moba:Seryldas_Grudge_Stats a moba:Stats ;
+    moba:hasArmorPenetration "35.0"^^xsd:float ;
+    moba:hasAttackDamage "45.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float .
+
+moba:Shadowflame_Stats a moba:Stats ;
+    moba:hasAbilityPower "110.0"^^xsd:float ;
+    moba:hasMagicPenetration "15.0"^^xsd:float .
+
+moba:Shattered_Armguard_Stats a moba:Stats ;
+    moba:hasAbilityPower "40.0"^^xsd:float ;
+    moba:hasArmor "25.0"^^xsd:float .
+
+moba:Sheen_Stats a moba:Stats ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Shield_of_Molten_Stone_Stats a moba:Stats ;
+    moba:hasArmor "100.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float .
+
+moba:Shurelyas_Battlesong_Stats a moba:Stats ;
+    moba:hasAbilityPower "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Slightly_Magical_Boots_Stats a moba:Stats ;
+    moba:hasMovementSpeed "25.0"^^xsd:float .
+
+moba:Solstice_Sleigh a moba:AdvancedItem ;
+    rdfs:label "Solstice Sleigh"@en ;
+    moba:buildPath moba:Bounty_of_Worlds ;
+    moba:goldCost 400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Slow ;
+    moba:itemName "Solstice Sleigh"^^xsd:string ;
+    moba:providesStats moba:Solstice_Sleigh_Stats ;
+    moba:uniquePassive true .
+
+moba:Solstice_Sleigh_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Sorcerers_Shoes_Stats a moba:Stats ;
+    moba:hasMagicPenetration "12.0"^^xsd:float ;
+    moba:hasMovementSpeed "45.0"^^xsd:float .
+
+moba:Spear_of_Shojin_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float ;
+    moba:hasHealth "450.0"^^xsd:float .
+
+moba:Spectral_Cutlass_Stats a moba:Stats ;
+    moba:hasArmorPenetration "15.0"^^xsd:float ;
+    moba:hasAttackDamage "50.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Spectres_Cowl_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float ;
+    moba:hasMagicResist "35.0"^^xsd:float .
+
+moba:Spellslingers_Shoes a moba:AdvancedItem ;
+    rdfs:label "Spellslinger's Shoes"@en ;
+    moba:buildPath moba:Sorcerers_Shoes ;
+    moba:goldCost 1600 ;
+    moba:itemName "Spellslinger's Shoes"^^xsd:string ;
+    moba:providesStats moba:Spellslingers_Shoes_Stats .
+
+moba:Spellslingers_Shoes_Stats a moba:Stats ;
+    moba:hasMagicPenetration "18.0"^^xsd:float ;
+    moba:hasMovementSpeed "50.0"^^xsd:float .
+
+moba:Spirit_Visage_Stats a moba:Stats ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float ;
+    moba:hasMagicResist "50.0"^^xsd:float .
+
+moba:Staff_of_Flowing_Water_Stats a moba:Stats ;
+    moba:hasAbilityPower "35.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasManaRegen "125.0"^^xsd:float .
+
+moba:Statikk_Shiv_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Steel_Sigil_Stats a moba:Stats ;
+    moba:hasArmor "30.0"^^xsd:float ;
+    moba:hasAttackDamage "15.0"^^xsd:float .
+
+moba:Steraks_Gage_Stats a moba:Stats ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasTenacity "20.0"^^xsd:float .
+
+moba:Stormrazor_Stats a moba:Stats ;
+    moba:hasAttackDamage "45.0"^^xsd:float .
+
+moba:Stormsurge_Stats a moba:Stats ;
+    moba:hasAbilityPower "90.0"^^xsd:float ;
+    moba:hasMagicPenetration "15.0"^^xsd:float ;
+    moba:hasMovementSpeed "6.0"^^xsd:float .
+
+moba:Stridebreaker_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasHealth "450.0"^^xsd:float .
+
+moba:Sundered_Sky_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float .
+
+moba:Sunfire_Aegis_Stats a moba:Stats ;
+    moba:hasArmor "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float .
+
+moba:Swiftmarch a moba:AdvancedItem ;
+    rdfs:label "Swiftmarch"@en ;
+    moba:buildPath moba:Boots_of_Swiftness ;
+    moba:goldCost 1500 ;
+    moba:hasEffectType moba:MobilityEffect,
+        moba:Slow ;
+    moba:itemName "Swiftmarch"^^xsd:string ;
+    moba:providesStats moba:Swiftmarch_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Improves defense and reduces duration of disabling effects"@en .
+
+moba:Swiftmarch_Stats a moba:Stats ;
+    moba:hasMovementSpeed "65.0"^^xsd:float .
+
+moba:Sword_of_Blossoming_Dawn_Stats a moba:Stats ;
+    moba:hasAbilityPower "45.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "200.0"^^xsd:float .
+
+moba:Symbiotic_Soles_Stats a moba:Stats ;
+    moba:hasMovementSpeed "40.0"^^xsd:float .
+
+moba:Synchronized_Souls_Stats a moba:Stats ;
+    moba:hasMovementSpeed "45.0"^^xsd:float .
+
+moba:Tear_of_the_Goddess_Stats a moba:Stats ;
+    moba:hasMana "240.0"^^xsd:float .
+
+moba:Terminus_Stats a moba:Stats ;
+    moba:hasAttackDamage "30.0"^^xsd:float .
+
+moba:The_Brutalizer_Stats a moba:Stats ;
+    moba:hasArmorPenetration "5.0"^^xsd:float ;
+    moba:hasAttackDamage "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:The_Collector_Stats a moba:Stats ;
+    moba:hasArmorPenetration "10.0"^^xsd:float ;
+    moba:hasAttackDamage "50.0"^^xsd:float .
+
+moba:The_Golden_Spatula_Stats a moba:Stats ;
+    moba:hasAbilityPower "125.0"^^xsd:float ;
+    moba:hasArmor "40.0"^^xsd:float ;
+    moba:hasAttackDamage "90.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "350.0"^^xsd:float ;
+    moba:hasHealthRegen "200.0"^^xsd:float ;
+    moba:hasMagicResist "40.0"^^xsd:float ;
+    moba:hasMana "350.0"^^xsd:float ;
+    moba:hasManaRegen "200.0"^^xsd:float ;
+    moba:hasMovementSpeed "10.0"^^xsd:float .
+
+moba:Thornmail_Stats a moba:Stats ;
+    moba:hasArmor "75.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float .
+
+moba:Tiamat_Stats a moba:Stats ;
+    moba:hasAttackDamage "20.0"^^xsd:float .
+
+moba:Titanic_Hydra_Stats a moba:Stats ;
+    moba:hasAttackDamage "40.0"^^xsd:float ;
+    moba:hasHealth "600.0"^^xsd:float .
+
+moba:Trailblazer_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Trinity_Force_Stats a moba:Stats ;
+    moba:hasAttackDamage "36.0"^^xsd:float ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "333.0"^^xsd:float .
+
+moba:Tunneler_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float .
+
+moba:Turbo_Chemtank_Stats a moba:Stats ;
+    moba:hasHealth "600.0"^^xsd:float .
+
+moba:Twilights_Edge_Stats a moba:Stats ;
+    moba:hasAbilityPower "100.0"^^xsd:float ;
+    moba:hasAttackDamage "70.0"^^xsd:float .
+
+moba:Umbral_Glaive_Stats a moba:Stats ;
+    moba:hasArmorPenetration "15.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Unending_Despair_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "400.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Vampiric_Scepter_Stats a moba:Stats ;
+    moba:hasAttackDamage "15.0"^^xsd:float .
+
+moba:Verdant_Barrier_Stats a moba:Stats ;
+    moba:hasAbilityPower "40.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Vigilant_Wardstone a moba:ConsumableItem ;
+    rdfs:label "Vigilant Wardstone"@en ;
+    moba:buildPath moba:Watchful_Wardstone ;
+    moba:goldCost 2300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Vigilant Wardstone"^^xsd:string ;
+    moba:providesStats moba:Vigilant_Wardstone_Stats ;
+    moba:uniquePassive true .
+
+moba:Vigilant_Wardstone_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float ;
+    moba:hasHealth "250.0"^^xsd:float ;
+    moba:hasMagicResist "30.0"^^xsd:float .
+
+moba:Void_Staff_Stats a moba:Stats ;
+    moba:hasAbilityPower "95.0"^^xsd:float ;
+    moba:hasMagicPenetration "40.0"^^xsd:float .
+
+moba:Voltaic_Cyclosword_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float .
+
+moba:Wardens_Mail_Stats a moba:Stats ;
+    moba:hasArmor "40.0"^^xsd:float .
+
+moba:Warmogs_Armor_Stats a moba:Stats ;
+    moba:hasHealth "1000.0"^^xsd:float ;
+    moba:hasHealthRegen "100.0"^^xsd:float .
+
+moba:Watchful_Wardstone a moba:ConsumableItem ;
+    rdfs:label "Watchful Wardstone"@en ;
+    moba:goldCost 1100 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Watchful Wardstone"^^xsd:string ;
+    moba:providesStats moba:Watchful_Wardstone_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Vigilant_Wardstone .
+
+moba:Watchful_Wardstone_Stats a moba:Stats ;
+    moba:hasArmor "10.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "150.0"^^xsd:float ;
+    moba:hasMagicResist "15.0"^^xsd:float .
+
+moba:Winged_Moonplate_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Winters_Approach_Stats a moba:Stats ;
+    moba:hasCooldownReduction "15.0"^^xsd:float ;
+    moba:hasHealth "550.0"^^xsd:float ;
+    moba:hasMana "500.0"^^xsd:float .
+
+moba:Wits_End_Stats a moba:Stats ;
+    moba:hasMagicResist "45.0"^^xsd:float ;
+    moba:hasTenacity "20.0"^^xsd:float .
+
+moba:Wooglets_Witchcap_Stats a moba:Stats ;
+    moba:hasAbilityPower "300.0"^^xsd:float ;
+    moba:hasArmor "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "20.0"^^xsd:float .
+
+moba:Wordless_Promise_Stats a moba:Stats ;
+    moba:hasAbilityPower "50.0"^^xsd:float ;
+    moba:hasCooldownReduction "25.0"^^xsd:float .
+
+moba:World_Atlas_Stats a moba:Stats ;
+    moba:hasHealth "30.0"^^xsd:float ;
+    moba:hasHealthRegen "25.0"^^xsd:float ;
+    moba:hasManaRegen "25.0"^^xsd:float .
+
+moba:Youmuus_Ghostblade_Stats a moba:Stats ;
+    moba:hasArmorPenetration "18.0"^^xsd:float ;
+    moba:hasAttackDamage "55.0"^^xsd:float ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Yun_Tal_Wildarrows_Stats a moba:Stats ;
+    moba:hasAttackDamage "55.0"^^xsd:float .
+
+moba:ZazZaks_Realmspike a moba:AdvancedItem ;
+    rdfs:label "Zaz'Zak's Realmspike"@en ;
+    moba:buildPath moba:Bounty_of_Worlds ;
+    moba:goldCost 400 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Zaz'Zak's Realmspike"^^xsd:string ;
+    moba:providesStats moba:ZazZaks_Realmspike_Stats ;
+    moba:uniquePassive true .
+
+moba:ZazZaks_Realmspike_Stats a moba:Stats ;
+    moba:hasHealth "200.0"^^xsd:float ;
+    moba:hasHealthRegen "75.0"^^xsd:float ;
+    moba:hasManaRegen "75.0"^^xsd:float .
+
+moba:Zeal_Stats a moba:Stats ;
+    moba:hasMovementSpeed "4.0"^^xsd:float .
+
+moba:Zekes_Convergence_Stats a moba:Stats ;
+    moba:hasArmor "25.0"^^xsd:float ;
+    moba:hasCooldownReduction "10.0"^^xsd:float ;
+    moba:hasHealth "300.0"^^xsd:float ;
+    moba:hasMagicResist "25.0"^^xsd:float .
+
+moba:Zephyr a moba:AdvancedItem ;
+    rdfs:label "Zephyr"@en ;
+    moba:buildPath moba:Berserkers_Greaves ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Zephyr"^^xsd:string ;
+    moba:providesStats moba:Zephyr_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Mobility and Tenacity"@en .
+
+moba:Zephyr_Stats a moba:Stats ;
+    moba:hasCooldownReduction "30.0"^^xsd:float ;
+    moba:hasMovementSpeed "10.0"^^xsd:float ;
+    moba:hasTenacity "20.0"^^xsd:float .
+
+moba:Zhonyas_Hourglass_Stats a moba:Stats ;
+    moba:hasAbilityPower "105.0"^^xsd:float ;
+    moba:hasArmor "50.0"^^xsd:float .
+
+moba:Abyssal_Mask a moba:AdvancedItem ;
+    rdfs:label "Abyssal Mask"@en ;
+    moba:buildPath moba:Kindlegem,
+        moba:Negatron_Cloak ;
+    moba:goldCost 2650 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Abyssal Mask"^^xsd:string ;
+    moba:providesStats moba:Abyssal_Mask_Stats ;
+    moba:uniquePassive true .
+
+moba:Ardent_Censer a moba:AdvancedItem ;
+    rdfs:label "Ardent Censer"@en ;
+    moba:buildPath moba:Aether_Wisp,
+        moba:Forbidden_Idol ;
+    moba:goldCost 2200 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:MobilityEffect,
+        moba:Shield ;
+    moba:itemName "Ardent Censer"^^xsd:string ;
+    moba:providesStats moba:Ardent_Censer_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage."@en .
+
+moba:Axiom_Arc a moba:AdvancedItem ;
+    rdfs:label "Axiom Arc"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:The_Brutalizer ;
+    moba:goldCost 3000 ;
+    moba:itemName "Axiom Arc"^^xsd:string ;
+    moba:providesStats moba:Axiom_Arc_Stats ;
+    moba:uniquePassive true .
+
+moba:Banshees_Veil a moba:AdvancedItem ;
+    rdfs:label "Banshee's Veil"@en ;
+    moba:buildPath moba:Needlessly_Large_Rod,
+        moba:Verdant_Barrier ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Shield ;
+    moba:itemName "Banshee's Veil"^^xsd:string ;
+    moba:providesStats moba:Banshees_Veil_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Periodically blocks enemy abilities"@en .
+
+moba:Blackfire_Torch a moba:AdvancedItem ;
+    rdfs:label "Blackfire Torch"@en ;
+    moba:buildPath moba:Fated_Ashes,
+        moba:Lost_Chapter ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Blackfire Torch"^^xsd:string ;
+    moba:providesStats moba:Blackfire_Torch_Stats ;
+    moba:uniquePassive true .
+
+moba:Bloodletters_Curse a moba:AdvancedItem ;
+    rdfs:label "Bloodletter's Curse"@en ;
+    moba:buildPath moba:Fiendish_Codex,
+        moba:Haunting_Guise ;
+    moba:goldCost 2900 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Bloodletter's Curse"^^xsd:string ;
+    moba:providesStats moba:Bloodletters_Curse_Stats ;
+    moba:uniquePassive true .
+
+moba:Bramble_Vest a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Bramble Vest"@en ;
+    moba:buildPath moba:Cloth_Armor ;
+    moba:goldCost 800 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Bramble Vest"^^xsd:string ;
+    moba:providesStats moba:Bramble_Vest_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Thornmail .
+
+moba:Cryptbloom a moba:AdvancedItem ;
+    rdfs:label "Cryptbloom"@en ;
+    moba:buildPath moba:Blighting_Jewel,
+        moba:Fiendish_Codex ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Cryptbloom"^^xsd:string ;
+    moba:providesStats moba:Cryptbloom_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Activate to remove all debuffs and grant massive Move Speed"@en .
+
+moba:Dawncore a moba:AdvancedItem ;
+    rdfs:label "Dawncore"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Forbidden_Idol ;
+    moba:goldCost 2500 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Dawncore"^^xsd:string ;
+    moba:providesStats moba:Dawncore_Stats ;
+    moba:uniquePassive true .
+
+moba:Echoes_of_Helia a moba:AdvancedItem ;
+    rdfs:label "Echoes of Helia"@en ;
+    moba:buildPath moba:Bandleglass_Mirror,
+        moba:Kindlegem ;
+    moba:goldCost 2200 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Echoes of Helia"^^xsd:string ;
+    moba:providesStats moba:Echoes_of_Helia_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Damage low-health enemies to trigger a cursed explosion, dealing damage and slowing nearby foes"@en .
+
+moba:Edge_of_Night a moba:AdvancedItem ;
+    rdfs:label "Edge of Night"@en ;
+    moba:buildPath moba:Serrated_Dirk,
+        moba:Tunneler ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Shield ;
+    moba:itemName "Edge of Night"^^xsd:string ;
+    moba:providesStats moba:Edge_of_Night_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Periodically blocks enemy abilities"@en .
+
+moba:Faerie_Charm a moba:ComponentItem ;
+    rdfs:label "Faerie Charm"@en ;
+    moba:goldCost 200 ;
+    moba:itemName "Faerie Charm"^^xsd:string ;
+    moba:providesStats moba:Faerie_Charm_Stats ;
+    moba:upgradesInto moba:Bandleglass_Mirror,
+        moba:Forbidden_Idol ;
+    rdfs:comment "Slightly increases Mana Regen"@en .
+
+moba:Frozen_Heart a moba:AdvancedItem ;
+    rdfs:label "Frozen Heart"@en ;
+    moba:buildPath moba:Glacial_Buckler,
+        moba:Wardens_Mail ;
+    moba:goldCost 2500 ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Frozen Heart"^^xsd:string ;
+    moba:providesStats moba:Frozen_Heart_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Massively increases Armor and slows enemy basic attacks"@en .
+
+moba:Guardian_Angel a moba:AdvancedItem ;
+    rdfs:label "Guardian Angel"@en ;
+    moba:buildPath moba:B_F_Sword,
+        moba:Steel_Sigil ;
+    moba:goldCost 3200 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:ManaRestore ;
+    moba:itemName "Guardian Angel"^^xsd:string ;
+    moba:providesStats moba:Guardian_Angel_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Periodically revives champion upon death"@en .
+
+moba:Heartsteel a moba:AdvancedItem ;
+    rdfs:label "Heartsteel"@en ;
+    moba:buildPath moba:Crystalline_Bracer,
+        moba:Giants_Belt ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Heartsteel"^^xsd:string ;
+    moba:providesStats moba:Heartsteel_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Restores Health on kill or assist"@en .
+
+moba:Hollow_Radiance a moba:AdvancedItem ;
+    rdfs:label "Hollow Radiance"@en ;
+    moba:buildPath moba:Bamis_Cinder,
+        moba:Spectres_Cowl ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Hollow Radiance"^^xsd:string ;
+    moba:providesStats moba:Hollow_Radiance_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Immobilize enemies to gain a shield. Activate to run faster at opponents."@en .
+
+moba:Horizon_Focus a moba:AdvancedItem ;
+    rdfs:label "Horizon Focus"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Fiendish_Codex ;
+    moba:goldCost 2800 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Horizon Focus"^^xsd:string ;
+    moba:providesStats moba:Horizon_Focus_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Immobilizing a champion causes lightning to strike them"@en .
+
+moba:Hubris a moba:AdvancedItem ;
+    rdfs:label "Hubris"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Serrated_Dirk ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Hubris"^^xsd:string ;
+    moba:providesStats moba:Hubris_Stats ;
+    moba:uniquePassive true .
+
+moba:Immortal_Shieldbow a moba:AdvancedItem ;
+    rdfs:label "Immortal Shieldbow"@en ;
+    moba:buildPath moba:Noonquiver,
+        moba:Pickaxe ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Immortal Shieldbow"^^xsd:string ;
+    moba:providesStats moba:Immortal_Shieldbow_Stats ;
+    moba:uniquePassive true .
+
+moba:Imperial_Mandate a moba:AdvancedItem ;
+    rdfs:label "Imperial Mandate"@en ;
+    moba:buildPath moba:Bandleglass_Mirror,
+        moba:Fiendish_Codex ;
+    moba:goldCost 2250 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Slow ;
+    moba:itemName "Imperial Mandate"^^xsd:string ;
+    moba:providesStats moba:Imperial_Mandate_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Defer damage until later."@en .
+
+moba:Kaenic_Rookern a moba:AdvancedItem ;
+    rdfs:label "Kaenic Rookern"@en ;
+    moba:buildPath moba:Negatron_Cloak,
+        moba:Spectres_Cowl ;
+    moba:goldCost 2900 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Kaenic Rookern"^^xsd:string ;
+    moba:providesStats moba:Kaenic_Rookern_Stats ;
+    moba:uniquePassive true .
+
+moba:Liandrys_Torment a moba:AdvancedItem ;
+    rdfs:label "Liandry's Torment"@en ;
+    moba:buildPath moba:Fated_Ashes,
+        moba:Haunting_Guise ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Liandry's Torment"^^xsd:string ;
+    moba:providesStats moba:Liandrys_Torment_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Charge up in combat to deal high damage over time, especially against durable enemies"@en .
+
+moba:Lifeline a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Lifeline"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Rectrix ;
+    moba:goldCost 1600 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Lifeline"^^xsd:string ;
+    moba:providesStats moba:Lifeline_Stats ;
+    rdfs:comment "Marks the ground, and returns you there after a few moments"@en .
+
+moba:Lord_Dominiks_Regards a moba:AdvancedItem ;
+    rdfs:label "Lord Dominik's Regards"@en ;
+    moba:buildPath moba:Last_Whisper,
+        moba:Noonquiver ;
+    moba:goldCost 3100 ;
+    moba:itemName "Lord Dominik's Regards"^^xsd:string ;
+    moba:providesStats moba:Lord_Dominiks_Regards_Stats ;
+    rdfs:comment "Overcomes enemies with high health and armor"@en .
+
+moba:Ludens_Companion a moba:AdvancedItem ;
+    rdfs:label "Luden's Companion"@en ;
+    moba:buildPath moba:Hextech_Alternator,
+        moba:Lost_Chapter ;
+    moba:goldCost 2750 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Luden's Companion"^^xsd:string ;
+    moba:providesStats moba:Ludens_Companion_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "High burst damage, good against fragile foes"@en .
+
+moba:Malignance a moba:AdvancedItem ;
+    rdfs:label "Malignance"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Lost_Chapter ;
+    moba:goldCost 2700 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Malignance"^^xsd:string ;
+    moba:providesStats moba:Malignance_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Partner with an ally to protect each other"@en .
+
+moba:Maw_of_Malmortius a moba:AdvancedItem ;
+    rdfs:label "Maw of Malmortius"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Hexdrinker ;
+    moba:goldCost 3100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Maw of Malmortius"^^xsd:string ;
+    moba:providesStats moba:Maw_of_Malmortius_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants bonus Attack Damage when Health is low"@en .
+
+moba:Mikaels_Blessing a moba:AdvancedItem ;
+    rdfs:label "Mikael's Blessing"@en ;
+    moba:buildPath moba:Forbidden_Idol,
+        moba:Kindlegem ;
+    moba:goldCost 2300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Mikael's Blessing"^^xsd:string ;
+    moba:providesStats moba:Mikaels_Blessing_Stats ;
+    rdfs:comment "Activate to remove all disabling effects from an allied champion"@en .
+
+moba:Moonstone_Renewer a moba:AdvancedItem ;
+    rdfs:label "Moonstone Renewer"@en ;
+    moba:buildPath moba:Bandleglass_Mirror,
+        moba:Kindlegem ;
+    moba:goldCost 2200 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Moonstone Renewer"^^xsd:string ;
+    moba:providesStats moba:Moonstone_Renewer_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Your heals and shields cool down faster and have greater effect on low health allies"@en .
+
+moba:Navori_Flickerblade a moba:AdvancedItem ;
+    rdfs:label "Navori Flickerblade"@en ;
+    moba:buildPath moba:Dagger,
+        moba:Zeal ;
+    moba:goldCost 2650 ;
+    moba:itemName "Navori Flickerblade"^^xsd:string ;
+    moba:providesStats moba:Navori_Flickerblade_Stats ;
+    moba:uniquePassive true .
+
+moba:Oblivion_Orb a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Oblivion Orb"@en ;
+    moba:buildPath moba:Amplifying_Tome ;
+    moba:goldCost 800 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Oblivion Orb"^^xsd:string ;
+    moba:providesStats moba:Oblivion_Orb_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Morellonomicon ;
+    rdfs:comment "Increases magic damage"@en .
+
+moba:Phantom_Dancer a moba:AdvancedItem ;
+    rdfs:label "Phantom Dancer"@en ;
+    moba:buildPath moba:Dagger,
+        moba:Zeal ;
+    moba:goldCost 2650 ;
+    moba:itemName "Phantom Dancer"^^xsd:string ;
+    moba:providesStats moba:Phantom_Dancer_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Move faster while attacking enemies and gain a shield when on low health."@en .
+
+moba:Profane_Hydra a moba:AdvancedItem ;
+    rdfs:label "Profane Hydra"@en ;
+    moba:buildPath moba:The_Brutalizer,
+        moba:Tiamat ;
+    moba:goldCost 3200 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Profane Hydra"^^xsd:string ;
+    moba:providesStats moba:Profane_Hydra_Stats ;
+    moba:uniquePassive true .
+
+moba:Quicksilver_Sash a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Quicksilver Sash"@en ;
+    moba:buildPath moba:Null_Magic_Mantle ;
+    moba:goldCost 1300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Quicksilver Sash"^^xsd:string ;
+    moba:providesStats moba:Quicksilver_Sash_Stats ;
+    moba:upgradesInto moba:Mercurial_Scimitar ;
+    rdfs:comment "Activate to remove all crowd control debuffs"@en .
+
+moba:Randuins_Omen a moba:AdvancedItem ;
+    rdfs:label "Randuin's Omen"@en ;
+    moba:buildPath moba:Giants_Belt,
+        moba:Wardens_Mail ;
+    moba:goldCost 2700 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Randuin's Omen"^^xsd:string ;
+    moba:providesStats moba:Randuins_Omen_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Greatly increases defenses, activate to slow nearby enemies"@en .
+
+moba:Rapid_Firecannon a moba:AdvancedItem ;
+    rdfs:label "Rapid Firecannon"@en ;
+    moba:buildPath moba:Scouts_Slingshot,
+        moba:Zeal ;
+    moba:goldCost 2650 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Rapid Firecannon"^^xsd:string ;
+    moba:providesStats moba:Rapid_Firecannon_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Movement builds charges that release a sieging fire attack on release"@en .
+
+moba:Redemption a moba:AdvancedItem ;
+    rdfs:label "Redemption"@en ;
+    moba:buildPath moba:Forbidden_Idol,
+        moba:Kindlegem ;
+    moba:goldCost 2300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Redemption"^^xsd:string ;
+    moba:providesStats moba:Redemption_Stats ;
+    rdfs:comment "Activate to heal allies and damage enemies in an area"@en .
+
+moba:Riftmaker a moba:AdvancedItem ;
+    rdfs:label "Riftmaker"@en ;
+    moba:buildPath moba:Fiendish_Codex,
+        moba:Haunting_Guise ;
+    moba:goldCost 3100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Riftmaker"^^xsd:string ;
+    moba:providesStats moba:Riftmaker_Stats ;
+    moba:uniquePassive true .
+
+moba:Rod_of_Ages a moba:AdvancedItem ;
+    rdfs:label "Rod of Ages"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Catalyst_of_Aeons ;
+    moba:goldCost 2600 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:ManaRestore ;
+    moba:itemName "Rod of Ages"^^xsd:string ;
+    moba:providesStats moba:Rod_of_Ages_Stats ;
+    moba:uniquePassive true .
+
+moba:Runaans_Hurricane a moba:AdvancedItem ;
+    rdfs:label "Runaan's Hurricane"@en ;
+    moba:buildPath moba:Scouts_Slingshot,
+        moba:Zeal ;
+    moba:goldCost 2650 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Runaan's Hurricane"^^xsd:string ;
+    moba:providesStats moba:Runaans_Hurricane_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Ranged attacks fire two bolts at nearby enemies"@en .
+
+moba:Serpents_Fang a moba:AdvancedItem ;
+    rdfs:label "Serpent's Fang"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Serrated_Dirk ;
+    moba:goldCost 2500 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Shield ;
+    moba:itemName "Serpent's Fang"^^xsd:string ;
+    moba:providesStats moba:Serpents_Fang_Stats ;
+    moba:uniquePassive true .
+
+moba:Seryldas_Grudge a moba:AdvancedItem ;
+    rdfs:label "Serylda's Grudge"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Last_Whisper ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Slow ;
+    moba:itemName "Serylda's Grudge"^^xsd:string ;
+    moba:providesStats moba:Seryldas_Grudge_Stats ;
+    moba:uniquePassive true .
+
+moba:Shadowflame a moba:AdvancedItem ;
+    rdfs:label "Shadowflame"@en ;
+    moba:buildPath moba:Hextech_Alternator,
+        moba:Needlessly_Large_Rod ;
+    moba:goldCost 3200 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Shadowflame"^^xsd:string ;
+    moba:providesStats moba:Shadowflame_Stats ;
+    moba:uniquePassive true .
+
+moba:Shattered_Armguard a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Shattered Armguard"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Cloth_Armor ;
+    moba:goldCost 1600 ;
+    moba:itemName "Shattered Armguard"^^xsd:string ;
+    moba:providesStats moba:Shattered_Armguard_Stats ;
+    moba:upgradesInto moba:Zhonyas_Hourglass ;
+    rdfs:comment "Upgrades to stopwatch"@en .
+
+moba:Shurelyas_Battlesong a moba:AdvancedItem ;
+    rdfs:label "Shurelya's Battlesong"@en ;
+    moba:buildPath moba:Aether_Wisp,
+        moba:Bandleglass_Mirror ;
+    moba:goldCost 2200 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Shurelya's Battlesong"^^xsd:string ;
+    moba:providesStats moba:Shurelyas_Battlesong_Stats ;
+    rdfs:comment "Activate to speed up nearby allies."@en .
+
+moba:Spirit_Visage a moba:AdvancedItem ;
+    rdfs:label "Spirit Visage"@en ;
+    moba:buildPath moba:Kindlegem,
+        moba:Spectres_Cowl ;
+    moba:goldCost 2700 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Spirit Visage"^^xsd:string ;
+    moba:providesStats moba:Spirit_Visage_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Health and healing effects"@en .
+
+moba:Staff_of_Flowing_Water a moba:AdvancedItem ;
+    rdfs:label "Staff of Flowing Water"@en ;
+    moba:buildPath moba:Fiendish_Codex,
+        moba:Forbidden_Idol ;
+    moba:goldCost 2250 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Staff of Flowing Water"^^xsd:string ;
+    moba:providesStats moba:Staff_of_Flowing_Water_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Your heals and shields reduce crowd control and grant Move Speed"@en .
+
+moba:Stormsurge a moba:AdvancedItem ;
+    rdfs:label "Stormsurge"@en ;
+    moba:buildPath moba:Aether_Wisp,
+        moba:Hextech_Alternator ;
+    moba:goldCost 2800 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Stormsurge"^^xsd:string ;
+    moba:providesStats moba:Stormsurge_Stats ;
+    moba:uniquePassive true .
+
+moba:Sunfire_Aegis a moba:AdvancedItem ;
+    rdfs:label "Sunfire Aegis"@en ;
+    moba:buildPath moba:Bamis_Cinder,
+        moba:Chain_Vest ;
+    moba:goldCost 2700 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Sunfire Aegis"^^xsd:string ;
+    moba:providesStats moba:Sunfire_Aegis_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "High armor. Constantly deals damage to nearby enemies. Immobilize enemies to release a wave of damaging flame"@en .
+
+moba:Symbiotic_Soles a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Symbiotic Soles"@en ;
+    moba:buildPath moba:Boots ;
+    moba:goldCost 900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Symbiotic Soles"^^xsd:string ;
+    moba:providesStats moba:Symbiotic_Soles_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Synchronized_Souls ;
+    rdfs:comment "Spend Mana to recover Health"@en .
+
+moba:Synchronized_Souls a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Synchronized Souls"@en ;
+    moba:buildPath moba:Symbiotic_Soles ;
+    moba:goldCost 900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Synchronized Souls"^^xsd:string ;
+    moba:providesStats moba:Synchronized_Souls_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Forever_Forward .
+
+moba:Terminus a moba:AdvancedItem ;
+    rdfs:label "Terminus"@en ;
+    moba:buildPath moba:Hearthbound_Axe,
+        moba:Recurve_Bow ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Terminus"^^xsd:string ;
+    moba:providesStats moba:Terminus_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Kill minions periodically to heal and grant gold to a nearby ally"@en .
+
+moba:Trailblazer a moba:AdvancedItem ;
+    rdfs:label "Trailblazer"@en ;
+    moba:buildPath moba:Chain_Vest,
+        moba:Winged_Moonplate ;
+    moba:goldCost 2400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect,
+        moba:Slow ;
+    moba:itemName "Trailblazer"^^xsd:string ;
+    moba:providesStats moba:Trailblazer_Stats ;
+    moba:uniquePassive true .
+
+moba:Umbral_Glaive a moba:AdvancedItem ;
+    rdfs:label "Umbral Glaive"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Serrated_Dirk ;
+    moba:goldCost 2500 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Umbral Glaive"^^xsd:string ;
+    moba:providesStats moba:Umbral_Glaive_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Provides trap and ward detection periodically"@en .
+
+moba:Unending_Despair a moba:AdvancedItem ;
+    rdfs:label "Unending Despair"@en ;
+    moba:buildPath moba:Aegis_of_the_Legion,
+        moba:Giants_Belt ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Unending Despair"^^xsd:string ;
+    moba:providesStats moba:Unending_Despair_Stats ;
+    moba:uniquePassive true .
+
+moba:Void_Staff a moba:AdvancedItem ;
+    rdfs:label "Void Staff"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Blighting_Jewel ;
+    moba:goldCost 3000 ;
+    moba:itemName "Void Staff"^^xsd:string ;
+    moba:providesStats moba:Void_Staff_Stats ;
+    rdfs:comment "Increases magic damage"@en .
+
+moba:Voltaic_Cyclosword a moba:AdvancedItem ;
+    rdfs:label "Voltaic Cyclosword"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:The_Brutalizer ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect,
+        moba:Slow ;
+    moba:itemName "Voltaic Cyclosword"^^xsd:string ;
+    moba:providesStats moba:Voltaic_Cyclosword_Stats ;
+    moba:uniquePassive true .
+
+moba:Warmogs_Armor a moba:AdvancedItem ;
+    rdfs:label "Warmog's Armor"@en ;
+    moba:buildPath moba:Crystalline_Bracer,
+        moba:Giants_Belt ;
+    moba:goldCost 3100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Warmog's Armor"^^xsd:string ;
+    moba:providesStats moba:Warmogs_Armor_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants massive Health and Health Regen"@en .
+
+moba:Wits_End a moba:AdvancedItem ;
+    rdfs:label "Wit's End"@en ;
+    moba:buildPath moba:Negatron_Cloak,
+        moba:Recurve_Bow ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Wit's End"^^xsd:string ;
+    moba:providesStats moba:Wits_End_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Resist magic damage and claw your way back to life."@en .
+
+moba:Aegis_of_the_Legion a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Aegis of the Legion"@en ;
+    moba:buildPath moba:Cloth_Armor,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 1100 ;
+    moba:itemName "Aegis of the Legion"^^xsd:string ;
+    moba:providesStats moba:Aegis_of_the_Legion_Stats ;
+    moba:upgradesInto moba:Unending_Despair ;
+    rdfs:comment "Grants Armor and Magic Resistance"@en .
+
+moba:Archangels_Staff a moba:AdvancedItem ;
+    rdfs:label "Archangel's Staff"@en ;
+    moba:buildPath moba:Fiendish_Codex,
+        moba:Lost_Chapter,
+        moba:Tear_of_the_Goddess ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:itemName "Archangel's Staff"^^xsd:string ;
+    moba:providesStats moba:Archangels_Staff_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Ability Power based on maximum Mana"@en .
+
+moba:Black_Cleaver a moba:AdvancedItem ;
+    rdfs:label "Black Cleaver"@en ;
+    moba:buildPath moba:Kindlegem,
+        moba:Phage,
+        moba:Pickaxe ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Black Cleaver"^^xsd:string ;
+    moba:providesStats moba:Black_Cleaver_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Dealing physical damage to enemy champions reduces their Armor"@en .
+
+moba:Blade_of_the_Ruined_King a moba:AdvancedItem ;
+    rdfs:label "Blade of the Ruined King"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Recurve_Bow,
+        moba:Vampiric_Scepter ;
+    moba:goldCost 3200 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Slow ;
+    moba:itemName "Blade of the Ruined King"^^xsd:string ;
+    moba:providesStats moba:Blade_of_the_Ruined_King_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Deals damage based on target's Health, can steal Move Speed"@en .
+
+moba:Blighting_Jewel a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Blighting Jewel"@en ;
+    moba:buildPath moba:Amplifying_Tome ;
+    moba:goldCost 1100 ;
+    moba:itemName "Blighting Jewel"^^xsd:string ;
+    moba:providesStats moba:Blighting_Jewel_Stats ;
+    moba:upgradesInto moba:Cryptbloom,
+        moba:Void_Staff .
+
+moba:Bloodthirster a moba:AdvancedItem ;
+    rdfs:label "Bloodthirster"@en ;
+    moba:buildPath moba:B_F_Sword,
+        moba:Pickaxe,
+        moba:Vampiric_Scepter ;
+    moba:goldCost 3400 ;
+    moba:hasEffectType moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Bloodthirster"^^xsd:string ;
+    moba:providesStats moba:Bloodthirster_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants Attack Damage, Life Steal and Life Steal now overheals"@en .
+
+moba:Boots_of_Swiftness a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Boots of Swiftness"@en ;
+    moba:buildPath moba:Boots ;
+    moba:goldCost 1000 ;
+    moba:hasEffectType moba:Slow ;
+    moba:itemName "Boots of Swiftness"^^xsd:string ;
+    moba:providesStats moba:Boots_of_Swiftness_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Swiftmarch ;
+    rdfs:comment "Enhances Move Speed and reduces the effect of slows"@en .
+
+moba:Catalyst_of_Aeons a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Catalyst of Aeons"@en ;
+    moba:buildPath moba:Ruby_Crystal,
+        moba:Sapphire_Crystal ;
+    moba:goldCost 1300 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:ManaRestore ;
+    moba:itemName "Catalyst of Aeons"^^xsd:string ;
+    moba:providesStats moba:Catalyst_of_Aeons_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Rod_of_Ages .
+
+moba:Chempunk_Chainsword a moba:AdvancedItem ;
+    rdfs:label "Chempunk Chainsword"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Executioners_Calling,
+        moba:Giants_Belt ;
+    moba:goldCost 3100 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Chempunk Chainsword"^^xsd:string ;
+    moba:providesStats moba:Chempunk_Chainsword_Stats ;
+    moba:uniquePassive true .
+
+moba:Cosmic_Drive a moba:AdvancedItem ;
+    rdfs:label "Cosmic Drive"@en ;
+    moba:buildPath moba:Aether_Wisp,
+        moba:Fiendish_Codex,
+        moba:Kindlegem ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Cosmic Drive"^^xsd:string ;
+    moba:providesStats moba:Cosmic_Drive_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Massive amounts of Cooldown Reduction"@en .
+
+moba:Dead_Mans_Plate a moba:AdvancedItem ;
+    rdfs:label "Dead Man's Plate"@en ;
+    moba:buildPath moba:Chain_Vest,
+        moba:Ruby_Crystal,
+        moba:Winged_Moonplate ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect,
+        moba:Slow ;
+    moba:itemName "Dead Man's Plate"^^xsd:string ;
+    moba:providesStats moba:Dead_Mans_Plate_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Build momentum as you move around then smash into enemies."@en .
+
+moba:Deaths_Dance a moba:AdvancedItem ;
+    rdfs:label "Death's Dance"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Pickaxe,
+        moba:Steel_Sigil ;
+    moba:goldCost 3300 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Death's Dance"^^xsd:string ;
+    moba:providesStats moba:Deaths_Dance_Stats ;
+    moba:uniquePassive true .
+
+moba:Eclipse a moba:AdvancedItem ;
+    rdfs:label "Eclipse"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Long_Sword,
+        moba:Pickaxe ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Eclipse"^^xsd:string ;
+    moba:providesStats moba:Eclipse_Stats ;
+    moba:uniquePassive true .
+
+moba:Essence_Reaver a moba:AdvancedItem ;
+    rdfs:label "Essence Reaver"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Cloak_of_Agility,
+        moba:Pickaxe ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:ManaRestore ;
+    moba:itemName "Essence Reaver"^^xsd:string ;
+    moba:providesStats moba:Essence_Reaver_Stats ;
+    moba:uniquePassive true .
+
+moba:Executioners_Calling a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Executioner's Calling"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 800 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Executioner's Calling"^^xsd:string ;
+    moba:providesStats moba:Executioners_Calling_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Chempunk_Chainsword,
+        moba:Mortal_Reminder ;
+    rdfs:comment "Overcomes enemies with high health gain"@en .
+
+moba:Experimental_Hexplate a moba:AdvancedItem ;
+    rdfs:label "Experimental Hexplate"@en ;
+    moba:buildPath moba:Dagger,
+        moba:Phage,
+        moba:Tunneler ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Experimental Hexplate"^^xsd:string ;
+    moba:providesStats moba:Experimental_Hexplate_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases maximum Mana as Mana is spent"@en .
+
+moba:Fated_Ashes a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Fated Ashes"@en ;
+    moba:buildPath moba:Amplifying_Tome ;
+    moba:goldCost 900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Fated Ashes"^^xsd:string ;
+    moba:providesStats moba:Fated_Ashes_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Blackfire_Torch,
+        moba:Liandrys_Torment .
+
+moba:Force_of_Nature a moba:AdvancedItem ;
+    rdfs:label "Force of Nature"@en ;
+    moba:buildPath moba:Negatron_Cloak,
+        moba:Ruby_Crystal,
+        moba:Winged_Moonplate ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Force of Nature"^^xsd:string ;
+    moba:providesStats moba:Force_of_Nature_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Move Speed, Magic Resist, and max Health Regeneration"@en .
+
+moba:Guinsoos_Rageblade a moba:AdvancedItem ;
+    rdfs:label "Guinsoo's Rageblade"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Pickaxe,
+        moba:Recurve_Bow ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Guinsoo's Rageblade"^^xsd:string ;
+    moba:providesStats moba:Guinsoos_Rageblade_Stats ;
+    moba:uniquePassive true .
+
+moba:Hexdrinker a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Hexdrinker"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 1300 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Hexdrinker"^^xsd:string ;
+    moba:providesStats moba:Hexdrinker_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Maw_of_Malmortius ;
+    rdfs:comment "Increases Attack Damage and Magic Resist"@en .
+
+moba:Hextech_Rocketbelt a moba:AdvancedItem ;
+    rdfs:label "Hextech Rocketbelt"@en ;
+    moba:buildPath moba:Fiendish_Codex,
+        moba:Hextech_Alternator,
+        moba:Ruby_Crystal ;
+    moba:goldCost 2650 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Hextech Rocketbelt"^^xsd:string ;
+    moba:providesStats moba:Hextech_Rocketbelt_Stats ;
+    rdfs:comment "Activate to dash forward and unleash a fiery explosion"@en .
+
+moba:Hullbreaker a moba:AdvancedItem ;
+    rdfs:label "Hullbreaker"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Tunneler,
+        moba:Winged_Moonplate ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Hullbreaker"^^xsd:string ;
+    moba:providesStats moba:Hullbreaker_Stats ;
+    moba:uniquePassive true .
+
+moba:Iceborn_Gauntlet a moba:AdvancedItem ;
+    rdfs:label "Iceborn Gauntlet"@en ;
+    moba:buildPath moba:Chain_Vest,
+        moba:Ruby_Crystal,
+        moba:Sheen ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Iceborn Gauntlet"^^xsd:string ;
+    moba:providesStats moba:Iceborn_Gauntlet_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "High Magic Resist.Passively slow nearby enemies. When spells are cast near you, release a wave of energy that damages and slows."@en .
+
+moba:Infinity_Edge a moba:AdvancedItem ;
+    rdfs:label "Infinity Edge"@en ;
+    moba:buildPath moba:B_F_Sword,
+        moba:Cloak_of_Agility,
+        moba:Pickaxe ;
+    moba:goldCost 3450 ;
+    moba:itemName "Infinity Edge"^^xsd:string ;
+    moba:providesStats moba:Infinity_Edge_Stats ;
+    rdfs:comment "Massively enhances critical strikes"@en .
+
+moba:JakSho_The_Protean a moba:AdvancedItem ;
+    rdfs:label "Jak'Sho, The Protean"@en ;
+    moba:buildPath moba:Chain_Vest,
+        moba:Giants_Belt,
+        moba:Negatron_Cloak ;
+    moba:goldCost 3200 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:itemName "Jak'Sho, The Protean"^^xsd:string ;
+    moba:providesStats moba:JakSho_The_Protean_Stats ;
+    moba:uniquePassive true .
+
+moba:Knights_Vow a moba:AdvancedItem ;
+    rdfs:label "Knight's Vow"@en ;
+    moba:buildPath moba:Chain_Vest,
+        moba:Kindlegem,
+        moba:Rejuvenation_Bead ;
+    moba:goldCost 2300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Knight's Vow"^^xsd:string ;
+    moba:providesStats moba:Knights_Vow_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Partner with an ally to protect each other"@en .
+
+moba:Kraken_Slayer a moba:AdvancedItem ;
+    rdfs:label "Kraken Slayer"@en ;
+    moba:buildPath moba:Hearthbound_Axe,
+        moba:Rectrix,
+        moba:Recurve_Bow ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Kraken Slayer"^^xsd:string ;
+    moba:providesStats moba:Kraken_Slayer_Stats ;
+    moba:uniquePassive true .
+
+moba:Lich_Bane a moba:AdvancedItem ;
+    rdfs:label "Lich Bane"@en ;
+    moba:buildPath moba:Aether_Wisp,
+        moba:Blasting_Wand,
+        moba:Sheen ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Lich Bane"^^xsd:string ;
+    moba:providesStats moba:Lich_Bane_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants a bonus to next attack after spell cast"@en .
+
+moba:Locket_of_the_Iron_Solari a moba:AdvancedItem ;
+    rdfs:label "Locket of the Iron Solari"@en ;
+    moba:buildPath moba:Cloth_Armor,
+        moba:Kindlegem,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 2200 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Locket of the Iron Solari"^^xsd:string ;
+    moba:providesStats moba:Locket_of_the_Iron_Solari_Stats ;
+    rdfs:comment "Activate to shield nearby allies from damage"@en .
+
+moba:Manamune a moba:AdvancedItem ;
+    rdfs:label "Manamune"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Long_Sword,
+        moba:Tear_of_the_Goddess ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Manamune"^^xsd:string ;
+    moba:providesStats moba:Manamune_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Attack Damage based on maximum Mana"@en .
+
+moba:Mercurial_Scimitar a moba:AdvancedItem ;
+    rdfs:label "Mercurial Scimitar"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Quicksilver_Sash,
+        moba:Vampiric_Scepter ;
+    moba:goldCost 3200 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Mercurial Scimitar"^^xsd:string ;
+    moba:providesStats moba:Mercurial_Scimitar_Stats ;
+    rdfs:comment "Activate to remove all crowd control debuffs and grant massive Move Speed"@en .
+
+moba:Morellonomicon a moba:AdvancedItem ;
+    rdfs:label "Morellonomicon"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Kindlegem,
+        moba:Oblivion_Orb ;
+    moba:goldCost 2850 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Morellonomicon"^^xsd:string ;
+    moba:providesStats moba:Morellonomicon_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases magic damage"@en .
+
+moba:Mortal_Reminder a moba:AdvancedItem ;
+    rdfs:label "Mortal Reminder"@en ;
+    moba:buildPath moba:Cloak_of_Agility,
+        moba:Executioners_Calling,
+        moba:Last_Whisper ;
+    moba:goldCost 3300 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Mortal Reminder"^^xsd:string ;
+    moba:providesStats moba:Mortal_Reminder_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Overcomes enemies with high Health recovery and Armor"@en .
+
+moba:Nashors_Tooth a moba:AdvancedItem ;
+    rdfs:label "Nashor's Tooth"@en ;
+    moba:buildPath moba:Blasting_Wand,
+        moba:Fiendish_Codex,
+        moba:Recurve_Bow ;
+    moba:goldCost 2900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Nashor's Tooth"^^xsd:string ;
+    moba:providesStats moba:Nashors_Tooth_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Increases Attack Speed, Ability Power, and Cooldown Reduction"@en .
+
+moba:Opportunity a moba:AdvancedItem ;
+    rdfs:label "Opportunity"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Pickaxe,
+        moba:Serrated_Dirk ;
+    moba:goldCost 2700 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Opportunity"^^xsd:string ;
+    moba:providesStats moba:Opportunity_Stats ;
+    moba:uniquePassive true .
+
+moba:Ravenous_Hydra a moba:AdvancedItem ;
+    rdfs:label "Ravenous Hydra"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Tiamat,
+        moba:Vampiric_Scepter ;
+    moba:goldCost 3300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Ravenous Hydra"^^xsd:string ;
+    moba:providesStats moba:Ravenous_Hydra_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Melee attacks hit nearby enemies, dealing damage and restoring Health"@en .
+
+moba:Rejuvenation_Bead a moba:ComponentItem ;
+    rdfs:label "Rejuvenation Bead"@en ;
+    moba:goldCost 300 ;
+    moba:itemName "Rejuvenation Bead"^^xsd:string ;
+    moba:providesStats moba:Rejuvenation_Bead_Stats ;
+    moba:upgradesInto moba:Crystalline_Bracer,
+        moba:Knights_Vow,
+        moba:Spectres_Cowl ;
+    rdfs:comment "Slightly increases Health Regen"@en .
+
+moba:Rylais_Crystal_Scepter a moba:AdvancedItem ;
+    rdfs:label "Rylai's Crystal Scepter"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Blasting_Wand,
+        moba:Giants_Belt ;
+    moba:goldCost 2600 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Rylai's Crystal Scepter"^^xsd:string ;
+    moba:providesStats moba:Rylais_Crystal_Scepter_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Abilities slow enemies"@en .
+
+moba:Sapphire_Crystal a moba:ComponentItem ;
+    rdfs:label "Sapphire Crystal"@en ;
+    moba:goldCost 300 ;
+    moba:itemName "Sapphire Crystal"^^xsd:string ;
+    moba:providesStats moba:Sapphire_Crystal_Stats ;
+    moba:upgradesInto moba:Catalyst_of_Aeons,
+        moba:Glacial_Buckler,
+        moba:Lost_Chapter ;
+    rdfs:comment "Increases Mana"@en .
+
+moba:Seekers_Armguard a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Seeker's Armguard"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Cloth_Armor ;
+    moba:goldCost 1600 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Seeker's Armguard"^^xsd:string ;
+    moba:providesStats moba:Seekers_Armguard_Stats ;
+    moba:upgradesInto moba:Zhonyas_Hourglass ;
+    rdfs:comment "Activate to become invincible but unable to take actions"@en .
+
+moba:Sorcerers_Shoes a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Sorcerer's Shoes"@en ;
+    moba:buildPath moba:Boots ;
+    moba:goldCost 1100 ;
+    moba:itemName "Sorcerer's Shoes"^^xsd:string ;
+    moba:providesStats moba:Sorcerers_Shoes_Stats ;
+    moba:upgradesInto moba:Spellslingers_Shoes ;
+    rdfs:comment "Enhances Move Speed and magic damage"@en .
+
+moba:Spear_of_Shojin a moba:AdvancedItem ;
+    rdfs:label "Spear of Shojin"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Ruby_Crystal,
+        moba:Tunneler ;
+    moba:goldCost 3100 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Spear of Shojin"^^xsd:string ;
+    moba:providesStats moba:Spear_of_Shojin_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time."@en .
+
+moba:Statikk_Shiv a moba:AdvancedItem ;
+    rdfs:label "Statikk Shiv"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Rectrix,
+        moba:Scouts_Slingshot ;
+    moba:goldCost 2700 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Statikk Shiv"^^xsd:string ;
+    moba:providesStats moba:Statikk_Shiv_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Movement builds charges that release chain lightning on basic attack"@en .
+
+moba:Steraks_Gage a moba:AdvancedItem ;
+    rdfs:label "Sterak's Gage"@en ;
+    moba:buildPath moba:Pickaxe,
+        moba:Ruby_Crystal,
+        moba:Tunneler ;
+    moba:goldCost 3200 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect,
+        moba:Shield ;
+    moba:itemName "Sterak's Gage"^^xsd:string ;
+    moba:providesStats moba:Steraks_Gage_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Shields against large bursts of damage"@en .
+
+moba:Stridebreaker a moba:AdvancedItem ;
+    rdfs:label "Stridebreaker"@en ;
+    moba:buildPath moba:Dagger,
+        moba:Phage,
+        moba:Tiamat ;
+    moba:goldCost 3300 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Stridebreaker"^^xsd:string ;
+    moba:providesStats moba:Stridebreaker_Stats ;
+    moba:uniquePassive true .
+
+moba:Sundered_Sky a moba:AdvancedItem ;
+    rdfs:label "Sundered Sky"@en ;
+    moba:buildPath moba:Caulfields_Warhammer,
+        moba:Ruby_Crystal,
+        moba:Tunneler ;
+    moba:goldCost 3100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Sundered Sky"^^xsd:string ;
+    moba:providesStats moba:Sundered_Sky_Stats ;
+    moba:uniquePassive true .
+
+moba:Tear_of_the_Goddess a moba:ComponentItem ;
+    rdfs:label "Tear of the Goddess"@en ;
+    moba:goldCost 400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Tear of the Goddess"^^xsd:string ;
+    moba:providesStats moba:Tear_of_the_Goddess_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Archangels_Staff,
+        moba:Manamune,
+        moba:Winters_Approach ;
+    rdfs:comment "Increases maximum Mana as Mana is spent"@en .
+
+moba:The_Collector a moba:AdvancedItem ;
+    rdfs:label "The Collector"@en ;
+    moba:buildPath moba:Cloak_of_Agility,
+        moba:Pickaxe,
+        moba:Serrated_Dirk ;
+    moba:goldCost 3000 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "The Collector"^^xsd:string ;
+    moba:providesStats moba:The_Collector_Stats ;
+    moba:uniquePassive true .
+
+moba:Thornmail a moba:AdvancedItem ;
+    rdfs:label "Thornmail"@en ;
+    moba:buildPath moba:Bramble_Vest,
+        moba:Chain_Vest,
+        moba:Ruby_Crystal ;
+    moba:goldCost 2450 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Thornmail"^^xsd:string ;
+    moba:providesStats moba:Thornmail_Stats ;
+    moba:uniquePassive true .
+
+moba:Titanic_Hydra a moba:AdvancedItem ;
+    rdfs:label "Titanic Hydra"@en ;
+    moba:buildPath moba:Giants_Belt,
+        moba:Tiamat,
+        moba:Tunneler ;
+    moba:goldCost 3300 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:HealingEffect ;
+    moba:itemName "Titanic Hydra"^^xsd:string ;
+    moba:providesStats moba:Titanic_Hydra_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Deals area of effect damage based on owner's health"@en .
+
+moba:Trinity_Force a moba:AdvancedItem ;
+    rdfs:label "Trinity Force"@en ;
+    moba:buildPath moba:Hearthbound_Axe,
+        moba:Phage,
+        moba:Sheen ;
+    moba:goldCost 3333 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:MobilityEffect ;
+    moba:itemName "Trinity Force"^^xsd:string ;
+    moba:providesStats moba:Trinity_Force_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Tons of Damage"@en .
+
+moba:Verdant_Barrier a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Verdant Barrier"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 1600 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Shield ;
+    moba:itemName "Verdant Barrier"^^xsd:string ;
+    moba:providesStats moba:Verdant_Barrier_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Banshees_Veil .
+
+moba:Wardens_Mail a moba:ConsumableItem ;
+    rdfs:label "Warden's Mail"@en ;
+    moba:buildPath moba:Cloth_Armor ;
+    moba:goldCost 1000 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Warden's Mail"^^xsd:string ;
+    moba:providesStats moba:Wardens_Mail_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Frozen_Heart,
+        moba:Randuins_Omen .
+
+moba:Winters_Approach a moba:AdvancedItem ;
+    rdfs:label "Winter's Approach"@en ;
+    moba:buildPath moba:Giants_Belt,
+        moba:Kindlegem,
+        moba:Tear_of_the_Goddess ;
+    moba:goldCost 2400 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:HealingEffect ;
+    moba:itemName "Winter's Approach"^^xsd:string ;
+    moba:providesStats moba:Winters_Approach_Stats ;
+    moba:uniquePassive true .
+
+moba:Youmuus_Ghostblade a moba:AdvancedItem ;
+    rdfs:label "Youmuu's Ghostblade"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Rectrix,
+        moba:Serrated_Dirk ;
+    moba:goldCost 2800 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Youmuu's Ghostblade"^^xsd:string ;
+    moba:providesStats moba:Youmuus_Ghostblade_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Activate to greatly increase Move Speed"@en .
+
+moba:Yun_Tal_Wildarrows a moba:AdvancedItem ;
+    rdfs:label "Yun Tal Wildarrows"@en ;
+    moba:buildPath moba:B_F_Sword,
+        moba:Long_Sword,
+        moba:Scouts_Slingshot ;
+    moba:goldCost 3000 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Yun Tal Wildarrows"^^xsd:string ;
+    moba:providesStats moba:Yun_Tal_Wildarrows_Stats ;
+    moba:uniquePassive true .
+
+moba:Zekes_Convergence a moba:AdvancedItem ;
+    rdfs:label "Zeke's Convergence"@en ;
+    moba:buildPath moba:Cloth_Armor,
+        moba:Kindlegem,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 2200 ;
+    moba:hasEffectType moba:DamageEffect,
+        moba:Slow ;
+    moba:itemName "Zeke's Convergence"^^xsd:string ;
+    moba:providesStats moba:Zekes_Convergence_Stats ;
+    moba:uniquePassive true ;
+    rdfs:comment "Grants you and your ally bonuses when you cast your ultimate."@en .
+
+moba:Zhonyas_Hourglass a moba:AdvancedItem ;
+    rdfs:label "Zhonya's Hourglass"@en ;
+    moba:buildPath moba:Needlessly_Large_Rod,
+        moba:Seekers_Armguard ;
+    moba:goldCost 3250 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Zhonya's Hourglass"^^xsd:string ;
+    moba:providesStats moba:Zhonyas_Hourglass_Stats ;
+    rdfs:comment "Activate to become invincible but unable to take actions"@en .
+
+moba:B_F_Sword a moba:ComponentItem ;
+    rdfs:label "B. F. Sword"@en ;
+    moba:goldCost 1300 ;
+    moba:itemName "B. F. Sword"^^xsd:string ;
+    moba:providesStats moba:B_F_Sword_Stats ;
+    moba:upgradesInto moba:Bloodthirster,
+        moba:Guardian_Angel,
+        moba:Infinity_Edge,
+        moba:Yun_Tal_Wildarrows ;
+    rdfs:comment "Greatly increases Attack Damage"@en .
+
+moba:Bamis_Cinder a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Bami's Cinder"@en ;
+    moba:buildPath moba:Glowing_Mote,
+        moba:Ruby_Crystal ;
+    moba:goldCost 900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Bami's Cinder"^^xsd:string ;
+    moba:providesStats moba:Bamis_Cinder_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Hollow_Radiance,
+        moba:Sunfire_Aegis .
+
+moba:Berserkers_Greaves a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Berserker's Greaves"@en ;
+    moba:buildPath moba:Boots,
+        moba:Dagger ;
+    moba:goldCost 1100 ;
+    moba:itemName "Berserker's Greaves"^^xsd:string ;
+    moba:providesStats moba:Berserkers_Greaves_Stats ;
+    moba:upgradesInto moba:Zephyr ;
+    rdfs:comment "Enhances Move Speed and Attack Speed"@en .
+
+moba:Crystalline_Bracer a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Crystalline Bracer"@en ;
+    moba:buildPath moba:Rejuvenation_Bead,
+        moba:Ruby_Crystal ;
+    moba:goldCost 800 ;
+    moba:itemName "Crystalline Bracer"^^xsd:string ;
+    moba:providesStats moba:Crystalline_Bracer_Stats ;
+    moba:upgradesInto moba:Heartsteel,
+        moba:Warmogs_Armor ;
+    rdfs:comment "Grants Health and Health Regen"@en .
+
+moba:Glacial_Buckler a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Glacial Buckler"@en ;
+    moba:buildPath moba:Cloth_Armor,
+        moba:Glowing_Mote,
+        moba:Sapphire_Crystal ;
+    moba:goldCost 900 ;
+    moba:itemName "Glacial Buckler"^^xsd:string ;
+    moba:providesStats moba:Glacial_Buckler_Stats ;
+    moba:upgradesInto moba:Frozen_Heart ;
+    rdfs:comment "Increases Armor and Cooldown Reduction"@en .
+
+moba:Ionian_Boots_of_Lucidity a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Ionian Boots of Lucidity"@en ;
+    moba:buildPath moba:Boots,
+        moba:Glowing_Mote ;
+    moba:goldCost 900 ;
+    moba:itemName "Ionian Boots of Lucidity"^^xsd:string ;
+    moba:providesStats moba:Ionian_Boots_of_Lucidity_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Crimson_Lucidity ;
+    rdfs:comment "Increases Move Speed and Cooldown Reduction"@en .
+
+moba:Last_Whisper a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Last Whisper"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 1450 ;
+    moba:itemName "Last Whisper"^^xsd:string ;
+    moba:providesStats moba:Last_Whisper_Stats ;
+    moba:upgradesInto moba:Lord_Dominiks_Regards,
+        moba:Mortal_Reminder,
+        moba:Seryldas_Grudge ;
+    rdfs:comment "Overcomes enemies with high Armor"@en .
+
+moba:Mercurys_Treads a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Mercury's Treads"@en ;
+    moba:buildPath moba:Boots,
+        moba:Null_Magic_Mantle ;
+    moba:goldCost 1250 ;
+    moba:itemName "Mercury's Treads"^^xsd:string ;
+    moba:providesStats moba:Mercurys_Treads_Stats ;
+    moba:upgradesInto moba:Chainlaced_Crushers ;
+    rdfs:comment "Increases Move Speed and reduces duration of disabling effects"@en .
+
+moba:Needlessly_Large_Rod a moba:ComponentItem ;
+    rdfs:label "Needlessly Large Rod"@en ;
+    moba:goldCost 1200 ;
+    moba:itemName "Needlessly Large Rod"^^xsd:string ;
+    moba:providesStats moba:Needlessly_Large_Rod_Stats ;
+    moba:upgradesInto moba:Banshees_Veil,
+        moba:Rabadons_Deathcap,
+        moba:Shadowflame,
+        moba:Zhonyas_Hourglass ;
+    rdfs:comment "Greatly increases Ability Power"@en .
+
+moba:Noonquiver a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Noonquiver"@en ;
+    moba:buildPath moba:Cloak_of_Agility,
+        moba:Long_Sword ;
+    moba:goldCost 1300 ;
+    moba:itemName "Noonquiver"^^xsd:string ;
+    moba:providesStats moba:Noonquiver_Stats ;
+    moba:upgradesInto moba:Immortal_Shieldbow,
+        moba:Lord_Dominiks_Regards .
+
+moba:Plated_Steelcaps a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Plated Steelcaps"@en ;
+    moba:buildPath moba:Boots,
+        moba:Cloth_Armor ;
+    moba:goldCost 1200 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Plated Steelcaps"^^xsd:string ;
+    moba:providesStats moba:Plated_Steelcaps_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Armored_Advance ;
+    rdfs:comment "Enhances Move Speed and reduces incoming basic attack damage"@en .
+
+moba:Sheen a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Sheen"@en ;
+    moba:buildPath moba:Glowing_Mote ;
+    moba:goldCost 900 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Sheen"^^xsd:string ;
+    moba:providesStats moba:Sheen_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Iceborn_Gauntlet,
+        moba:Lich_Bane,
+        moba:Trinity_Force ;
+    rdfs:comment "Grants a bonus to next attack after spell cast"@en .
+
+moba:Steel_Sigil a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Steel Sigil"@en ;
+    moba:buildPath moba:Cloth_Armor,
+        moba:Long_Sword ;
+    moba:goldCost 1100 ;
+    moba:itemName "Steel Sigil"^^xsd:string ;
+    moba:providesStats moba:Steel_Sigil_Stats ;
+    moba:upgradesInto moba:Deaths_Dance,
+        moba:Guardian_Angel .
+
+moba:Bounty_of_Worlds a moba:ComponentItem ;
+    rdfs:label "Bounty of Worlds"@en ;
+    moba:goldCost 400 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:itemName "Bounty of Worlds"^^xsd:string ;
+    moba:providesStats moba:Bounty_of_Worlds_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Bloodsong,
+        moba:Celestial_Opposition,
+        moba:Dream_Maker,
+        moba:Solstice_Sleigh,
+        moba:ZazZaks_Realmspike .
+
+moba:Haunting_Guise a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Haunting Guise"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Ruby_Crystal ;
+    moba:goldCost 1300 ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Haunting Guise"^^xsd:string ;
+    moba:providesStats moba:Haunting_Guise_Stats ;
+    moba:upgradesInto moba:Bloodletters_Curse,
+        moba:Liandrys_Torment,
+        moba:Riftmaker ;
+    rdfs:comment "Deals additional physical damage when ambushing enemies"@en .
+
+moba:Hearthbound_Axe a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Hearthbound Axe"@en ;
+    moba:buildPath moba:Dagger,
+        moba:Long_Sword ;
+    moba:goldCost 1200 ;
+    moba:itemName "Hearthbound Axe"^^xsd:string ;
+    moba:providesStats moba:Hearthbound_Axe_Stats ;
+    moba:upgradesInto moba:Kraken_Slayer,
+        moba:Terminus,
+        moba:Trinity_Force .
+
+moba:Hextech_Alternator a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Hextech Alternator"@en ;
+    moba:buildPath moba:Amplifying_Tome ;
+    moba:goldCost 1100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Hextech Alternator"^^xsd:string ;
+    moba:providesStats moba:Hextech_Alternator_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Hextech_Rocketbelt,
+        moba:Ludens_Companion,
+        moba:Shadowflame,
+        moba:Stormsurge ;
+    rdfs:comment "Increases Ability Power. Deal bonus magic damage on attack periodically."@en .
+
+moba:Rectrix a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Rectrix"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 775 ;
+    moba:itemName "Rectrix"^^xsd:string ;
+    moba:providesStats moba:Rectrix_Stats ;
+    moba:upgradesInto moba:Kraken_Slayer,
+        moba:Lifeline,
+        moba:Statikk_Shiv,
+        moba:Youmuus_Ghostblade .
+
+moba:Scouts_Slingshot a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Scout's Slingshot"@en ;
+    moba:buildPath moba:Dagger ;
+    moba:goldCost 600 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Scout's Slingshot"^^xsd:string ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Rapid_Firecannon,
+        moba:Runaans_Hurricane,
+        moba:Statikk_Shiv,
+        moba:Yun_Tal_Wildarrows ;
+    rdfs:comment "Activate to deal magic damage and slow target champion"@en .
+
+moba:The_Brutalizer a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "The Brutalizer"@en ;
+    moba:buildPath moba:Glowing_Mote,
+        moba:Pickaxe ;
+    moba:goldCost 1337 ;
+    moba:itemName "The Brutalizer"^^xsd:string ;
+    moba:providesStats moba:The_Brutalizer_Stats ;
+    moba:upgradesInto moba:Axiom_Arc,
+        moba:Profane_Hydra,
+        moba:Voltaic_Cyclosword .
+
+moba:Tiamat a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Tiamat"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 1200 ;
+    moba:hasEffectActivation moba:ActiveEffect ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Tiamat"^^xsd:string ;
+    moba:providesStats moba:Tiamat_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Profane_Hydra,
+        moba:Ravenous_Hydra,
+        moba:Stridebreaker,
+        moba:Titanic_Hydra ;
+    rdfs:comment "Melee attacks hit nearby enemies"@en .
+
+moba:Vampiric_Scepter a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Vampiric Scepter"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 900 ;
+    moba:itemName "Vampiric Scepter"^^xsd:string ;
+    moba:providesStats moba:Vampiric_Scepter_Stats ;
+    moba:upgradesInto moba:Blade_of_the_Ruined_King,
+        moba:Bloodthirster,
+        moba:Mercurial_Scimitar,
+        moba:Ravenous_Hydra ;
+    rdfs:comment "Basic attacks restore Health"@en .
+
+moba:Winged_Moonplate a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Winged Moonplate"@en ;
+    moba:buildPath moba:Ruby_Crystal ;
+    moba:goldCost 800 ;
+    moba:itemName "Winged Moonplate"^^xsd:string ;
+    moba:providesStats moba:Winged_Moonplate_Stats ;
+    moba:upgradesInto moba:Dead_Mans_Plate,
+        moba:Force_of_Nature,
+        moba:Hullbreaker,
+        moba:Trailblazer .
+
+moba:Aether_Wisp a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Aether Wisp"@en ;
+    moba:buildPath moba:Amplifying_Tome ;
+    moba:goldCost 900 ;
+    moba:itemName "Aether Wisp"^^xsd:string ;
+    moba:providesStats moba:Aether_Wisp_Stats ;
+    moba:upgradesInto moba:Ardent_Censer,
+        moba:Cosmic_Drive,
+        moba:Lich_Bane,
+        moba:Shurelyas_Battlesong,
+        moba:Stormsurge ;
+    rdfs:comment "Increases Ability Power and Move Speed"@en .
+
+moba:Cloak_of_Agility a moba:ComponentItem ;
+    rdfs:label "Cloak of Agility"@en ;
+    moba:goldCost 600 ;
+    moba:itemName "Cloak of Agility"^^xsd:string ;
+    moba:upgradesInto moba:Essence_Reaver,
+        moba:Infinity_Edge,
+        moba:Mortal_Reminder,
+        moba:Noonquiver,
+        moba:The_Collector,
+        moba:Zeal ;
+    rdfs:comment "Increases critical strike chance"@en .
+
+moba:Forbidden_Idol a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Forbidden Idol"@en ;
+    moba:buildPath moba:Faerie_Charm ;
+    moba:goldCost 600 ;
+    moba:itemName "Forbidden Idol"^^xsd:string ;
+    moba:providesStats moba:Forbidden_Idol_Stats ;
+    moba:upgradesInto moba:Ardent_Censer,
+        moba:Dawncore,
+        moba:Mikaels_Blessing,
+        moba:Redemption,
+        moba:Staff_of_Flowing_Water ;
+    rdfs:comment "Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction"@en .
+
+moba:Negatron_Cloak a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Negatron Cloak"@en ;
+    moba:buildPath moba:Null_Magic_Mantle ;
+    moba:goldCost 850 ;
+    moba:itemName "Negatron Cloak"^^xsd:string ;
+    moba:providesStats moba:Negatron_Cloak_Stats ;
+    moba:upgradesInto moba:Abyssal_Mask,
+        moba:Force_of_Nature,
+        moba:JakSho_The_Protean,
+        moba:Kaenic_Rookern,
+        moba:Wits_End ;
+    rdfs:comment "Moderately increases Magic Resist"@en .
+
+moba:Phage a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Phage"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Ruby_Crystal ;
+    moba:goldCost 1100 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:MobilityEffect ;
+    moba:itemName "Phage"^^xsd:string ;
+    moba:providesStats moba:Phage_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Black_Cleaver,
+        moba:Experimental_Hexplate,
+        moba:Stridebreaker,
+        moba:Trinity_Force ;
+    rdfs:comment "Attacks and kills give a small burst of speed"@en .
+
+moba:Spectres_Cowl a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Spectre's Cowl"@en ;
+    moba:buildPath moba:Null_Magic_Mantle,
+        moba:Rejuvenation_Bead,
+        moba:Ruby_Crystal ;
+    moba:goldCost 1250 ;
+    moba:itemName "Spectre's Cowl"^^xsd:string ;
+    moba:providesStats moba:Spectres_Cowl_Stats ;
+    moba:upgradesInto moba:Hollow_Radiance,
+        moba:Kaenic_Rookern,
+        moba:Spirit_Visage ;
+    rdfs:comment "Improves defense and grants regeneration upon being damaged"@en .
+
+moba:Zeal a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Zeal"@en ;
+    moba:buildPath moba:Cloak_of_Agility,
+        moba:Dagger ;
+    moba:goldCost 1200 ;
+    moba:itemName "Zeal"^^xsd:string ;
+    moba:providesStats moba:Zeal_Stats ;
+    moba:upgradesInto moba:Navori_Flickerblade,
+        moba:Phantom_Dancer,
+        moba:Rapid_Firecannon,
+        moba:Runaans_Hurricane ;
+    rdfs:comment "Slight bonuses to Critical Strike Chance, Move Speed and Attack Speed"@en .
+
+moba:Bandleglass_Mirror a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Bandleglass Mirror"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Faerie_Charm,
+        moba:Glowing_Mote ;
+    moba:goldCost 900 ;
+    moba:itemName "Bandleglass Mirror"^^xsd:string ;
+    moba:providesStats moba:Bandleglass_Mirror_Stats ;
+    moba:upgradesInto moba:Echoes_of_Helia,
+        moba:Imperial_Mandate,
+        moba:Moonstone_Renewer,
+        moba:Shurelyas_Battlesong .
+
+moba:Boots a moba:ComponentItem ;
+    rdfs:label "Boots"@en ;
+    moba:goldCost 300 ;
+    moba:itemName "Boots"^^xsd:string ;
+    moba:providesStats moba:Boots_Stats ;
+    moba:upgradesInto moba:Berserkers_Greaves,
+        moba:Boots_of_Swiftness,
+        moba:Ionian_Boots_of_Lucidity,
+        moba:Mercurys_Treads,
+        moba:Plated_Steelcaps,
+        moba:Sorcerers_Shoes,
+        moba:Symbiotic_Soles ;
+    rdfs:comment "Slightly increases Move Speed"@en .
+
+moba:Lost_Chapter a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Lost Chapter"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Glowing_Mote,
+        moba:Sapphire_Crystal ;
+    moba:goldCost 1200 ;
+    moba:hasEffectType moba:ManaRestore ;
+    moba:itemName "Lost Chapter"^^xsd:string ;
+    moba:providesStats moba:Lost_Chapter_Stats ;
+    moba:uniquePassive true ;
+    moba:upgradesInto moba:Archangels_Staff,
+        moba:Blackfire_Torch,
+        moba:Ludens_Companion,
+        moba:Malignance ;
+    rdfs:comment "Restores Mana upon levelling up."@en .
+
+moba:Recurve_Bow a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Recurve Bow"@en ;
+    moba:buildPath moba:Dagger ;
+    moba:goldCost 700 ;
+    moba:grantsStatusEffect moba:Buff ;
+    moba:hasEffectType moba:DamageEffect ;
+    moba:itemName "Recurve Bow"^^xsd:string ;
+    moba:upgradesInto moba:Blade_of_the_Ruined_King,
+        moba:Guinsoos_Rageblade,
+        moba:Kraken_Slayer,
+        moba:Nashors_Tooth,
+        moba:Terminus,
+        moba:Wits_End ;
+    rdfs:comment "Greatly increases Attack Speed"@en .
+
+moba:Chain_Vest a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Chain Vest"@en ;
+    moba:buildPath moba:Cloth_Armor ;
+    moba:goldCost 800 ;
+    moba:itemName "Chain Vest"^^xsd:string ;
+    moba:providesStats moba:Chain_Vest_Stats ;
+    moba:upgradesInto moba:Dead_Mans_Plate,
+        moba:Iceborn_Gauntlet,
+        moba:JakSho_The_Protean,
+        moba:Knights_Vow,
+        moba:Sunfire_Aegis,
+        moba:Thornmail,
+        moba:Trailblazer ;
+    rdfs:comment "Greatly increases Armor"@en .
+
+moba:Serrated_Dirk a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Serrated Dirk"@en ;
+    moba:buildPath moba:Long_Sword ;
+    moba:goldCost 1000 ;
+    moba:itemName "Serrated Dirk"^^xsd:string ;
+    moba:providesStats moba:Serrated_Dirk_Stats ;
+    moba:upgradesInto moba:Edge_of_Night,
+        moba:Hubris,
+        moba:Opportunity,
+        moba:Serpents_Fang,
+        moba:The_Collector,
+        moba:Umbral_Glaive,
+        moba:Youmuus_Ghostblade ;
+    rdfs:comment "Increases Attack Damage and Lethality"@en .
+
+moba:Blasting_Wand a moba:ComponentItem ;
+    rdfs:label "Blasting Wand"@en ;
+    moba:goldCost 850 ;
+    moba:itemName "Blasting Wand"^^xsd:string ;
+    moba:providesStats moba:Blasting_Wand_Stats ;
+    moba:upgradesInto moba:Dawncore,
+        moba:Horizon_Focus,
+        moba:Lich_Bane,
+        moba:Malignance,
+        moba:Morellonomicon,
+        moba:Nashors_Tooth,
+        moba:Rod_of_Ages,
+        moba:Rylais_Crystal_Scepter,
+        moba:Void_Staff ;
+    rdfs:comment "Moderately increases Ability Power"@en .
+
+moba:Dagger a moba:ComponentItem ;
+    rdfs:label "Dagger"@en ;
+    moba:goldCost 250 ;
+    moba:itemName "Dagger"^^xsd:string ;
+    moba:upgradesInto moba:Berserkers_Greaves,
+        moba:Experimental_Hexplate,
+        moba:Hearthbound_Axe,
+        moba:Navori_Flickerblade,
+        moba:Phantom_Dancer,
+        moba:Recurve_Bow,
+        moba:Scouts_Slingshot,
+        moba:Stridebreaker,
+        moba:Zeal ;
+    rdfs:comment "Slightly increases Attack Speed"@en .
+
+moba:Null_Magic_Mantle a moba:ComponentItem ;
+    rdfs:label "Null-Magic Mantle"@en ;
+    moba:goldCost 400 ;
+    moba:itemName "Null-Magic Mantle"^^xsd:string ;
+    moba:providesStats moba:Null_Magic_Mantle_Stats ;
+    moba:upgradesInto moba:Aegis_of_the_Legion,
+        moba:Hexdrinker,
+        moba:Locket_of_the_Iron_Solari,
+        moba:Mercurys_Treads,
+        moba:Negatron_Cloak,
+        moba:Quicksilver_Sash,
+        moba:Spectres_Cowl,
+        moba:Verdant_Barrier,
+        moba:Zekes_Convergence ;
+    rdfs:comment "Slightly increases Magic Resist"@en .
+
+moba:Giants_Belt a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Giant's Belt"@en ;
+    moba:buildPath moba:Ruby_Crystal ;
+    moba:goldCost 900 ;
+    moba:itemName "Giant's Belt"^^xsd:string ;
+    moba:providesStats moba:Giants_Belt_Stats ;
+    moba:upgradesInto moba:Chempunk_Chainsword,
+        moba:Heartsteel,
+        moba:JakSho_The_Protean,
+        moba:Randuins_Omen,
+        moba:Rylais_Crystal_Scepter,
+        moba:Titanic_Hydra,
+        moba:Unending_Despair,
+        moba:Warmogs_Armor,
+        moba:Winters_Approach ;
+    rdfs:comment "Greatly increases Health"@en .
+
+moba:Glowing_Mote a moba:ComponentItem ;
+    rdfs:label "Glowing Mote"@en ;
+    moba:goldCost 250 ;
+    moba:itemName "Glowing Mote"^^xsd:string ;
+    moba:providesStats moba:Glowing_Mote_Stats ;
+    moba:upgradesInto moba:Bamis_Cinder,
+        moba:Bandleglass_Mirror,
+        moba:Caulfields_Warhammer,
+        moba:Fiendish_Codex,
+        moba:Glacial_Buckler,
+        moba:Ionian_Boots_of_Lucidity,
+        moba:Kindlegem,
+        moba:Lost_Chapter,
+        moba:Sheen,
+        moba:The_Brutalizer .
+
+moba:Tunneler a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Tunneler"@en ;
+    moba:buildPath moba:Long_Sword,
+        moba:Ruby_Crystal ;
+    moba:goldCost 1150 ;
+    moba:itemName "Tunneler"^^xsd:string ;
+    moba:providesStats moba:Tunneler_Stats ;
+    moba:upgradesInto moba:Edge_of_Night,
+        moba:Experimental_Hexplate,
+        moba:Hullbreaker,
+        moba:Overlords_Bloodmail,
+        moba:Spear_of_Shojin,
+        moba:Steraks_Gage,
+        moba:Sundered_Sky,
+        moba:Titanic_Hydra .
+
+moba:Cloth_Armor a moba:ComponentItem ;
+    rdfs:label "Cloth Armor"@en ;
+    moba:goldCost 300 ;
+    moba:itemName "Cloth Armor"^^xsd:string ;
+    moba:providesStats moba:Cloth_Armor_Stats ;
+    moba:upgradesInto moba:Aegis_of_the_Legion,
+        moba:Bramble_Vest,
+        moba:Chain_Vest,
+        moba:Glacial_Buckler,
+        moba:Locket_of_the_Iron_Solari,
+        moba:Plated_Steelcaps,
+        moba:Seekers_Armguard,
+        moba:Shattered_Armguard,
+        moba:Steel_Sigil,
+        moba:Wardens_Mail,
+        moba:Zekes_Convergence ;
+    rdfs:comment "Slightly increases Armor"@en .
+
+moba:Fiendish_Codex a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Fiendish Codex"@en ;
+    moba:buildPath moba:Amplifying_Tome,
+        moba:Glowing_Mote ;
+    moba:goldCost 850 ;
+    moba:itemName "Fiendish Codex"^^xsd:string ;
+    moba:providesStats moba:Fiendish_Codex_Stats ;
+    moba:upgradesInto moba:Archangels_Staff,
+        moba:Bloodletters_Curse,
+        moba:Cosmic_Drive,
+        moba:Cryptbloom,
+        moba:Hextech_Rocketbelt,
+        moba:Horizon_Focus,
+        moba:Imperial_Mandate,
+        moba:Nashors_Tooth,
+        moba:Riftmaker,
+        moba:Staff_of_Flowing_Water ;
+    rdfs:comment "Increases Ability Power and Cooldown Reduction"@en .
+
+moba:Amplifying_Tome a moba:ComponentItem ;
+    rdfs:label "Amplifying Tome"@en ;
+    moba:goldCost 400 ;
+    moba:itemName "Amplifying Tome"^^xsd:string ;
+    moba:providesStats moba:Amplifying_Tome_Stats ;
+    moba:upgradesInto moba:Aether_Wisp,
+        moba:Bandleglass_Mirror,
+        moba:Blighting_Jewel,
+        moba:Fated_Ashes,
+        moba:Fiendish_Codex,
+        moba:Guinsoos_Rageblade,
+        moba:Haunting_Guise,
+        moba:Hextech_Alternator,
+        moba:Lost_Chapter,
+        moba:Oblivion_Orb,
+        moba:Rylais_Crystal_Scepter,
+        moba:Seekers_Armguard,
+        moba:Shattered_Armguard,
+        moba:Verdant_Barrier ;
+    rdfs:comment "Slightly increases Ability Power"@en .
+
+moba:Caulfields_Warhammer a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Caulfield's Warhammer"@en ;
+    moba:buildPath moba:Glowing_Mote,
+        moba:Long_Sword ;
+    moba:goldCost 1050 ;
+    moba:itemName "Caulfield's Warhammer"^^xsd:string ;
+    moba:providesStats moba:Caulfields_Warhammer_Stats ;
+    moba:upgradesInto moba:Axiom_Arc,
+        moba:Chempunk_Chainsword,
+        moba:Deaths_Dance,
+        moba:Eclipse,
+        moba:Essence_Reaver,
+        moba:Hubris,
+        moba:Manamune,
+        moba:Maw_of_Malmortius,
+        moba:Ravenous_Hydra,
+        moba:Seryldas_Grudge,
+        moba:Sundered_Sky,
+        moba:Umbral_Glaive ;
+    rdfs:comment "Attack Damage and Cooldown Reduction"@en .
+
+moba:Kindlegem a moba:AdvancedItem,
+        moba:ComponentItem ;
+    rdfs:label "Kindlegem"@en ;
+    moba:buildPath moba:Glowing_Mote,
+        moba:Ruby_Crystal ;
+    moba:goldCost 800 ;
+    moba:itemName "Kindlegem"^^xsd:string ;
+    moba:providesStats moba:Kindlegem_Stats ;
+    moba:upgradesInto moba:Abyssal_Mask,
+        moba:Black_Cleaver,
+        moba:Cosmic_Drive,
+        moba:Echoes_of_Helia,
+        moba:Knights_Vow,
+        moba:Locket_of_the_Iron_Solari,
+        moba:Mikaels_Blessing,
+        moba:Moonstone_Renewer,
+        moba:Morellonomicon,
+        moba:Redemption,
+        moba:Spirit_Visage,
+        moba:Winters_Approach,
+        moba:Zekes_Convergence ;
+    rdfs:comment "Increases Health and Cooldown Reduction"@en .
+
+moba:Pickaxe a moba:ComponentItem ;
+    rdfs:label "Pickaxe"@en ;
+    moba:goldCost 875 ;
+    moba:itemName "Pickaxe"^^xsd:string ;
+    moba:providesStats moba:Pickaxe_Stats ;
+    moba:upgradesInto moba:Black_Cleaver,
+        moba:Blade_of_the_Ruined_King,
+        moba:Bloodthirster,
+        moba:Deaths_Dance,
+        moba:Eclipse,
+        moba:Essence_Reaver,
+        moba:Guinsoos_Rageblade,
+        moba:Hullbreaker,
+        moba:Immortal_Shieldbow,
+        moba:Infinity_Edge,
+        moba:Mercurial_Scimitar,
+        moba:Opportunity,
+        moba:Serpents_Fang,
+        moba:Spear_of_Shojin,
+        moba:Statikk_Shiv,
+        moba:Steraks_Gage,
+        moba:The_Brutalizer,
+        moba:The_Collector ;
+    rdfs:comment "Moderately increases Attack Damage"@en .
+
+moba:Ruby_Crystal a moba:ComponentItem ;
+    rdfs:label "Ruby Crystal"@en ;
+    moba:goldCost 400 ;
+    moba:itemName "Ruby Crystal"^^xsd:string ;
+    moba:providesStats moba:Ruby_Crystal_Stats ;
+    moba:upgradesInto moba:Bamis_Cinder,
+        moba:Catalyst_of_Aeons,
+        moba:Crystalline_Bracer,
+        moba:Dead_Mans_Plate,
+        moba:Force_of_Nature,
+        moba:Giants_Belt,
+        moba:Haunting_Guise,
+        moba:Hextech_Rocketbelt,
+        moba:Iceborn_Gauntlet,
+        moba:Kindlegem,
+        moba:Phage,
+        moba:Spear_of_Shojin,
+        moba:Spectres_Cowl,
+        moba:Steraks_Gage,
+        moba:Sundered_Sky,
+        moba:Thornmail,
+        moba:Tunneler,
+        moba:Winged_Moonplate ;
+    rdfs:comment "Increases Health"@en .
+
+moba:Long_Sword a moba:ComponentItem ;
+    rdfs:label "Long Sword"@en ;
+    moba:goldCost 350 ;
+    moba:itemName "Long Sword"^^xsd:string ;
+    moba:providesStats moba:Long_Sword_Stats ;
+    moba:upgradesInto moba:Caulfields_Warhammer,
+        moba:Eclipse,
+        moba:Executioners_Calling,
+        moba:Hearthbound_Axe,
+        moba:Hexdrinker,
+        moba:Last_Whisper,
+        moba:Lifeline,
+        moba:Manamune,
+        moba:Noonquiver,
+        moba:Opportunity,
+        moba:Phage,
+        moba:Rectrix,
+        moba:Serrated_Dirk,
+        moba:Steel_Sigil,
+        moba:Tiamat,
+        moba:Tunneler,
+        moba:Vampiric_Scepter,
+        moba:Voltaic_Cyclosword,
+        moba:Youmuus_Ghostblade,
+        moba:Yun_Tal_Wildarrows ;
+    rdfs:comment "Slightly increases Attack Damage"@en .
+
