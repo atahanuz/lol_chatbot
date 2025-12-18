@@ -4,7 +4,7 @@ A semantic web-powered chatbot that answers questions about League of Legends us
 
 Developed by [Atahan Uz](https://www.linkedin.com/in/atahan-uz/) & [Gizem Yılmaz](https://www.linkedin.com/in/gizem7/)
 
-Presentation: Presentation.pdf
+Presentation: [Presentation.pdf](Presentation.pdf)
 
 Paper: Coming Soon
 
@@ -100,14 +100,13 @@ streamlit run streamlit_app.py
 ```
 
 ## Example Questions
-
+- "Who should I pick to counter enemy team: Yasuo mid, Zed jungle, Jinx ADC?"
+- "Which assassins have stealth in their kit?"
+- "On Jinx Should I buy IE or The Bloodthirster"
 - "How much damage does Evelynn's Q do at level 3?"
-- "What is Ashe's base health?"
-- "Who counters Aatrox?"
 - "What items should I build on Aatrox?"
 - "How much does Infinity Edge cost?"
-- "How much health does Baron have?"
-- "What is the outer turret's damage?"
+
 
 ## Data Sources
 
