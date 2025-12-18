@@ -852,7 +852,7 @@ def main():
     debug_mode = render_sidebar()
 
     # Set custom CSS (after knowing the mode)
-    set_custom_css(os.path.join(ASSETS_DIR, "im2.jpg"), debug_mode)
+    set_custom_css(os.path.join(ASSETS_DIR, "artwork_2.jpg"), debug_mode)
 
     # Check for API key
     if not OPENAI_API_KEY:
@@ -869,7 +869,7 @@ def main():
         st.stop()
 
     # Title with LoL logo
-    lol_logo_b64 = get_base64_image(os.path.join(ASSETS_DIR, "LoL-Symbol.png"))
+    lol_logo_b64 = get_base64_image(os.path.join(ASSETS_DIR, "lol_symbol.png"))
     st.markdown(
         f"""
         <div class="lol-title">

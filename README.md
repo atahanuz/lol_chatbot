@@ -8,6 +8,7 @@ Presentation: Presentation.pdf
 
 Paper: Coming Soon
 
+![App Screenshot](assets/app.png)
 
 
 ## Features
@@ -156,10 +157,5 @@ User Question
 ## Acknowledgments
 
 - League of Legends game by Riot Games
-- Game data by Mobalytics, LoL Wiki, DataDragon, Leaguepedia and LoLAlytics
-https://github.com/meraki-analytics/lolstaticdata
-https://mobalytics.gg/lol
-https://lol.fandom.com/wiki/Help:Leaguepedia_API
-https://wiki.leagueoflegends.com/en-us/
-https://lolalytics.com
+- Game data by [Mobalytics](https://mobalytics.gg/lol), [LoL Wiki](https://wiki.leagueoflegends.com/en-us/), [DataDragon](https://github.com/meraki-analytics/lolstaticdata), [Leaguepedia](https://lol.fandom.com/wiki/Help:Leaguepedia_API) and [LoLAlytics](https://lolalytics.com)
 - Prof. Suzan Üsküdarlı for her guidance during the project 
