@@ -1,0 +1,45 @@
+{
+  "champion": "pantheon",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Symbiotic Soles",
+    "Umbral Glaive"
+  ],
+  "fourth_item_options": [
+    "Black Cleaver",
+    "Sundered Sky"
+  ],
+  "fifth_item_options": [
+    "Black Cleaver",
+    "Sundered Sky",
+    "Eclipse"
+  ],
+  "sixth_item_options": [
+    "Edge of Night",
+    "Black Cleaver",
+    "Sundered Sky"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Symbiotic Soles",
+    "Umbral Glaive",
+    "Black Cleaver",
+    "Black Cleaver",
+    "Edge of Night"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

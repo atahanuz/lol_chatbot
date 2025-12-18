@@ -1,0 +1,129 @@
+{
+  "champion": "Tristana",
+  "weakAgainst": [
+    {
+      "champion": "Ziggs",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Sivir",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Samira",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Draven",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Aphelios",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Yunara",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Varus",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Kog'Maw",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Nilah",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Kalista",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Corki",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Ezreal",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zeri",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Xayah",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Lucian",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Smolder",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Ashe",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Twitch",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/tristana"
+}

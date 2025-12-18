@@ -1,0 +1,45 @@
+{
+  "champion": "trundle",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Mercury's Treads",
+    "Dead Man's Plate"
+  ],
+  "fourth_item_options": [
+    "Spirit Visage",
+    "Blade of The Ruined King"
+  ],
+  "fifth_item_options": [
+    "Thornmail",
+    "Spirit Visage",
+    "Randuin's Omen"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Blade of The Ruined King",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Mercury's Treads",
+    "Dead Man's Plate",
+    "Spirit Visage",
+    "Thornmail",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "pyke",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Boots of Swiftness",
+    "Umbral Glaive"
+  ],
+  "fourth_item_options": [
+    "Edge of Night",
+    "Youmuu's Ghostblade"
+  ],
+  "fifth_item_options": [
+    "Edge of Night",
+    "Youmuu's Ghostblade",
+    "Axiom Arc"
+  ],
+  "sixth_item_options": [
+    "Edge of Night",
+    "Voltaic Cyclosword",
+    "Axiom Arc"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Boots of Swiftness",
+    "Umbral Glaive",
+    "Edge of Night",
+    "Edge of Night",
+    "Edge of Night"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Hail of Blades",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

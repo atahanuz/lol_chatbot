@@ -1,0 +1,45 @@
+{
+  "champion": "elise",
+  "starting_items": [],
+  "core_items": [
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Void Staff"
+  ],
+  "sixth_item_options": [
+    "Void Staff",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "full_build": [
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Void Staff"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Dark Harvest",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

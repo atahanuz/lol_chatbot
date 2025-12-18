@@ -1,0 +1,45 @@
+{
+  "champion": "camille",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Ravenous Hydra"
+  ],
+  "fourth_item_options": [
+    "Spear of Shojin",
+    "Sterak's Gage"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Spear of Shojin"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Sundered Sky"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Ravenous Hydra",
+    "Spear of Shojin",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Teleport",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

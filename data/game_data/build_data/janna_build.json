@@ -1,0 +1,45 @@
+{
+  "champion": "janna",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Boots of Swiftness",
+    "Moonstone Renewer"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Dawncore",
+    "Redemption"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Mejai's Soulstealer",
+    "Shurelya's Battlesong"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Boots of Swiftness",
+    "Moonstone Renewer",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

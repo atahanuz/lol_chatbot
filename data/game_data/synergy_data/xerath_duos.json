@@ -1,0 +1,257 @@
+[
+  {
+    "champion": "Bel'Veth",
+    "duo_win_rate": "58.35%",
+    "matches": 533
+  },
+  {
+    "champion": "Rammus",
+    "duo_win_rate": "58.25%",
+    "matches": 285
+  },
+  {
+    "champion": "Naafiri",
+    "duo_win_rate": "56.44%",
+    "matches": 707
+  },
+  {
+    "champion": "Rek'Sai",
+    "duo_win_rate": "55.71%",
+    "matches": 499
+  },
+  {
+    "champion": "Ekko",
+    "duo_win_rate": "55.22%",
+    "matches": 920
+  },
+  {
+    "champion": "Briar",
+    "duo_win_rate": "54.53%",
+    "matches": 895
+  },
+  {
+    "champion": "Ivern",
+    "duo_win_rate": "54.08%",
+    "matches": 294
+  },
+  {
+    "champion": "Volibear",
+    "duo_win_rate": "53.97%",
+    "matches": 378
+  },
+  {
+    "champion": "Kha'Zix",
+    "duo_win_rate": "53.88%",
+    "matches": 1624
+  },
+  {
+    "champion": "Jayce",
+    "duo_win_rate": "53.61%",
+    "matches": 638
+  },
+  {
+    "champion": "Dr. Mundo",
+    "duo_win_rate": "53.58%",
+    "matches": 797
+  },
+  {
+    "champion": "Udyr",
+    "duo_win_rate": "53.47%",
+    "matches": 404
+  },
+  {
+    "champion": "Kindred",
+    "duo_win_rate": "53.26%",
+    "matches": 706
+  },
+  {
+    "champion": "Gwen",
+    "duo_win_rate": "53.08%",
+    "matches": 260
+  },
+  {
+    "champion": "Ambessa",
+    "duo_win_rate": "52.97%",
+    "matches": 589
+  },
+  {
+    "champion": "Diana",
+    "duo_win_rate": "52.95%",
+    "matches": 1203
+  },
+  {
+    "champion": "Shaco",
+    "duo_win_rate": "52.85%",
+    "matches": 808
+  },
+  {
+    "champion": "Xin Zhao",
+    "duo_win_rate": "52.78%",
+    "matches": 900
+  },
+  {
+    "champion": "Amumu",
+    "duo_win_rate": "52.7%",
+    "matches": 444
+  },
+  {
+    "champion": "Sejuani",
+    "duo_win_rate": "52.42%",
+    "matches": 372
+  },
+  {
+    "champion": "Aatrox",
+    "duo_win_rate": "52.35%",
+    "matches": 2300
+  },
+  {
+    "champion": "Warwick",
+    "duo_win_rate": "52.16%",
+    "matches": 625
+  },
+  {
+    "champion": "Nunu & Willump",
+    "duo_win_rate": "51.91%",
+    "matches": 470
+  },
+  {
+    "champion": "Lillia",
+    "duo_win_rate": "51.62%",
+    "matches": 554
+  },
+  {
+    "champion": "Trundle",
+    "duo_win_rate": "51.47%",
+    "matches": 272
+  },
+  {
+    "champion": "Qiyana",
+    "duo_win_rate": "51.27%",
+    "matches": 1457
+  },
+  {
+    "champion": "Rengar",
+    "duo_win_rate": "51.19%",
+    "matches": 1426
+  },
+  {
+    "champion": "Kayn",
+    "duo_win_rate": "50.91%",
+    "matches": 1257
+  },
+  {
+    "champion": "Vi",
+    "duo_win_rate": "50.9%",
+    "matches": 668
+  },
+  {
+    "champion": "Malphite",
+    "duo_win_rate": "50.86%",
+    "matches": 989
+  },
+  {
+    "champion": "Evelynn",
+    "duo_win_rate": "50.76%",
+    "matches": 461
+  },
+  {
+    "champion": "Lee Sin",
+    "duo_win_rate": "50.74%",
+    "matches": 2893
+  },
+  {
+    "champion": "Master Yi",
+    "duo_win_rate": "50.39%",
+    "matches": 1147
+  },
+  {
+    "champion": "Graves",
+    "duo_win_rate": "50.21%",
+    "matches": 1689
+  },
+  {
+    "champion": "Sylas",
+    "duo_win_rate": "50.13%",
+    "matches": 2623
+  },
+  {
+    "champion": "Jarvan IV",
+    "duo_win_rate": "49.86%",
+    "matches": 1727
+  },
+  {
+    "champion": "Wukong",
+    "duo_win_rate": "49.82%",
+    "matches": 813
+  },
+  {
+    "champion": "Viego",
+    "duo_win_rate": "49.77%",
+    "matches": 2612
+  },
+  {
+    "champion": "Jax",
+    "duo_win_rate": "49.74%",
+    "matches": 780
+  },
+  {
+    "champion": "Zaahen",
+    "duo_win_rate": "49.55%",
+    "matches": 775
+  },
+  {
+    "champion": "Talon",
+    "duo_win_rate": "49.23%",
+    "matches": 1162
+  },
+  {
+    "champion": "Nidalee",
+    "duo_win_rate": "49.16%",
+    "matches": 718
+  },
+  {
+    "champion": "Zac",
+    "duo_win_rate": "48.62%",
+    "matches": 654
+  },
+  {
+    "champion": "Fiddlesticks",
+    "duo_win_rate": "48.09%",
+    "matches": 393
+  },
+  {
+    "champion": "Zed",
+    "duo_win_rate": "48.02%",
+    "matches": 1235
+  },
+  {
+    "champion": "Hecarim",
+    "duo_win_rate": "47.59%",
+    "matches": 830
+  },
+  {
+    "champion": "Elise",
+    "duo_win_rate": "47.18%",
+    "matches": 549
+  },
+  {
+    "champion": "Nocturne",
+    "duo_win_rate": "46.4%",
+    "matches": 819
+  },
+  {
+    "champion": "Cho'Gath",
+    "duo_win_rate": "46.15%",
+    "matches": 247
+  },
+  {
+    "champion": "Karthus",
+    "duo_win_rate": "46.13%",
+    "matches": 297
+  },
+  {
+    "champion": "Pantheon",
+    "duo_win_rate": "44.57%",
+    "matches": 359
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "champion": "ezreal",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Ionian Boots of Lucidity",
+    "Manamune"
+  ],
+  "fourth_item_options": [
+    "Spear of Shojin",
+    "Serylda's Grudge"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Bloodthirster",
+    "Spear of Shojin"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Maw of Malmortius",
+    "Frozen Heart"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Ionian Boots of Lucidity",
+    "Manamune",
+    "Spear of Shojin",
+    "Serylda's Grudge",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

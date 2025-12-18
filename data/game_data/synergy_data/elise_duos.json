@@ -1,0 +1,192 @@
+[
+  {
+    "champion": "Swain",
+    "duo_win_rate": "57.02%",
+    "matches": 342
+  },
+  {
+    "champion": "Zyra",
+    "duo_win_rate": "56.96%",
+    "matches": 381
+  },
+  {
+    "champion": "Maokai",
+    "duo_win_rate": "56.42%",
+    "matches": 257
+  },
+  {
+    "champion": "Soraka",
+    "duo_win_rate": "55.18%",
+    "matches": 897
+  },
+  {
+    "champion": "Janna",
+    "duo_win_rate": "54.69%",
+    "matches": 971
+  },
+  {
+    "champion": "Taric",
+    "duo_win_rate": "54.24%",
+    "matches": 271
+  },
+  {
+    "champion": "Zilean",
+    "duo_win_rate": "54.02%",
+    "matches": 522
+  },
+  {
+    "champion": "Sona",
+    "duo_win_rate": "53.89%",
+    "matches": 553
+  },
+  {
+    "champion": "Tahm Kench",
+    "duo_win_rate": "53.21%",
+    "matches": 312
+  },
+  {
+    "champion": "Brand",
+    "duo_win_rate": "53.11%",
+    "matches": 241
+  },
+  {
+    "champion": "Alistar",
+    "duo_win_rate": "52.82%",
+    "matches": 833
+  },
+  {
+    "champion": "Thresh",
+    "duo_win_rate": "52.56%",
+    "matches": 1969
+  },
+  {
+    "champion": "Morgana",
+    "duo_win_rate": "52.37%",
+    "matches": 485
+  },
+  {
+    "champion": "Karma",
+    "duo_win_rate": "51.97%",
+    "matches": 1697
+  },
+  {
+    "champion": "Rell",
+    "duo_win_rate": "51.91%",
+    "matches": 653
+  },
+  {
+    "champion": "Nami",
+    "duo_win_rate": "51.86%",
+    "matches": 2692
+  },
+  {
+    "champion": "Pyke",
+    "duo_win_rate": "51.78%",
+    "matches": 1319
+  },
+  {
+    "champion": "Poppy",
+    "duo_win_rate": "51.76%",
+    "matches": 512
+  },
+  {
+    "champion": "Seraphine",
+    "duo_win_rate": "51.74%",
+    "matches": 603
+  },
+  {
+    "champion": "Bard",
+    "duo_win_rate": "51.3%",
+    "matches": 1312
+  },
+  {
+    "champion": "Sylas",
+    "duo_win_rate": "51.27%",
+    "matches": 197
+  },
+  {
+    "champion": "Renata Glasc",
+    "duo_win_rate": "51.13%",
+    "matches": 221
+  },
+  {
+    "champion": "Lulu",
+    "duo_win_rate": "50.99%",
+    "matches": 1618
+  },
+  {
+    "champion": "Leona",
+    "duo_win_rate": "50.86%",
+    "matches": 1219
+  },
+  {
+    "champion": "Pantheon",
+    "duo_win_rate": "50.82%",
+    "matches": 608
+  },
+  {
+    "champion": "Senna",
+    "duo_win_rate": "50.8%",
+    "matches": 624
+  },
+  {
+    "champion": "Xerath",
+    "duo_win_rate": "50.78%",
+    "matches": 319
+  },
+  {
+    "champion": "Yuumi",
+    "duo_win_rate": "50.74%",
+    "matches": 739
+  },
+  {
+    "champion": "Braum",
+    "duo_win_rate": "50.69%",
+    "matches": 1081
+  },
+  {
+    "champion": "Shaco",
+    "duo_win_rate": "50.21%",
+    "matches": 233
+  },
+  {
+    "champion": "Milio",
+    "duo_win_rate": "50%",
+    "matches": 1696
+  },
+  {
+    "champion": "Blitzcrank",
+    "duo_win_rate": "49.64%",
+    "matches": 985
+  },
+  {
+    "champion": "Nautilus",
+    "duo_win_rate": "49.47%",
+    "matches": 1710
+  },
+  {
+    "champion": "Vel'Koz",
+    "duo_win_rate": "48.8%",
+    "matches": 332
+  },
+  {
+    "champion": "Lux",
+    "duo_win_rate": "48.74%",
+    "matches": 515
+  },
+  {
+    "champion": "Rakan",
+    "duo_win_rate": "48.57%",
+    "matches": 807
+  },
+  {
+    "champion": "Neeko",
+    "duo_win_rate": "46.75%",
+    "matches": 415
+  },
+  {
+    "champion": "Mel",
+    "duo_win_rate": "40.1%",
+    "matches": 414
+  }
+]

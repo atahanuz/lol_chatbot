@@ -1,0 +1,45 @@
+{
+  "champion": "anivia",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff"
+  ],
+  "fourth_item_options": [
+    "Liandry's Torment",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Cryptbloom"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff",
+    "Liandry's Torment",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

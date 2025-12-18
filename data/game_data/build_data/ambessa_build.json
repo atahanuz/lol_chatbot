@@ -1,0 +1,45 @@
+{
+  "champion": "ambessa",
+  "starting_items": [],
+  "core_items": [
+    "Eclipse",
+    "Plated Steelcaps",
+    "Spear of Shojin"
+  ],
+  "fourth_item_options": [
+    "Death's Dance",
+    "Maw of Malmortius"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Maw of Malmortius"
+  ],
+  "sixth_item_options": [
+    "Serpent's Fang",
+    "Voltaic Cyclosword",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Eclipse",
+    "Plated Steelcaps",
+    "Spear of Shojin",
+    "Death's Dance",
+    "Death's Dance",
+    "Serpent's Fang"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

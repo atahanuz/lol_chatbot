@@ -1,0 +1,184 @@
+{
+  "champion": "Senna",
+  "weakAgainst": [
+    {
+      "champion": "Elise",
+      "score": 7.4,
+      "winRate": 62
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Zyra",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Sona",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Karma",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Milio",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Nami",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Brand",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Pyke",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Bard",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Soraka",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Shaco",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Rell",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Pantheon",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Leona",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Poppy",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Seraphine",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Thresh",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Taric",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Mel",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Alistar",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Braum",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Morgana",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Swain",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lux",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Janna",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/senna"
+}

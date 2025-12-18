@@ -1,0 +1,45 @@
+{
+  "champion": "xerath",
+  "starting_items": [],
+  "core_items": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame",
+    "Horizon Focus"
+  ],
+  "sixth_item_options": [
+    "Void Staff",
+    "Rabadon's Deathcap",
+    "Horizon Focus"
+  ],
+  "full_build": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Void Staff"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "First Strike",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

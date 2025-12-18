@@ -1,0 +1,45 @@
+{
+  "champion": "sivir",
+  "starting_items": [],
+  "core_items": [
+    "Essence Reaver",
+    "Berserker's Greaves",
+    "Navori Flickerblade"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Mortal Reminder",
+    "Bloodthirster"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Maw of Malmortius",
+    "Lord Dominik's Regards"
+  ],
+  "full_build": [
+    "Essence Reaver",
+    "Berserker's Greaves",
+    "Navori Flickerblade",
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

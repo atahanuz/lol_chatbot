@@ -1,0 +1,109 @@
+{
+  "champion": "Corki",
+  "weakAgainst": [
+    {
+      "champion": "Lucian",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Xayah",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Zeri",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Twitch",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Sivir",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Tristana",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ezreal",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Yunara",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Aphelios",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Draven",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Ashe",
+      "score": 5.2,
+      "winRate": 51
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Samira",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Varus",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Vayne",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/corki"
+}

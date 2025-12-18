@@ -1,0 +1,45 @@
+{
+  "champion": "zac",
+  "starting_items": [],
+  "core_items": [
+    "Sunfire Aegis",
+    "Ionian Boots of Lucidity",
+    "Spirit Visage"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Unending Despair",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Thornmail",
+    "Unending Despair"
+  ],
+  "full_build": [
+    "Sunfire Aegis",
+    "Ionian Boots of Lucidity",
+    "Spirit Visage",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

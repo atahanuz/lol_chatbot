@@ -1,0 +1,45 @@
+{
+  "champion": "jax",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Sundered Sky"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Sterak's Gage"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Zhonya's Hourglass",
+    "Wit's End"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Wit's End",
+    "Sterak's Gage"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Sundered Sky",
+    "Zhonya's Hourglass",
+    "Sterak's Gage",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

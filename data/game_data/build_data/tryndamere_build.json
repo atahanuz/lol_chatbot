@@ -1,0 +1,45 @@
+{
+  "champion": "tryndamere",
+  "starting_items": [],
+  "core_items": [
+    "Berserker's Greaves",
+    "Ravenous Hydra",
+    "Phantom Dancer"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Blade of The Ruined King"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Voltaic Cyclosword"
+  ],
+  "sixth_item_options": [
+    "Mercurial Scimitar",
+    "Navori Flickerblade",
+    "Voltaic Cyclosword"
+  ],
+  "full_build": [
+    "Berserker's Greaves",
+    "Ravenous Hydra",
+    "Phantom Dancer",
+    "Infinity Edge",
+    "Infinity Edge",
+    "Mercurial Scimitar"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

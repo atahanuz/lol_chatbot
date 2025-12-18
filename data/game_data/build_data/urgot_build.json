@@ -1,0 +1,45 @@
+{
+  "champion": "urgot",
+  "starting_items": [],
+  "core_items": [
+    "Black Cleaver",
+    "Boots of Swiftness",
+    "Sterak's Gage"
+  ],
+  "fourth_item_options": [
+    "Jak'Sho, The Protean",
+    "Overlord's Bloodmail"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Overlord's Bloodmail",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Overlord's Bloodmail",
+    "Jak'Sho, The Protean",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Black Cleaver",
+    "Boots of Swiftness",
+    "Sterak's Gage",
+    "Jak'Sho, The Protean",
+    "Jak'Sho, The Protean",
+    "Overlord's Bloodmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

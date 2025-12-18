@@ -1,0 +1,45 @@
+{
+  "champion": "irelia",
+  "starting_items": [],
+  "core_items": [
+    "Blade of The Ruined King",
+    "Plated Steelcaps",
+    "Hullbreaker"
+  ],
+  "fourth_item_options": [
+    "Wit's End",
+    "Death's Dance"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Wit's End",
+    "Sundered Sky"
+  ],
+  "sixth_item_options": [
+    "Frozen Heart",
+    "Sundered Sky",
+    "Sterak's Gage"
+  ],
+  "full_build": [
+    "Blade of The Ruined King",
+    "Plated Steelcaps",
+    "Hullbreaker",
+    "Wit's End",
+    "Death's Dance",
+    "Frozen Heart"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "sejuani",
+  "starting_items": [],
+  "core_items": [
+    "Heartsteel",
+    "Plated Steelcaps",
+    "Unending Despair"
+  ],
+  "fourth_item_options": [
+    "Thornmail",
+    "Frozen Heart"
+  ],
+  "fifth_item_options": [
+    "Frozen Heart",
+    "Kaenic Rookern",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Thornmail",
+    "Riftmaker"
+  ],
+  "full_build": [
+    "Heartsteel",
+    "Plated Steelcaps",
+    "Unending Despair",
+    "Thornmail",
+    "Frozen Heart",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

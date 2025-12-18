@@ -1,0 +1,45 @@
+{
+  "champion": "rell",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Zeke's Convergence"
+  ],
+  "fifth_item_options": [
+    "Knight's Vow",
+    "Zeke's Convergence",
+    "Redemption"
+  ],
+  "sixth_item_options": [
+    "Vigilant Wardstone",
+    "Knight's Vow",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Knight's Vow",
+    "Vigilant Wardstone"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

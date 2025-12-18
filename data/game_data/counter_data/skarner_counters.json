@@ -1,0 +1,38 @@
+{
+  "champion": "Skarner",
+  "weakAgainst": [
+    {
+      "champion": "Diana",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Kayn",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Viego",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Lee Sin",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Aatrox",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sylas",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/skarner"
+}

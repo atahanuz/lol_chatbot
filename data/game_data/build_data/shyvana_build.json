@@ -1,0 +1,45 @@
+{
+  "champion": "shyvana",
+  "starting_items": [],
+  "core_items": [
+    "Spear of Shojin",
+    "Sorcerer's Shoes",
+    "Liandry's Torment"
+  ],
+  "fourth_item_options": [
+    "Riftmaker",
+    "Titanic Hydra"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Riftmaker",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Riftmaker"
+  ],
+  "full_build": [
+    "Spear of Shojin",
+    "Sorcerer's Shoes",
+    "Liandry's Torment",
+    "Riftmaker",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "braum",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Plated Steelcaps",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Knight's Vow"
+  ],
+  "fifth_item_options": [
+    "Knight's Vow",
+    "Thornmail",
+    "Frozen Heart"
+  ],
+  "sixth_item_options": [
+    "Kaenic Rookern",
+    "Thornmail",
+    "Vigilant Wardstone"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Plated Steelcaps",
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Knight's Vow",
+    "Kaenic Rookern"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Guardian",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

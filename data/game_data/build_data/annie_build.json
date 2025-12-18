@@ -1,0 +1,45 @@
+{
+  "champion": "annie",
+  "starting_items": [],
+  "core_items": [
+    "Malignance",
+    "Sorcerer's Shoes",
+    "Stormsurge"
+  ],
+  "fourth_item_options": [
+    "Shadowflame",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Malignance",
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Shadowflame",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

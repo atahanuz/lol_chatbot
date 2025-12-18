@@ -1,0 +1,45 @@
+{
+  "champion": "nunu",
+  "starting_items": [],
+  "core_items": [
+    "Liandry's Torment",
+    "Plated Steelcaps",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Frozen Heart",
+    "Kaenic Rookern"
+  ],
+  "fifth_item_options": [
+    "Thornmail",
+    "Spirit Visage",
+    "Frozen Heart"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Jak'Sho, The Protean",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Liandry's Torment",
+    "Plated Steelcaps",
+    "Mejai's Soulstealer",
+    "Frozen Heart",
+    "Thornmail",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

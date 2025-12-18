@@ -1,0 +1,45 @@
+{
+  "champion": "skarner",
+  "starting_items": [],
+  "core_items": [
+    "Heartsteel",
+    "Mercury's Treads",
+    "Unending Despair"
+  ],
+  "fourth_item_options": [
+    "Thornmail",
+    "Spirit Visage"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Spirit Visage",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Randuin's Omen",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Heartsteel",
+    "Mercury's Treads",
+    "Unending Despair",
+    "Thornmail",
+    "Jak'Sho, The Protean",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

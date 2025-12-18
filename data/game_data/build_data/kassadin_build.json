@@ -1,0 +1,45 @@
+{
+  "champion": "kassadin",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Archangel's Staff",
+    "Malignance"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Archangel's Staff",
+    "Malignance",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "First Strike",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "milio",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Echoes of Helia",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Moonstone Renewer",
+    "Ardent Censer"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Ardent Censer",
+    "Moonstone Renewer"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Redemption",
+    "Shurelya's Battlesong"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Echoes of Helia",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer",
+    "Redemption",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

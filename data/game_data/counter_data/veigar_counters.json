@@ -1,0 +1,224 @@
+{
+  "champion": "Veigar",
+  "weakAgainst": [
+    {
+      "champion": "Vel'Koz",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Talon",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Swain",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Katarina",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Zed",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Anivia",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Kayle",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Malzahar",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Viktor",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Ahri",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Fizz",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Diana",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Cassiopeia",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Syndra",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Naafiri",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Yasuo",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Azir",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Yone",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Ryze",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Orianna",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Annie",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Aurora",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Vex",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Qiyana",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Mel",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Sylas",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Galio",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Akshan",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lissandra",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Irelia",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Aurelion Sol",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "LeBlanc",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zoe",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Vladimir",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lux",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Hwei",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Ekko",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Twisted Fate",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Taliyah",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Akali",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Kassadin",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/veigar"
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "masteryi",
+  "starting_items": [],
+  "core_items": [
+    "Kraken Slayer",
+    "Guinsoo's Rageblade",
+    "Experimental Hexplate"
+  ],
+  "fourth_item_options": [
+    "Blade of The Ruined King",
+    "Wit's End"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Wit's End",
+    "Titanic Hydra"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Wit's End",
+    "Titanic Hydra"
+  ],
+  "full_build": [
+    "Kraken Slayer",
+    "Guinsoo's Rageblade",
+    "Experimental Hexplate",
+    "Blade of The Ruined King",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "sion",
+  "starting_items": [],
+  "core_items": [
+    "Sunfire Aegis",
+    "Plated Steelcaps",
+    "Unending Despair"
+  ],
+  "fourth_item_options": [
+    "Titanic Hydra",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Overlord's Bloodmail",
+    "Titanic Hydra"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Overlord's Bloodmail",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Sunfire Aegis",
+    "Plated Steelcaps",
+    "Unending Despair",
+    "Titanic Hydra",
+    "Jak'Sho, The Protean",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

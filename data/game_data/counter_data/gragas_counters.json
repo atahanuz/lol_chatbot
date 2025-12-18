@@ -1,0 +1,179 @@
+{
+  "champion": "Gragas",
+  "weakAgainst": [
+    {
+      "champion": "Urgot",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Yorick",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Garen",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Illaoi",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Ornn",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Riven",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Renekton",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ambessa",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Fiora",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zaahen",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Vladimir",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Yasuo",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Aatrox",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sett",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Gangplank",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "K'Sante",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Cho'Gath",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sion",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Darius",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Shen",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Gwen",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Kayle",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Irelia",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Malphite",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Camille",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Tryndamere",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Teemo",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Volibear",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Mordekaiser",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yone",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Jayce",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Gnar",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Jax",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nasus",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/gragas"
+}

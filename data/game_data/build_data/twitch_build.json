@@ -1,0 +1,45 @@
+{
+  "champion": "twitch",
+  "starting_items": [],
+  "core_items": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Infinity Edge"
+  ],
+  "fourth_item_options": [
+    "Runaan's Hurricane",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Mortal Reminder",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Blade of The Ruined King",
+    "Lord Dominik's Regards"
+  ],
+  "full_build": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Infinity Edge",
+    "Runaan's Hurricane",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

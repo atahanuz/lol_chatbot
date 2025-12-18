@@ -1,0 +1,109 @@
+{
+  "champion": "Kalista",
+  "weakAgainst": [
+    {
+      "champion": "Twitch",
+      "score": 7.0,
+      "winRate": 60
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Samira",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Sivir",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Smolder",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Xayah",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Ashe",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Vayne",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Tristana",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Aphelios",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Yunara",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lucian",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Draven",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Varus",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Ezreal",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Zeri",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/kalista"
+}

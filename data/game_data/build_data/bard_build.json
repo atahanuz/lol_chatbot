@@ -1,0 +1,45 @@
+{
+  "champion": "bard",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Dead Man's Plate"
+  ],
+  "fourth_item_options": [
+    "Liandry's Torment",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Liandry's Torment"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Liandry's Torment",
+    "Locket of the Iron Solari"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Dead Man's Plate",
+    "Liandry's Torment",
+    "Locket of the Iron Solari",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

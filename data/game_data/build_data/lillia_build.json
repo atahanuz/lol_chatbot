@@ -1,0 +1,45 @@
+{
+  "champion": "lillia",
+  "starting_items": [],
+  "core_items": [
+    "Liandry's Torment",
+    "Mercury's Treads",
+    "Riftmaker"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Liandry's Torment",
+    "Mercury's Treads",
+    "Riftmaker",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

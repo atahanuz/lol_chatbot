@@ -1,0 +1,45 @@
+{
+  "champion": "blitzcrank",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Frozen Heart"
+  ],
+  "fifth_item_options": [
+    "Zeke's Convergence",
+    "Frozen Heart",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Frozen Heart",
+    "Shurelya's Battlesong",
+    "Zeke's Convergence"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Zeke's Convergence",
+    "Frozen Heart"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Glacial Augment",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

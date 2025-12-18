@@ -1,0 +1,189 @@
+{
+  "champion": "Seraphine",
+  "weakAgainst": [
+    {
+      "champion": "Renata Glasc",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Milio",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Nami",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Sona",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Soraka",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Brand",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Janna",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Shaco",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Yuumi",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Poppy",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Bard",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Karma",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lux",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Senna",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Pantheon",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Xerath",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Mel",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Rell",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Elise",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Swain",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Alistar",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Leona",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Maokai",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Braum",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/seraphine"
+}

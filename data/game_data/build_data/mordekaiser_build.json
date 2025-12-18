@@ -1,0 +1,45 @@
+{
+  "champion": "mordekaiser",
+  "starting_items": [],
+  "core_items": [
+    "Rylai's Crystal Scepter",
+    "Plated Steelcaps",
+    "Riftmaker"
+  ],
+  "fourth_item_options": [
+    "Liandry's Torment",
+    "Experimental Hexplate"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Thornmail",
+    "Zhonya's Hourglass"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Thornmail",
+    "Jak'Sho, The Protean"
+  ],
+  "full_build": [
+    "Rylai's Crystal Scepter",
+    "Plated Steelcaps",
+    "Riftmaker",
+    "Liandry's Torment",
+    "Spirit Visage",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

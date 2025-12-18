@@ -1,0 +1,45 @@
+{
+  "champion": "yone",
+  "starting_items": [],
+  "core_items": [
+    "Berserker's Greaves",
+    "Blade of The Ruined King",
+    "Immortal Shieldbow"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Mortal Reminder"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Infinity Edge",
+    "Wit's End"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Jak'Sho, The Protean",
+    "Bloodthirster"
+  ],
+  "full_build": [
+    "Berserker's Greaves",
+    "Blade of The Ruined King",
+    "Immortal Shieldbow",
+    "Infinity Edge",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

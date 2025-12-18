@@ -1,0 +1,45 @@
+{
+  "champion": "shen",
+  "starting_items": [],
+  "core_items": [
+    "Titanic Hydra",
+    "Mercury's Treads",
+    "Dead Man's Plate"
+  ],
+  "fourth_item_options": [
+    "Unending Despair",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Unending Despair",
+    "Thornmail",
+    "Kaenic Rookern"
+  ],
+  "sixth_item_options": [
+    "Randuin's Omen",
+    "Kaenic Rookern",
+    "Unending Despair"
+  ],
+  "full_build": [
+    "Titanic Hydra",
+    "Mercury's Treads",
+    "Dead Man's Plate",
+    "Unending Despair",
+    "Unending Despair",
+    "Randuin's Omen"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

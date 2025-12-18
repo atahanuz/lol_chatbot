@@ -1,0 +1,45 @@
+{
+  "champion": "reksai",
+  "starting_items": [],
+  "core_items": [
+    "Stridebreaker",
+    "Spear of Shojin",
+    "Mercury's Treads"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Black Cleaver"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Death's Dance",
+    "Black Cleaver"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Death's Dance",
+    "Sundered Sky"
+  ],
+  "full_build": [
+    "Stridebreaker",
+    "Spear of Shojin",
+    "Mercury's Treads",
+    "Sterak's Gage",
+    "Sterak's Gage",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

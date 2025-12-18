@@ -1,0 +1,45 @@
+{
+  "champion": "renekton",
+  "starting_items": [],
+  "core_items": [
+    "Eclipse",
+    "Plated Steelcaps",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Death's Dance"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Spear of Shojin"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Spirit Visage",
+    "Sterak's Gage"
+  ],
+  "full_build": [
+    "Eclipse",
+    "Plated Steelcaps",
+    "Black Cleaver",
+    "Sterak's Gage",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

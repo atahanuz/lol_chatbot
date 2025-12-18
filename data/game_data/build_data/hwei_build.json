@@ -1,0 +1,45 @@
+{
+  "champion": "hwei",
+  "starting_items": [],
+  "core_items": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Liandry's Torment"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Shadowflame"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Liandry's Torment",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "veigar",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Void Staff"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Banshee's Veil"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "First Strike",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

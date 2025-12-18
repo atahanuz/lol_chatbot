@@ -1,0 +1,45 @@
+{
+  "champion": "hecarim",
+  "starting_items": [],
+  "core_items": [
+    "Ionian Boots of Lucidity",
+    "Spear of Shojin",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Death's Dance",
+    "Serylda's Grudge"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Maw of Malmortius",
+    "Sterak's Gage"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Maw of Malmortius"
+  ],
+  "full_build": [
+    "Ionian Boots of Lucidity",
+    "Spear of Shojin",
+    "Black Cleaver",
+    "Death's Dance",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Ghost",
+    "Smite"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

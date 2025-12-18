@@ -1,0 +1,45 @@
+{
+  "champion": "aurelionsol",
+  "starting_items": [],
+  "core_items": [
+    "Rylai's Crystal Scepter",
+    "Sorcerer's Shoes",
+    "Liandry's Torment"
+  ],
+  "fourth_item_options": [
+    "Bloodletter's Curse",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Banshee's Veil"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Rylai's Crystal Scepter",
+    "Sorcerer's Shoes",
+    "Liandry's Torment",
+    "Bloodletter's Curse",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

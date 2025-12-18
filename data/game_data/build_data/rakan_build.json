@@ -1,0 +1,45 @@
+{
+  "champion": "rakan",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Redemption",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Locket of the Iron Solari",
+    "Zeke's Convergence"
+  ],
+  "fifth_item_options": [
+    "Zeke's Convergence",
+    "Knight's Vow",
+    "Shurelya's Battlesong"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Knight's Vow",
+    "Shurelya's Battlesong"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Redemption",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari",
+    "Zeke's Convergence",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Guardian",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

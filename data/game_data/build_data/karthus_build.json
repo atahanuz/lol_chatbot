@@ -1,0 +1,45 @@
+{
+  "champion": "karthus",
+  "starting_items": [],
+  "core_items": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Shadowflame"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Void Staff",
+    "Rabadon's Deathcap"
+  ],
+  "full_build": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Shadowflame",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Dark Harvest",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

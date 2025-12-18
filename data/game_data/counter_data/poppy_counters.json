@@ -1,0 +1,234 @@
+{
+  "champion": "Poppy",
+  "weakAgainst": [
+    {
+      "champion": "Braum",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Garen",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Soraka",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Swain",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Darius",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Jayce",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Nami",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Renekton",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Milio",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Janna",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Karma",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Neeko",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Brand",
+      "score": 5.2,
+      "winRate": 51
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "K'Sante",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Riven",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Alistar",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Rell",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Ambessa",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Ornn",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Jax",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Lux",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Pantheon",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Zaahen",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Morgana",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Malphite",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Sett",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Senna",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Leona",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Seraphine",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Mel",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Bard",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Aatrox",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Mordekaiser",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/poppy"
+}

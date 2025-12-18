@@ -1,0 +1,194 @@
+{
+  "champion": "Alistar",
+  "weakAgainst": [
+    {
+      "champion": "Taric",
+      "score": 7.8,
+      "winRate": 64
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 7.2,
+      "winRate": 61
+    },
+    {
+      "champion": "Soraka",
+      "score": 6.8,
+      "winRate": 59
+    },
+    {
+      "champion": "Milio",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Brand",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Shaco",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Janna",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Nami",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Swain",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Bard",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Karma",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Poppy",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Lux",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Maokai",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Sona",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Senna",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Rakan",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Leona",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Neeko",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Braum",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Seraphine",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Rell",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Thresh",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Pantheon",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Yuumi",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Elise",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Mel",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/alistar"
+}

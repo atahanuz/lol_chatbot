@@ -1,0 +1,45 @@
+{
+  "champion": "olaf",
+  "starting_items": [],
+  "core_items": [
+    "Stridebreaker",
+    "Plated Steelcaps",
+    "Death's Dance"
+  ],
+  "fourth_item_options": [
+    "Maw of Malmortius",
+    "Experimental Hexplate"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Experimental Hexplate",
+    "Sundered Sky"
+  ],
+  "sixth_item_options": [
+    "Overlord's Bloodmail",
+    "Sterak's Gage",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Stridebreaker",
+    "Plated Steelcaps",
+    "Death's Dance",
+    "Maw of Malmortius",
+    "Sterak's Gage",
+    "Overlord's Bloodmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ghost"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

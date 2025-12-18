@@ -1,0 +1,45 @@
+{
+  "champion": "corki",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Manamune"
+  ],
+  "fourth_item_options": [
+    "The Collector",
+    "Infinity Edge"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Rapid Firecannon",
+    "Lord Dominik's Regards"
+  ],
+  "sixth_item_options": [
+    "Rapid Firecannon",
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Manamune",
+    "The Collector",
+    "Infinity Edge",
+    "Rapid Firecannon"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

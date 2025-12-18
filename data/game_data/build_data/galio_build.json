@@ -1,0 +1,45 @@
+{
+  "champion": "galio",
+  "starting_items": [],
+  "core_items": [
+    "Hollow Radiance",
+    "Mercury's Treads",
+    "Riftmaker"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Hollow Radiance",
+    "Mercury's Treads",
+    "Riftmaker",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

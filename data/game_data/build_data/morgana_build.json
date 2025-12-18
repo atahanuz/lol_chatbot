@@ -1,0 +1,45 @@
+{
+  "champion": "morgana",
+  "starting_items": [],
+  "core_items": [
+    "Zaz'Zak's Realmspike",
+    "Liandry's Torment",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Zhonya's Hourglass",
+    "Rylai's Crystal Scepter"
+  ],
+  "sixth_item_options": [
+    "Morellonomicon",
+    "Rabadon's Deathcap",
+    "Redemption"
+  ],
+  "full_build": [
+    "Zaz'Zak's Realmspike",
+    "Liandry's Torment",
+    "Ionian Boots of Lucidity",
+    "Zhonya's Hourglass",
+    "Redemption",
+    "Morellonomicon"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

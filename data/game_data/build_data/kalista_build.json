@@ -1,0 +1,45 @@
+{
+  "champion": "kalista",
+  "starting_items": [],
+  "core_items": [
+    "Berserker's Greaves",
+    "Blade of The Ruined King",
+    "Guinsoo's Rageblade"
+  ],
+  "fourth_item_options": [
+    "Terminus",
+    "Wit's End"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Terminus",
+    "Wit's End"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Bloodthirster",
+    "Terminus"
+  ],
+  "full_build": [
+    "Berserker's Greaves",
+    "Blade of The Ruined King",
+    "Guinsoo's Rageblade",
+    "Terminus",
+    "Jak'Sho, The Protean",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

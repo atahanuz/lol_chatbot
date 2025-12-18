@@ -1,0 +1,45 @@
+{
+  "champion": "gragas",
+  "starting_items": [],
+  "core_items": [
+    "Hextech Rocketbelt",
+    "Sorcerer's Shoes",
+    "Stormsurge"
+  ],
+  "fourth_item_options": [
+    "Cosmic Drive",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Lich Bane",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Hextech Rocketbelt",
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Cosmic Drive",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

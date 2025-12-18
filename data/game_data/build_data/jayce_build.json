@@ -1,0 +1,45 @@
+{
+  "champion": "jayce",
+  "starting_items": [],
+  "core_items": [
+    "Youmuu's Ghostblade",
+    "Ionian Boots of Lucidity",
+    "Manamune"
+  ],
+  "fourth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night"
+  ],
+  "fifth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Spear of Shojin"
+  ],
+  "sixth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Spear of Shojin"
+  ],
+  "full_build": [
+    "Youmuu's Ghostblade",
+    "Ionian Boots of Lucidity",
+    "Manamune",
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Edge of Night"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

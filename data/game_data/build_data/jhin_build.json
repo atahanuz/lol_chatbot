@@ -1,0 +1,45 @@
+{
+  "champion": "jhin",
+  "starting_items": [],
+  "core_items": [
+    "The Collector",
+    "Boots of Swiftness",
+    "Infinity Edge"
+  ],
+  "fourth_item_options": [
+    "Rapid Firecannon",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Rapid Firecannon",
+    "Mortal Reminder"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Lord Dominik's Regards",
+    "Rapid Firecannon"
+  ],
+  "full_build": [
+    "The Collector",
+    "Boots of Swiftness",
+    "Infinity Edge",
+    "Rapid Firecannon",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

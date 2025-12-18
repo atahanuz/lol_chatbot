@@ -1,0 +1,45 @@
+{
+  "champion": "maokai",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Trailblazer"
+  ],
+  "fourth_item_options": [
+    "Locket of the Iron Solari",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Thornmail",
+    "Redemption",
+    "Locket of the Iron Solari"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Frozen Heart",
+    "Force of Nature"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Trailblazer",
+    "Locket of the Iron Solari",
+    "Thornmail",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

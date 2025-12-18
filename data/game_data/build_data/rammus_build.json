@@ -1,0 +1,45 @@
+{
+  "champion": "rammus",
+  "starting_items": [],
+  "core_items": [
+    "Thornmail",
+    "Mercury's Treads",
+    "Sunfire Aegis"
+  ],
+  "fourth_item_options": [
+    "Jak'Sho, The Protean",
+    "Dead Man's Plate"
+  ],
+  "fifth_item_options": [
+    "Dead Man's Plate",
+    "Jak'Sho, The Protean",
+    "Unending Despair"
+  ],
+  "sixth_item_options": [
+    "Randuin's Omen",
+    "Unending Despair",
+    "Jak'Sho, The Protean"
+  ],
+  "full_build": [
+    "Thornmail",
+    "Mercury's Treads",
+    "Sunfire Aegis",
+    "Jak'Sho, The Protean",
+    "Dead Man's Plate",
+    "Randuin's Omen"
+  ],
+  "summoner_spells": [
+    "Ghost",
+    "Smite"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

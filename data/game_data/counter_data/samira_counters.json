@@ -1,0 +1,129 @@
+{
+  "champion": "Samira",
+  "weakAgainst": [
+    {
+      "champion": "Ziggs",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Nilah",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Kog'Maw",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Xayah",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Corki",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Sivir",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Zeri",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ashe",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Yunara",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Lucian",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Kalista",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Varus",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Jhin",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Tristana",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Draven",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Aphelios",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Ezreal",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Twitch",
+      "score": 4.6,
+      "winRate": 48
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/samira"
+}

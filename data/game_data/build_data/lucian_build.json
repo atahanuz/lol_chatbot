@@ -1,0 +1,45 @@
+{
+  "champion": "lucian",
+  "starting_items": [],
+  "core_items": [
+    "Essence Reaver",
+    "Navori Flickerblade",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Rapid Firecannon"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Infinity Edge",
+    "Mortal Reminder"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Mercurial Scimitar",
+    "Rapid Firecannon"
+  ],
+  "full_build": [
+    "Essence Reaver",
+    "Navori Flickerblade",
+    "Ionian Boots of Lucidity",
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

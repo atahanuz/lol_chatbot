@@ -1,0 +1,45 @@
+{
+  "champion": "renata",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Redemption",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Locket of the Iron Solari",
+    "Shurelya's Battlesong"
+  ],
+  "fifth_item_options": [
+    "Shurelya's Battlesong",
+    "Knight's Vow",
+    "Imperial Mandate"
+  ],
+  "sixth_item_options": [
+    "Ardent Censer",
+    "Imperial Mandate",
+    "Knight's Vow"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Redemption",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari",
+    "Shurelya's Battlesong",
+    "Ardent Censer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Guardian",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

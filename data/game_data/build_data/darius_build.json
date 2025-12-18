@@ -1,0 +1,45 @@
+{
+  "champion": "darius",
+  "starting_items": [],
+  "core_items": [
+    "Plated Steelcaps",
+    "Stridebreaker",
+    "Sterak's Gage"
+  ],
+  "fourth_item_options": [
+    "Dead Man's Plate",
+    "Force of Nature"
+  ],
+  "fifth_item_options": [
+    "Force of Nature",
+    "Death's Dance",
+    "Dead Man's Plate"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Force of Nature",
+    "Jak'Sho, The Protean"
+  ],
+  "full_build": [
+    "Plated Steelcaps",
+    "Stridebreaker",
+    "Sterak's Gage",
+    "Dead Man's Plate",
+    "Force of Nature",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ghost"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

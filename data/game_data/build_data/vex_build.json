@@ -1,0 +1,45 @@
+{
+  "champion": "vex",
+  "starting_items": [],
+  "core_items": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Stormsurge"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

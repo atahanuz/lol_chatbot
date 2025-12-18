@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Baron Nashor",
+    "bounty": {
+      "gold": "300/+25",
+      "exp": "600/+800",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "11800 (+ 190 per minute from match start)",
+      "health regen": "0",
+      "attack damage": "150 (+ 10 per minute from match start); capped at 520 (37 minutes).",
+      "attack speed": "0.625",
+      "attack range": "955",
+      "armor": "120",
+      "magic resist": "70",
+      "move speed": "300",
+      "unit radius": "105",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "initial": "25:00",
+      "respawn": "6:00"
+    }
+  },
+  {
+    "name": "Elder Dragon",
+    "bounty": {
+      "gold": "250/+100",
+      "exp": "650 – 830 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "6400 + 290 per minute before it spawns",
+      "health regen": "250",
+      "attack damage": "105",
+      "attack speed": "0.5",
+      "attack range": "500",
+      "armor": "120 – 189 (based on level)",
+      "magic resist": "70 – 113 (based on level)",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "Spawns each time after a team has killed their 4th drake",
+      "respawn": "6:00"
+    }
+  },
+  {
+    "name": "Rift Herald",
+    "bounty": {
+      "gold": "100",
+      "exp": "309 – 330 (based on level)/300",
+      "cs": "4"
+    },
+    "statistics": {
+      "leash range": "1200",
+      "health": "7125 – 14250 (based on level)",
+      "attack damage": "99.5– 250 (based on level)",
+      "attack speed": "0.4",
+      "attack range": "250",
+      "armor": "60",
+      "magic resist": "50",
+      "move speed": "325",
+      "unit radius": "110",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "initial": "15:00"
+    }
+  },
+  {
+    "name": "Voidgrub",
+    "bounty": {
+      "gold": "1",
+      "exp": "0",
+      "cs": "0"
+    },
+    "statistics": {
+      "health": "20 (+ 40 per minute from match start)",
+      "attack damage": "6 (+ 0.5per minute from match start)",
+      "attack speed": "2.00",
+      "attack range": "125",
+      "armor": "0",
+      "magic resist": "0",
+      "move speed": "420",
+      "monster type": "Small"
+    },
+    "location": {
+      "initial": "8:00"
+    }
+  },
+  {
+    "name": "Cloud Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "35",
+      "attack speed": "1",
+      "attack range": "500",
+      "armor": "21",
+      "magic resist": "30",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Infernal Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "70",
+      "attack speed": "0.5",
+      "attack range": "500",
+      "armor": "21",
+      "magic resist": "30",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Mountain Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "105",
+      "attack speed": "0.25",
+      "attack range": "500",
+      "armor": "41",
+      "magic resist": "50",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Ocean Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "70",
+      "attack speed": "0.5",
+      "attack range": "500",
+      "armor": "21",
+      "magic resist": "30",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Hextech Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "47",
+      "attack speed": "0.75",
+      "attack range": "500",
+      "armor": "21",
+      "magic resist": "30",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Chemtech Drake",
+    "bounty": {
+      "gold": "25",
+      "exp": "150 – 330 (based on level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "5730 – 10290 (based on level)/9230 – 13790 (based on level)",
+      "attack damage": "50",
+      "attack speed": "0.5",
+      "attack range": "500",
+      "armor": "21",
+      "magic resist": "30",
+      "move speed": "330",
+      "unit radius": "125",
+      "monster type": "Epic, Large"
+    },
+    "location": {
+      "camp": "Dragon pit",
+      "initial": "5:00"
+    }
+  },
+  {
+    "name": "Blue Sentinel",
+    "bounty": {
+      "gold": "90",
+      "exp": "95 – 142.5(based on monster's level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "leash range": "650",
+      "health": "2300 – 6210 (based on level)(normal form) /2990 – 8073 (based on level)(Voidbornform)",
+      "attack damage": "66 – 198 (based on level)",
+      "attack speed": "0.493",
+      "armor": "42",
+      "magic resist": "42",
+      "move speed": "275",
+      "unit radius": "131",
+      "monster type": "Large"
+    },
+    "location": {
+      "initial": "1:30",
+      "respawn": "5:00"
+    }
+  },
+  {
+    "name": "Red Brambleback",
+    "bounty": {
+      "gold": "90",
+      "exp": "95 – 142.5(based on monster's level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "leash range": "650",
+      "health": "2300 – 6210 (based on level)(normal form) /2990 – 8073 (based on level)(Voidbornform)",
+      "attack damage": "66 – 198 (based on level)",
+      "attack speed": "0.493",
+      "armor": "42",
+      "magic resist": "42",
+      "move speed": "275",
+      "unit radius": "120",
+      "monster type": "Large"
+    },
+    "location": {
+      "initial": "1:30",
+      "respawn": "5:00"
+    }
+  },
+  {
+    "name": "Gromp",
+    "bounty": {
+      "gold": "80",
+      "exp": "120 – 180 (based on monster's level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "leash range": "450",
+      "health": "2050 – 4817.5(based on level)",
+      "attack damage": "70 – 210 (based on level)",
+      "attack speed": "0.425",
+      "attack range": "150",
+      "armor": "42",
+      "magic resist": "42",
+      "move speed": "330",
+      "unit radius": "120",
+      "monster type": "Large"
+    },
+    "location": {
+      "initial": "1:42",
+      "respawn": "2:15"
+    }
+  },
+  {
+    "name": "Krug",
+    "bounty": {
+      "gold": "14",
+      "exp": "16 – 24 (based on monster's level)",
+      "cs": "0.25"
+    },
+    "statistics": {
+      "leash range": "650",
+      "health": "60 – 141 (based on level)",
+      "attack damage": "13 – 39 (based on level)",
+      "attack speed": "0.613",
+      "attack range": "110",
+      "armor": "20",
+      "magic resist": "20",
+      "move speed": "400",
+      "unit radius": "25",
+      "monster type": "Small"
+    },
+    "location": {
+      "initial": "1:42",
+      "respawn": "2:15"
+    }
+  },
+  {
+    "name": "Murk Wolf",
+    "bounty": {
+      "gold": "15",
+      "exp": "15 – 22.5(based on monster's level)",
+      "cs": "1"
+    },
+    "statistics": {
+      "leash range": "650",
+      "health": "630 – 1480.5(based on level)",
+      "attack damage": "10 – 30 (based on level)",
+      "attack speed": "0.625",
+      "attack range": "175",
+      "armor": "20",
+      "magic resist": "20",
+      "move speed": "525",
+      "unit radius": "50",
+      "monster type": "Small"
+    },
+    "location": {
+      "initial": "1:30",
+      "respawn": "2:15"
+    }
+  },
+  {
+    "name": "Crimson Raptor",
+    "bounty": {
+      "gold": "8",
+      "exp": "10 – 15 (based on monster's level)",
+      "cs": "0.4"
+    },
+    "statistics": {
+      "leash range": "650",
+      "health": "500 – 1175 (based on level)",
+      "attack damage": "7 – 21 (based on level)",
+      "attack speed": "1.00",
+      "attack range": "200",
+      "armor": "20",
+      "magic resist": "20",
+      "move speed": "525",
+      "unit radius": "50",
+      "monster type": "Small"
+    },
+    "location": {
+      "initial": "1:30",
+      "respawn": "2:15"
+    }
+  },
+  {
+    "name": "Rift Scuttler",
+    "bounty": {
+      "gold": "55 – 121 (based on monster's level)",
+      "exp": "100 – 150 (based on monster's level)",
+      "cs": "4"
+    },
+    "statistics": {
+      "health": "1007.5– 3425.5(based on level)(first spawned) /1550 – 5270 (based on level)(normal form)",
+      "attack damage": "35",
+      "attack speed": "0.638",
+      "armor": "42",
+      "magic resist": "42",
+      "move speed": "255 /155",
+      "unit radius": "50",
+      "monster type": "Large"
+    },
+    "location": {
+      "initial": "3:30",
+      "respawn": "2:30"
+    }
+  }
+]

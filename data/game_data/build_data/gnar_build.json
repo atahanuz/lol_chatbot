@@ -1,0 +1,45 @@
+{
+  "champion": "gnar",
+  "starting_items": [],
+  "core_items": [
+    "Plated Steelcaps",
+    "Trinity Force",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Wit's End"
+  ],
+  "fifth_item_options": [
+    "Randuin's Omen",
+    "Sterak's Gage",
+    "Wit's End"
+  ],
+  "sixth_item_options": [
+    "Randuin's Omen",
+    "Sterak's Gage",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Plated Steelcaps",
+    "Trinity Force",
+    "Black Cleaver",
+    "Sterak's Gage",
+    "Randuin's Omen",
+    "Randuin's Omen"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

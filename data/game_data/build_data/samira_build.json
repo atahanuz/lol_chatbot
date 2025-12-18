@@ -1,0 +1,45 @@
+{
+  "champion": "samira",
+  "starting_items": [],
+  "core_items": [
+    "The Collector",
+    "Infinity Edge",
+    "Plated Steelcaps"
+  ],
+  "fourth_item_options": [
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow"
+  ],
+  "fifth_item_options": [
+    "Immortal Shieldbow",
+    "Bloodthirster",
+    "Lord Dominik's Regards"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Immortal Shieldbow",
+    "Lord Dominik's Regards"
+  ],
+  "full_build": [
+    "The Collector",
+    "Infinity Edge",
+    "Plated Steelcaps",
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

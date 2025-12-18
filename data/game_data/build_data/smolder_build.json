@@ -1,0 +1,45 @@
+{
+  "champion": "smolder",
+  "starting_items": [],
+  "core_items": [
+    "Essence Reaver",
+    "Ionian Boots of Lucidity",
+    "Spear of Shojin"
+  ],
+  "fourth_item_options": [
+    "Rapid Firecannon",
+    "Infinity Edge"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Rapid Firecannon"
+  ],
+  "sixth_item_options": [
+    "Lord Dominik's Regards",
+    "Bloodthirster",
+    "Infinity Edge"
+  ],
+  "full_build": [
+    "Essence Reaver",
+    "Ionian Boots of Lucidity",
+    "Spear of Shojin",
+    "Rapid Firecannon",
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

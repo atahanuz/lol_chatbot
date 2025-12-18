@@ -1,0 +1,45 @@
+{
+  "champion": "fiddlesticks",
+  "starting_items": [],
+  "core_items": [
+    "Sorcerer's Shoes",
+    "Hextech Rocketbelt",
+    "Shadowflame"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Liandry's Torment"
+  ],
+  "full_build": [
+    "Sorcerer's Shoes",
+    "Hextech Rocketbelt",
+    "Shadowflame",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

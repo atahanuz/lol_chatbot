@@ -1,0 +1,45 @@
+{
+  "champion": "aurora",
+  "starting_items": [],
+  "core_items": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Shadowflame"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "sixth_item_options": [
+    "Void Staff",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Shadowflame",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Void Staff"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

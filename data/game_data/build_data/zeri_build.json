@@ -1,0 +1,45 @@
+{
+  "champion": "zeri",
+  "starting_items": [],
+  "core_items": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Runaan's Hurricane"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Immortal Shieldbow"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow",
+    "Mortal Reminder"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Experimental Hexplate",
+    "Immortal Shieldbow"
+  ],
+  "full_build": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Runaan's Hurricane",
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

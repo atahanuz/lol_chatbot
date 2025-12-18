@@ -1,0 +1,45 @@
+{
+  "champion": "vayne",
+  "starting_items": [],
+  "core_items": [
+    "Blade of The Ruined King",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade"
+  ],
+  "fourth_item_options": [
+    "Terminus",
+    "Experimental Hexplate"
+  ],
+  "fifth_item_options": [
+    "Experimental Hexplate",
+    "Terminus",
+    "Jak'Sho, The Protean"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Terminus",
+    "Mercurial Scimitar"
+  ],
+  "full_build": [
+    "Blade of The Ruined King",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade",
+    "Terminus",
+    "Experimental Hexplate",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

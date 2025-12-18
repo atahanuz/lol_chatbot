@@ -38,7 +38,7 @@ User Question
 
 ## Data Sources
 
-### 1. Champions Data (`lol_champions_with_counters_synergy_builds.ttl`)
+### 1. Champions Data (`lol_champions_functional.ttl`)
 - **Format**: RDF Turtle
 - **Contents**: 171 champions with:
   - Base stats (health, mana, armor, attack damage, etc.)
@@ -75,29 +75,57 @@ User Question
 
 ```
 ssw_chatbot/
-├── src/                   # Source code
-│   ├── config.py          # Configuration and file paths
-│   ├── ttl_parser.py      # RDF/Turtle data parsing
-│   ├── prompts.py         # OpenAI prompt templates
-│   ├── intent_classifier.py   # NLU intent classification
-│   ├── data_retriever.py  # Data lookup and retrieval
-│   ├── sparql_queries.py  # SPARQL query engine
-│   ├── snapshot_analyzer.py   # Game snapshot analysis
-│   ├── ontology_enricher.py   # Ontology data enrichment
-│   ├── main.py            # CLI chatbot interface
-│   └── streamlit_app.py   # Web UI interface
+├── src/                          # Source code
+│   ├── __init__.py               # Package initializer
+│   ├── config.py                 # Configuration and file paths
+│   ├── ttl_parser.py             # RDF/Turtle data parsing
+│   ├── prompts.py                # OpenAI prompt templates
+│   ├── intent_classifier.py      # NLU intent classification
+│   ├── data_retriever.py         # Data lookup and retrieval
+│   ├── sparql_queries.py         # SPARQL query engine
+│   ├── snapshot_analyzer.py      # Game snapshot analysis
+│   ├── main.py                   # CLI chatbot interface
+│   └── streamlit_app.py          # Web UI interface
 ├── data/
-│   ├── ontology/          # RDF/Turtle ontology files
-│   │   ├── lol_champions_with_counters_synergy_builds.ttl
+│   ├── ontology/                 # RDF ontology schema
+│   │   └── MobaGameOntology.rdf
+│   ├── graphs/                   # RDF/Turtle graph files
+│   │   ├── lol_champions.ttl
+│   │   ├── lol_champions_functional.ttl
+│   │   ├── lol_enrichment.ttl
 │   │   ├── lol_items.ttl
 │   │   ├── lol_monsters.ttl
-│   │   ├── lol_turrets.ttl
-│   │   └── MobaGameOntology.rdf
-│   ├── enrichment_data.json
-│   └── game_snapshots.json
-├── assets/                # Images and media
-├── scripts/               # Utility scripts
-├── docs/                  # Documentation
+│   │   └── lol_turrets.ttl
+│   └── game_data/                # JSON game data files
+│       ├── build_data/           # Champion build data (169 files)
+│       ├── counter_data/         # Champion counter data (169 files)
+│       ├── synergy_data/         # Champion synergy data (169 files)
+│       ├── champions.json
+│       ├── items.json
+│       ├── monsters.json
+│       ├── turrets.json
+│       ├── enrichment_data.json
+│       └── game_snapshots.json
+├── scripts/
+│   ├── mapping/                  # Ontology mapping scripts
+│   │   ├── map_all_champion_data.py
+│   │   ├── map_champions_to_ontology.py
+│   │   ├── map_items_to_ontology.py
+│   │   ├── map_monsters_to_ontology.py
+│   │   └── map_turrets_to_ontology.py
+│   └── scraping/                 # Data scraping scripts
+│       ├── ontology_enricher.py
+│       ├── scrape_builds.py
+│       ├── scrape_counters.py
+│       ├── scrape_monsters.py
+│       └── scrape_synergy.py
+├── assets/                       # Images and media
+│   ├── app.png
+│   ├── artwork_1.jpg
+│   ├── artwork_2.jpg
+│   └── lol_symbol.png
+├── docs/                         # Documentation
+│   └── WORKFLOW.md
 ├── requirements.txt
 └── README.md
 ```

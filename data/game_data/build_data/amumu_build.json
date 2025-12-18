@@ -1,0 +1,45 @@
+{
+  "champion": "amumu",
+  "starting_items": [],
+  "core_items": [
+    "Liandry's Torment",
+    "Plated Steelcaps",
+    "Sunfire Aegis"
+  ],
+  "fourth_item_options": [
+    "Abyssal Mask",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Thornmail",
+    "Jak'Sho, The Protean",
+    "Abyssal Mask"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Mejai's Soulstealer",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Liandry's Torment",
+    "Plated Steelcaps",
+    "Sunfire Aegis",
+    "Abyssal Mask",
+    "Thornmail",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

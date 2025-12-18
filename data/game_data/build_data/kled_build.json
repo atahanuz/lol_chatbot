@@ -1,0 +1,45 @@
+{
+  "champion": "kled",
+  "starting_items": [],
+  "core_items": [
+    "Titanic Hydra",
+    "Plated Steelcaps",
+    "Hullbreaker"
+  ],
+  "fourth_item_options": [
+    "Overlord's Bloodmail",
+    "Black Cleaver"
+  ],
+  "fifth_item_options": [
+    "Overlord's Bloodmail",
+    "Sterak's Gage",
+    "Eclipse"
+  ],
+  "sixth_item_options": [
+    "Black Cleaver",
+    "Sterak's Gage",
+    "Axiom Arc"
+  ],
+  "full_build": [
+    "Titanic Hydra",
+    "Plated Steelcaps",
+    "Hullbreaker",
+    "Overlord's Bloodmail",
+    "Overlord's Bloodmail",
+    "Black Cleaver"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

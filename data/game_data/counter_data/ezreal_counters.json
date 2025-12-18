@@ -1,0 +1,129 @@
+{
+  "champion": "Ezreal",
+  "weakAgainst": [
+    {
+      "champion": "Nilah",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Kog'Maw",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Sivir",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Aphelios",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ziggs",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lucian",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Samira",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Tristana",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Ashe",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Kalista",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Draven",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Corki",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Varus",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zeri",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Yunara",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Twitch",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Xayah",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/ezreal"
+}

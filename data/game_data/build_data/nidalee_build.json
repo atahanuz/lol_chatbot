@@ -1,0 +1,45 @@
+{
+  "champion": "nidalee",
+  "starting_items": [],
+  "core_items": [
+    "Lich Bane",
+    "Sorcerer's Shoes",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Void Staff"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Lich Bane",
+    "Sorcerer's Shoes",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

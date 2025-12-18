@@ -1,0 +1,93 @@
+{
+  "turrets": {
+    "summoners_rift": {
+      "outer_turret": {
+        "health": 5000,
+        "plates": {
+          "count": 5,
+          "health_per_plate": 1000,
+          "gold_per_plate": 125
+        },
+        "attack_damage": {
+          "base": 182,
+          "max": 350,
+          "scaling": "game_time"
+        },
+        "attack_speed": 0.833,
+        "range": 750,
+        "armor": 40,
+        "magic_resistance": 40,
+        "gold_bounty": {
+          "global": 50,
+          "local": 250
+        }
+      },
+      "inner_turret": {
+        "health": 4000,
+        "attack_damage": {
+          "base": 187,
+          "max": 427,
+          "scaling": "game_time"
+        },
+        "attack_speed": 0.833,
+        "range": 750,
+        "armor": {
+          "base": 55,
+          "max": 70,
+          "scaling": "game_time"
+        },
+        "magic_resistance": {
+          "base": 55,
+          "max": 70,
+          "scaling": "game_time"
+        },
+        "gold_bounty": {
+          "global": 25,
+          "local": {
+            "min": 425,
+            "max": 675
+          }
+        }
+      },
+      "inhibitor_turret": {
+        "health": 3500,
+        "attack_damage": {
+          "base": 187,
+          "max": 427,
+          "scaling": "game_time"
+        },
+        "attack_speed": 0.833,
+        "range": 750,
+        "armor": 70,
+        "magic_resistance": 70,
+        "gold_bounty": {
+          "global": 25,
+          "local": 375
+        },
+        "regeneration": {
+          "hp_per_second": 3,
+          "condition": "within_health_thresholds"
+        }
+      },
+      "nexus_turret": {
+        "health": 3000,
+        "attack_damage": {
+          "base": 165,
+          "max": 405,
+          "scaling": "game_time"
+        },
+        "attack_speed": 0.833,
+        "range": 750,
+        "armor": 70,
+        "magic_resistance": 70,
+        "gold_bounty": {
+          "global": 50
+        },
+        "regeneration": {
+          "hp_per_second": 6
+        },
+        "respawn_time_seconds": 180
+      }
+    }
+  }
+}

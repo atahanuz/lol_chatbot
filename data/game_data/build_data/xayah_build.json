@@ -1,0 +1,45 @@
+{
+  "champion": "xayah",
+  "starting_items": [],
+  "core_items": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Infinity Edge"
+  ],
+  "fourth_item_options": [
+    "Navori Flickerblade",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Mortal Reminder",
+    "Bloodthirster"
+  ],
+  "sixth_item_options": [
+    "Bloodthirster",
+    "Maw of Malmortius",
+    "Mercurial Scimitar"
+  ],
+  "full_build": [
+    "Yun Tal Wildarrows",
+    "Berserker's Greaves",
+    "Infinity Edge",
+    "Navori Flickerblade",
+    "Lord Dominik's Regards",
+    "Bloodthirster"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

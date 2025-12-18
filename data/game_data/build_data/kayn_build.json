@@ -1,0 +1,45 @@
+{
+  "champion": "kayn",
+  "starting_items": [],
+  "core_items": [
+    "Voltaic Cyclosword",
+    "Mercury's Treads",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Spear of Shojin",
+    "Death's Dance"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Spirit Visage",
+    "Spear of Shojin"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Death's Dance",
+    "Sterak's Gage"
+  ],
+  "full_build": [
+    "Voltaic Cyclosword",
+    "Mercury's Treads",
+    "Black Cleaver",
+    "Spear of Shojin",
+    "Death's Dance",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

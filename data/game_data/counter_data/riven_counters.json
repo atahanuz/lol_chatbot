@@ -1,0 +1,219 @@
+{
+  "champion": "Riven",
+  "weakAgainst": [
+    {
+      "champion": "Illaoi",
+      "score": 7.2,
+      "winRate": 61
+    },
+    {
+      "champion": "Quinn",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Poppy",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Urgot",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Malphite",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Zaahen",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Kennen",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Ornn",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Cho'Gath",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Garen",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Renekton",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Kled",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Pantheon",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Singed",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Nasus",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Volibear",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Shen",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Olaf",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sion",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Teemo",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Yorick",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Sett",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Gwen",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Ambessa",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Jayce",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Darius",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Mordekaiser",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Vladimir",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Yasuo",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Gragas",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Yone",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Rumble",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Gangplank",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "K'Sante",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Gnar",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Irelia",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Aatrox",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Fiora",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Jax",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Camille",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Kayle",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Tryndamere",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/riven"
+}

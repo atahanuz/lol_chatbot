@@ -1,0 +1,45 @@
+{
+  "champion": "zyra",
+  "starting_items": [],
+  "core_items": [
+    "Zaz'Zak's Realmspike",
+    "Liandry's Torment",
+    "Sorcerer's Shoes"
+  ],
+  "fourth_item_options": [
+    "Rylai's Crystal Scepter",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Morellonomicon",
+    "Rylai's Crystal Scepter",
+    "Shadowflame"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Malignance",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Zaz'Zak's Realmspike",
+    "Liandry's Torment",
+    "Sorcerer's Shoes",
+    "Rylai's Crystal Scepter",
+    "Morellonomicon",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "varus",
+  "starting_items": [],
+  "core_items": [
+    "Blade of The Ruined King",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade"
+  ],
+  "fourth_item_options": [
+    "Edge of Night",
+    "Terminus"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Jak'Sho, The Protean",
+    "Edge of Night"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Serylda's Grudge",
+    "Opportunity"
+  ],
+  "full_build": [
+    "Blade of The Ruined King",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade",
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

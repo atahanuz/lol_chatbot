@@ -1,0 +1,45 @@
+{
+  "champion": "shaco",
+  "starting_items": [],
+  "core_items": [
+    "Blackfire Torch",
+    "Ionian Boots of Lucidity",
+    "Liandry's Torment"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Infinity Edge",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Voltaic Cyclosword"
+  ],
+  "full_build": [
+    "Blackfire Torch",
+    "Ionian Boots of Lucidity",
+    "Liandry's Torment",
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "summoner_spells": [
+    "Smite",
+    "Ignite"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

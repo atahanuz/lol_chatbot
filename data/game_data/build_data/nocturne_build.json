@@ -1,0 +1,45 @@
+{
+  "champion": "nocturne",
+  "starting_items": [],
+  "core_items": [
+    "Stridebreaker",
+    "Mercury's Treads",
+    "Experimental Hexplate"
+  ],
+  "fourth_item_options": [
+    "Black Cleaver",
+    "Axiom Arc"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Black Cleaver",
+    "Sterak's Gage"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Serpent's Fang",
+    "Edge of Night"
+  ],
+  "full_build": [
+    "Stridebreaker",
+    "Mercury's Treads",
+    "Experimental Hexplate",
+    "Black Cleaver",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

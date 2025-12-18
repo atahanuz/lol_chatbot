@@ -1,0 +1,289 @@
+{
+  "champion": "Kayle",
+  "weakAgainst": [
+    {
+      "champion": "Gragas",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Quinn",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Pantheon",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Jayce",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Malphite",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Nasus",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Viktor",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Diana",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Irelia",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Yone",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Syndra",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Teemo",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Riven",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Jax",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Camille",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Vladimir",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Kennen",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Ambessa",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Mordekaiser",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Urgot",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Sion",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "K'Sante",
+      "score": 2.8,
+      "winRate": 39
+    },
+    {
+      "champion": "Illaoi",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Fizz",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Malzahar",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Darius",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Gangplank",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Aatrox",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Renekton",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Volibear",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Mel",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Singed",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Garen",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Cho'Gath",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Zed",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Fiora",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "LeBlanc",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Kled",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Gnar",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Zaahen",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Rumble",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Orianna",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Akali",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Shen",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Tryndamere",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Sett",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Ornn",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Gwen",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Veigar",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Sylas",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Ahri",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yasuo",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Yorick",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Olaf",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Zoe",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Katarina",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/kayle"
+}

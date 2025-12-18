@@ -1,0 +1,45 @@
+{
+  "champion": "yuumi",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Moonstone Renewer",
+    "Ardent Censer"
+  ],
+  "fourth_item_options": [
+    "Mikael's Blessing",
+    "Dawncore"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Dawncore",
+    "Mikael's Blessing"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Redemption",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Moonstone Renewer",
+    "Ardent Censer",
+    "Mikael's Blessing",
+    "Redemption",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Exhaust",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

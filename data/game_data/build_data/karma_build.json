@@ -1,0 +1,45 @@
+{
+  "champion": "karma",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Mikael's Blessing"
+  ],
+  "fifth_item_options": [
+    "Dawncore",
+    "Shurelya's Battlesong",
+    "Redemption"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Shurelya's Battlesong",
+    "Ardent Censer"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer",
+    "Redemption",
+    "Dawncore",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

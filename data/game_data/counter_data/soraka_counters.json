@@ -1,0 +1,194 @@
+{
+  "champion": "Soraka",
+  "weakAgainst": [
+    {
+      "champion": "Taric",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Bard",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Nami",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Sona",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Alistar",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Mel",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Pantheon",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Elise",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Leona",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Morgana",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Lux",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Poppy",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Swain",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Shaco",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rell",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Maokai",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Zilean",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Senna",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Milio",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Brand",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Seraphine",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lulu",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Xerath",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Karma",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Braum",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Janna",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/soraka"
+}

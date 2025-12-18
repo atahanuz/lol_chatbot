@@ -1,0 +1,45 @@
+{
+  "champion": "graves",
+  "starting_items": [],
+  "core_items": [
+    "Youmuu's Ghostblade",
+    "The Collector",
+    "Lord Dominik's Regards"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Immortal Shieldbow"
+  ],
+  "fifth_item_options": [
+    "Immortal Shieldbow",
+    "Infinity Edge",
+    "Mortal Reminder"
+  ],
+  "sixth_item_options": [
+    "Infinity Edge",
+    "Immortal Shieldbow",
+    "Bloodthirster"
+  ],
+  "full_build": [
+    "Youmuu's Ghostblade",
+    "The Collector",
+    "Lord Dominik's Regards",
+    "Infinity Edge",
+    "Immortal Shieldbow",
+    "Infinity Edge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

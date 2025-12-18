@@ -1,0 +1,122 @@
+[
+  {
+    "champion": "Swain",
+    "duo_win_rate": "54.26%",
+    "matches": 763
+  },
+  {
+    "champion": "Ziggs",
+    "duo_win_rate": "53.29%",
+    "matches": 1689
+  },
+  {
+    "champion": "Miss Fortune",
+    "duo_win_rate": "53.25%",
+    "matches": 9267
+  },
+  {
+    "champion": "Tristana",
+    "duo_win_rate": "52.74%",
+    "matches": 2825
+  },
+  {
+    "champion": "Draven",
+    "duo_win_rate": "52.44%",
+    "matches": 1640
+  },
+  {
+    "champion": "Vayne",
+    "duo_win_rate": "52.28%",
+    "matches": 3072
+  },
+  {
+    "champion": "Twitch",
+    "duo_win_rate": "51.93%",
+    "matches": 1606
+  },
+  {
+    "champion": "Jhin",
+    "duo_win_rate": "51.81%",
+    "matches": 10046
+  },
+  {
+    "champion": "Caitlyn",
+    "duo_win_rate": "51.23%",
+    "matches": 6690
+  },
+  {
+    "champion": "Samira",
+    "duo_win_rate": "51.19%",
+    "matches": 801
+  },
+  {
+    "champion": "Sivir",
+    "duo_win_rate": "50.66%",
+    "matches": 3423
+  },
+  {
+    "champion": "Mel",
+    "duo_win_rate": "50.63%",
+    "matches": 1031
+  },
+  {
+    "champion": "Ashe",
+    "duo_win_rate": "50.46%",
+    "matches": 4035
+  },
+  {
+    "champion": "Kai'Sa",
+    "duo_win_rate": "50.15%",
+    "matches": 7964
+  },
+  {
+    "champion": "Jinx",
+    "duo_win_rate": "50.04%",
+    "matches": 3727
+  },
+  {
+    "champion": "Ezreal",
+    "duo_win_rate": "49.88%",
+    "matches": 8420
+  },
+  {
+    "champion": "Smolder",
+    "duo_win_rate": "49.88%",
+    "matches": 5639
+  },
+  {
+    "champion": "Aphelios",
+    "duo_win_rate": "49.45%",
+    "matches": 2649
+  },
+  {
+    "champion": "Xayah",
+    "duo_win_rate": "49.18%",
+    "matches": 1645
+  },
+  {
+    "champion": "Zeri",
+    "duo_win_rate": "49.16%",
+    "matches": 1794
+  },
+  {
+    "champion": "Corki",
+    "duo_win_rate": "48.85%",
+    "matches": 960
+  },
+  {
+    "champion": "Varus",
+    "duo_win_rate": "48.78%",
+    "matches": 1675
+  },
+  {
+    "champion": "Lucian",
+    "duo_win_rate": "47.98%",
+    "matches": 2626
+  },
+  {
+    "champion": "Yunara",
+    "duo_win_rate": "47.16%",
+    "matches": 3649
+  }
+]

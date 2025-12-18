@@ -1,0 +1,45 @@
+{
+  "champion": "quinn",
+  "starting_items": [],
+  "core_items": [
+    "Symbiotic Soles",
+    "Profane Hydra",
+    "Edge of Night"
+  ],
+  "fourth_item_options": [
+    "The Collector",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Infinity Edge",
+    "The Collector"
+  ],
+  "sixth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow"
+  ],
+  "full_build": [
+    "Symbiotic Soles",
+    "Profane Hydra",
+    "Edge of Night",
+    "The Collector",
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "aatrox",
+  "starting_items": [],
+  "core_items": [
+    "Voltaic Cyclosword",
+    "Sundered Sky",
+    "Mercury's Treads"
+  ],
+  "fourth_item_options": [
+    "Death's Dance",
+    "Spear of Shojin"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Serylda's Grudge",
+    "Sterak's Gage"
+  ],
+  "sixth_item_options": [
+    "Serylda's Grudge",
+    "Sterak's Gage",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Voltaic Cyclosword",
+    "Sundered Sky",
+    "Mercury's Treads",
+    "Death's Dance",
+    "Death's Dance",
+    "Serylda's Grudge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

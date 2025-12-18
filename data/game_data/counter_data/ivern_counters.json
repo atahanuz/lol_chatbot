@@ -1,0 +1,74 @@
+{
+  "champion": "Ivern",
+  "weakAgainst": [
+    {
+      "champion": "Sylas",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Jarvan IV",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Briar",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Qiyana",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Diana",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Rengar",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Kha'Zix",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Master Yi",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Kayn",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Lee Sin",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Aatrox",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Viego",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Malphite",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/ivern"
+}

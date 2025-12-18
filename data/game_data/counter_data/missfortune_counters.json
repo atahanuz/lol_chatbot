@@ -1,0 +1,129 @@
+{
+  "champion": "MissFortune",
+  "weakAgainst": [
+    {
+      "champion": "Ziggs",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Nilah",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Kog'Maw",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Kalista",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Zeri",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Corki",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Yunara",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Varus",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Aphelios",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Lucian",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Twitch",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Ezreal",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Samira",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Sivir",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Ashe",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Draven",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Tristana",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Xayah",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Jhin",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Vayne",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Jinx",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/miss-fortune"
+}

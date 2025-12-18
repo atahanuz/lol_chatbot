@@ -1,0 +1,45 @@
+{
+  "champion": "ryze",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Void Staff",
+    "Frozen Heart"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Sorcerer's Shoes",
+    "Archangel's Staff",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

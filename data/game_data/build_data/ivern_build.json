@@ -1,0 +1,45 @@
+{
+  "champion": "ivern",
+  "starting_items": [],
+  "core_items": [
+    "Ionian Boots of Lucidity",
+    "Redemption",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Moonstone Renewer",
+    "Ardent Censer"
+  ],
+  "fifth_item_options": [
+    "Ardent Censer",
+    "Dawncore",
+    "Shurelya's Battlesong"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Shurelya's Battlesong",
+    "Ardent Censer"
+  ],
+  "full_build": [
+    "Ionian Boots of Lucidity",
+    "Redemption",
+    "Mejai's Soulstealer",
+    "Moonstone Renewer",
+    "Ardent Censer",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

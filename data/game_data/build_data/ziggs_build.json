@@ -1,0 +1,45 @@
+{
+  "champion": "ziggs",
+  "starting_items": [],
+  "core_items": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Horizon Focus"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Shadowflame",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Void Staff"
+  ],
+  "full_build": [
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Horizon Focus",
+    "Rabadon's Deathcap",
+    "Shadowflame",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

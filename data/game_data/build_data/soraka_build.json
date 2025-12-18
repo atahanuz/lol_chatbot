@@ -1,0 +1,45 @@
+{
+  "champion": "soraka",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Dawncore"
+  ],
+  "fifth_item_options": [
+    "Dawncore",
+    "Redemption",
+    "Ardent Censer"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Mikael's Blessing",
+    "Vigilant Wardstone"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer",
+    "Redemption",
+    "Dawncore",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

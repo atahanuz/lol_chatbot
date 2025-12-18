@@ -1,0 +1,45 @@
+{
+  "champion": "heimerdinger",
+  "starting_items": [],
+  "core_items": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Rabadon's Deathcap"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Void Staff",
+    "Liandry's Torment"
+  ],
+  "sixth_item_options": [
+    "Void Staff",
+    "Liandry's Torment",
+    "Shadowflame"
+  ],
+  "full_build": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass",
+    "Void Staff"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

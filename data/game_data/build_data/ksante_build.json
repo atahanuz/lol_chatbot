@@ -1,0 +1,45 @@
+{
+  "champion": "ksante",
+  "starting_items": [],
+  "core_items": [
+    "Iceborn Gauntlet",
+    "Mercury's Treads",
+    "Unending Despair"
+  ],
+  "fourth_item_options": [
+    "Jak'Sho, The Protean",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Thornmail",
+    "Randuin's Omen"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Force of Nature",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Iceborn Gauntlet",
+    "Mercury's Treads",
+    "Unending Despair",
+    "Jak'Sho, The Protean",
+    "Jak'Sho, The Protean",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

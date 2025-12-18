@@ -1,0 +1,45 @@
+{
+  "champion": "swain",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Rylai's Crystal Scepter",
+    "Boots of Swiftness"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Liandry's Torment"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Liandry's Torment",
+    "Spirit Visage"
+  ],
+  "sixth_item_options": [
+    "Unending Despair",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Rylai's Crystal Scepter",
+    "Boots of Swiftness",
+    "Zhonya's Hourglass",
+    "Zhonya's Hourglass",
+    "Unending Despair"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

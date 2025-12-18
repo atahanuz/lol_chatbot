@@ -1,0 +1,45 @@
+{
+  "champion": "illaoi",
+  "starting_items": [],
+  "core_items": [
+    "Black Cleaver",
+    "Plated Steelcaps",
+    "Iceborn Gauntlet"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Spirit Visage"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Sterak's Gage",
+    "Sundered Sky"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Thornmail",
+    "Spear of Shojin"
+  ],
+  "full_build": [
+    "Black Cleaver",
+    "Plated Steelcaps",
+    "Iceborn Gauntlet",
+    "Sterak's Gage",
+    "Spirit Visage",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

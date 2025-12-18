@@ -1,0 +1,45 @@
+{
+  "champion": "garen",
+  "starting_items": [],
+  "core_items": [
+    "Berserker's Greaves",
+    "Stridebreaker",
+    "Phantom Dancer"
+  ],
+  "fourth_item_options": [
+    "Spear of Shojin",
+    "Infinity Edge"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Infinity Edge",
+    "Dead Man's Plate"
+  ],
+  "sixth_item_options": [
+    "Sterak's Gage",
+    "Dead Man's Plate",
+    "Spear of Shojin"
+  ],
+  "full_build": [
+    "Berserker's Greaves",
+    "Stridebreaker",
+    "Phantom Dancer",
+    "Spear of Shojin",
+    "Sterak's Gage",
+    "Sterak's Gage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "kogmaw",
+  "starting_items": [],
+  "core_items": [
+    "Guinsoo's Rageblade",
+    "Berserker's Greaves",
+    "Blade of The Ruined King"
+  ],
+  "fourth_item_options": [
+    "Runaan's Hurricane",
+    "Wit's End"
+  ],
+  "fifth_item_options": [
+    "Terminus",
+    "Jak'Sho, The Protean",
+    "Runaan's Hurricane"
+  ],
+  "sixth_item_options": [
+    "Titanic Hydra",
+    "Navori Flickerblade",
+    "Terminus"
+  ],
+  "full_build": [
+    "Guinsoo's Rageblade",
+    "Berserker's Greaves",
+    "Blade of The Ruined King",
+    "Runaan's Hurricane",
+    "Terminus",
+    "Titanic Hydra"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

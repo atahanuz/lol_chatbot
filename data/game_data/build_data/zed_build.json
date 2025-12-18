@@ -1,0 +1,45 @@
+{
+  "champion": "zed",
+  "starting_items": [],
+  "core_items": [
+    "Eclipse",
+    "Ionian Boots of Lucidity",
+    "Voltaic Cyclosword"
+  ],
+  "fourth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night"
+  ],
+  "fifth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Axiom Arc"
+  ],
+  "sixth_item_options": [
+    "Axiom Arc",
+    "Edge of Night",
+    "Spear of Shojin"
+  ],
+  "full_build": [
+    "Eclipse",
+    "Ionian Boots of Lucidity",
+    "Voltaic Cyclosword",
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Axiom Arc"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "First Strike",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "champion": "Nautilus",
+  "weakAgainst": [
+    {
+      "champion": "Taric",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Braum",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Brand",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Rell",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Soraka",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Janna",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Shaco",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Leona",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Nami",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Rakan",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Milio",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Maokai",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Seraphine",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Swain",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Fiddlesticks",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Senna",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Alistar",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Poppy",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Thresh",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Bard",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sona",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Karma",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Pantheon",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Mel",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Lux",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Elise",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/nautilus"
+}

@@ -1,0 +1,99 @@
+{
+  "champion": "Karthus",
+  "weakAgainst": [
+    {
+      "champion": "Diana",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Talon",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Master Yi",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Malphite",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Zaahen",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Kha'Zix",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Viego",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Graves",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Aatrox",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Jarvan IV",
+      "score": 5.2,
+      "winRate": 51
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Sylas",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Shaco",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Qiyana",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Briar",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Kayn",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zed",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Lee Sin",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Rengar",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/karthus"
+}

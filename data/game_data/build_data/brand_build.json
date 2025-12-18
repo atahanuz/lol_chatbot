@@ -1,0 +1,45 @@
+{
+  "champion": "brand",
+  "starting_items": [],
+  "core_items": [
+    "Zaz'Zak's Realmspike",
+    "Rylai's Crystal Scepter",
+    "Sorcerer's Shoes"
+  ],
+  "fourth_item_options": [
+    "Liandry's Torment",
+    "Blackfire Torch"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Morellonomicon",
+    "Liandry's Torment"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Cryptbloom"
+  ],
+  "full_build": [
+    "Zaz'Zak's Realmspike",
+    "Rylai's Crystal Scepter",
+    "Sorcerer's Shoes",
+    "Liandry's Torment",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Dark Harvest",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

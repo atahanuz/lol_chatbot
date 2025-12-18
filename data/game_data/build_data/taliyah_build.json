@@ -1,0 +1,45 @@
+{
+  "champion": "taliyah",
+  "starting_items": [],
+  "core_items": [
+    "Ionian Boots of Lucidity",
+    "Archangel's Staff",
+    "Rylai's Crystal Scepter"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Ionian Boots of Lucidity",
+    "Archangel's Staff",
+    "Rylai's Crystal Scepter",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Phase Rush",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

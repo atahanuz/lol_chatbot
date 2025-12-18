@@ -1,0 +1,45 @@
+{
+  "champion": "talon",
+  "starting_items": [],
+  "core_items": [
+    "Youmuu's Ghostblade",
+    "Axiom Arc",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Edge of Night",
+    "Opportunity"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Opportunity"
+  ],
+  "sixth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Opportunity"
+  ],
+  "full_build": [
+    "Youmuu's Ghostblade",
+    "Axiom Arc",
+    "Ionian Boots of Lucidity",
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Serylda's Grudge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

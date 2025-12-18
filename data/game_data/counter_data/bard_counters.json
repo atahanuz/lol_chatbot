@@ -1,0 +1,194 @@
+{
+  "champion": "Bard",
+  "weakAgainst": [
+    {
+      "champion": "Taric",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Maokai",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Zyra",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Brand",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Sona",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Milio",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Janna",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Poppy",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Yuumi",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Nami",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Elise",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Leona",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Neeko",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Braum",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Swain",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Lux",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Alistar",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Mel",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rell",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Soraka",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Pantheon",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Senna",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Xerath",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Seraphine",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Morgana",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Karma",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Shaco",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/bard"
+}

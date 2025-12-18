@@ -1,0 +1,45 @@
+{
+  "champion": "zilean",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Ionian Boots of Lucidity",
+    "Shurelya's Battlesong"
+  ],
+  "fourth_item_options": [
+    "Imperial Mandate",
+    "Locket of the Iron Solari"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Imperial Mandate",
+    "Locket of the Iron Solari"
+  ],
+  "sixth_item_options": [
+    "Cosmic Drive",
+    "Vigilant Wardstone",
+    "Redemption"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Ionian Boots of Lucidity",
+    "Shurelya's Battlesong",
+    "Imperial Mandate",
+    "Redemption",
+    "Cosmic Drive"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

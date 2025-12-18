@@ -1,0 +1,45 @@
+{
+  "champion": "ahri",
+  "starting_items": [],
+  "core_items": [
+    "Malignance",
+    "Sorcerer's Shoes",
+    "Horizon Focus"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Malignance",
+    "Sorcerer's Shoes",
+    "Horizon Focus",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

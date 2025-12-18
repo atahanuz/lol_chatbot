@@ -1,0 +1,45 @@
+{
+  "champion": "seraphine",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Redemption",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Moonstone Renewer",
+    "Mikael's Blessing"
+  ],
+  "fifth_item_options": [
+    "Dawncore",
+    "Moonstone Renewer",
+    "Ardent Censer"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Moonstone Renewer",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Redemption",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer",
+    "Dawncore",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Guardian",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

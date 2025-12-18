@@ -1,0 +1,45 @@
+{
+  "champion": "drmundo",
+  "starting_items": [],
+  "core_items": [
+    "Warmog's Armor",
+    "Heartsteel",
+    "Boots of Swiftness"
+  ],
+  "fourth_item_options": [
+    "Titanic Hydra",
+    "Spirit Visage"
+  ],
+  "fifth_item_options": [
+    "Overlord's Bloodmail",
+    "Spirit Visage",
+    "Titanic Hydra"
+  ],
+  "sixth_item_options": [
+    "Overlord's Bloodmail",
+    "Titanic Hydra",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Warmog's Armor",
+    "Heartsteel",
+    "Boots of Swiftness",
+    "Titanic Hydra",
+    "Overlord's Bloodmail",
+    "Overlord's Bloodmail"
+  ],
+  "summoner_spells": [
+    "Ghost",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

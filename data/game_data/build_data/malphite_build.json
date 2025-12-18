@@ -1,0 +1,45 @@
+{
+  "champion": "malphite",
+  "starting_items": [],
+  "core_items": [
+    "Plated Steelcaps",
+    "Sunfire Aegis",
+    "Thornmail"
+  ],
+  "fourth_item_options": [
+    "Frozen Heart",
+    "Kaenic Rookern"
+  ],
+  "fifth_item_options": [
+    "Kaenic Rookern",
+    "Jak'Sho, The Protean",
+    "Frozen Heart"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Malignance",
+    "Unending Despair"
+  ],
+  "full_build": [
+    "Plated Steelcaps",
+    "Sunfire Aegis",
+    "Thornmail",
+    "Frozen Heart",
+    "Kaenic Rookern",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

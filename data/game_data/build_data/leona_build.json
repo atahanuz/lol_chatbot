@@ -1,0 +1,45 @@
+{
+  "champion": "leona",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Plated Steelcaps",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Knight's Vow"
+  ],
+  "fifth_item_options": [
+    "Knight's Vow",
+    "Thornmail",
+    "Redemption"
+  ],
+  "sixth_item_options": [
+    "Kaenic Rookern",
+    "Thornmail",
+    "Knight's Vow"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Plated Steelcaps",
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Knight's Vow",
+    "Kaenic Rookern"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Aftershock",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

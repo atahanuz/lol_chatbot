@@ -1,0 +1,45 @@
+{
+  "champion": "riven",
+  "starting_items": [],
+  "core_items": [
+    "Axiom Arc",
+    "Ionian Boots of Lucidity",
+    "Sundered Sky"
+  ],
+  "fourth_item_options": [
+    "Death's Dance",
+    "Serylda's Grudge"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Death's Dance",
+    "Maw of Malmortius"
+  ],
+  "sixth_item_options": [
+    "Maw of Malmortius",
+    "Serylda's Grudge",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Axiom Arc",
+    "Ionian Boots of Lucidity",
+    "Sundered Sky",
+    "Death's Dance",
+    "Serylda's Grudge",
+    "Maw of Malmortius"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

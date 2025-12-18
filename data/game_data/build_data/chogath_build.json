@@ -1,0 +1,45 @@
+{
+  "champion": "chogath",
+  "starting_items": [],
+  "core_items": [
+    "Hextech Rocketbelt",
+    "Boots of Swiftness",
+    "Riftmaker"
+  ],
+  "fourth_item_options": [
+    "Unending Despair",
+    "Thornmail"
+  ],
+  "fifth_item_options": [
+    "Unending Despair",
+    "Thornmail",
+    "Jak'Sho, The Protean"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Mejai's Soulstealer",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Hextech Rocketbelt",
+    "Boots of Swiftness",
+    "Riftmaker",
+    "Unending Despair",
+    "Unending Despair",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

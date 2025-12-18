@@ -1,0 +1,45 @@
+{
+  "champion": "nami",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Imperial Mandate",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Moonstone Renewer",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Moonstone Renewer",
+    "Ardent Censer"
+  ],
+  "sixth_item_options": [
+    "Shurelya's Battlesong",
+    "Redemption",
+    "Ardent Censer"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Imperial Mandate",
+    "Ionian Boots of Lucidity",
+    "Moonstone Renewer",
+    "Redemption",
+    "Shurelya's Battlesong"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

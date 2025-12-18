@@ -1,0 +1,45 @@
+{
+  "champion": "sett",
+  "starting_items": [],
+  "core_items": [
+    "Stridebreaker",
+    "Boots of Swiftness",
+    "Overlord's Bloodmail"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Warmog's Armor"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Spear of Shojin",
+    "Warmog's Armor"
+  ],
+  "sixth_item_options": [
+    "Warmog's Armor",
+    "Spear of Shojin",
+    "Sterak's Gage"
+  ],
+  "full_build": [
+    "Stridebreaker",
+    "Boots of Swiftness",
+    "Overlord's Bloodmail",
+    "Sterak's Gage",
+    "Sterak's Gage",
+    "Warmog's Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

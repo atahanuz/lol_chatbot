@@ -1,0 +1,45 @@
+{
+  "champion": "neeko",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Hextech Rocketbelt",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Zhonya's Hourglass",
+    "Frozen Heart"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Frozen Heart",
+    "Morellonomicon"
+  ],
+  "sixth_item_options": [
+    "Vigilant Wardstone",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Hextech Rocketbelt",
+    "Ionian Boots of Lucidity",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Vigilant Wardstone"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

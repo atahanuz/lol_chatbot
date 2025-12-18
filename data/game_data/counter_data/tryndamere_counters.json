@@ -1,0 +1,179 @@
+{
+  "champion": "Tryndamere",
+  "weakAgainst": [
+    {
+      "champion": "Malphite",
+      "score": 7.0,
+      "winRate": 60
+    },
+    {
+      "champion": "Urgot",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Teemo",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Gragas",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Aatrox",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Darius",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Gangplank",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Jax",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ornn",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Sion",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Zaahen",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Cho'Gath",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Nasus",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Singed",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Kayle",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Riven",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sett",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Yone",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Gnar",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Shen",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Renekton",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Camille",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Mordekaiser",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Yasuo",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Vladimir",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Ambessa",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Fiora",
+      "score": 3.8,
+      "winRate": 44
+    },
+    {
+      "champion": "Yorick",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Garen",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Irelia",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Volibear",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Gwen",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Jayce",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "K'Sante",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/tryndamere"
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "twistedfate",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Boots of Swiftness",
+    "Lich Bane"
+  ],
+  "fourth_item_options": [
+    "Rapid Firecannon",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Rapid Firecannon"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Boots of Swiftness",
+    "Lich Bane",
+    "Rapid Firecannon",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Unsealed Spellbook",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

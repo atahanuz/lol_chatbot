@@ -1,0 +1,45 @@
+{
+  "champion": "vladimir",
+  "starting_items": [],
+  "core_items": [
+    "Ionian Boots of Lucidity",
+    "Horizon Focus",
+    "Rabadon's Deathcap"
+  ],
+  "fourth_item_options": [
+    "Mejai's Soulstealer",
+    "Riftmaker"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass",
+    "Riftmaker"
+  ],
+  "sixth_item_options": [
+    "Void Staff",
+    "Mejai's Soulstealer",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Ionian Boots of Lucidity",
+    "Horizon Focus",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer",
+    "Void Staff"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

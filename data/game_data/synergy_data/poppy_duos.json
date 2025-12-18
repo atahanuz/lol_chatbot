@@ -1,0 +1,137 @@
+[
+  {
+    "champion": "Swain",
+    "duo_win_rate": "58.06%",
+    "matches": 248
+  },
+  {
+    "champion": "Veigar",
+    "duo_win_rate": "57.19%",
+    "matches": 306
+  },
+  {
+    "champion": "Draven",
+    "duo_win_rate": "55.58%",
+    "matches": 842
+  },
+  {
+    "champion": "Ziggs",
+    "duo_win_rate": "54.84%",
+    "matches": 547
+  },
+  {
+    "champion": "Sivir",
+    "duo_win_rate": "54.38%",
+    "matches": 982
+  },
+  {
+    "champion": "Smolder",
+    "duo_win_rate": "54.14%",
+    "matches": 1655
+  },
+  {
+    "champion": "Miss Fortune",
+    "duo_win_rate": "53.63%",
+    "matches": 3729
+  },
+  {
+    "champion": "Twitch",
+    "duo_win_rate": "52.9%",
+    "matches": 535
+  },
+  {
+    "champion": "Mel",
+    "duo_win_rate": "52.36%",
+    "matches": 296
+  },
+  {
+    "champion": "Aphelios",
+    "duo_win_rate": "52.29%",
+    "matches": 1092
+  },
+  {
+    "champion": "Ashe",
+    "duo_win_rate": "52.13%",
+    "matches": 1525
+  },
+  {
+    "champion": "Jhin",
+    "duo_win_rate": "51.64%",
+    "matches": 2781
+  },
+  {
+    "champion": "Varus",
+    "duo_win_rate": "51.57%",
+    "matches": 607
+  },
+  {
+    "champion": "Jinx",
+    "duo_win_rate": "51.56%",
+    "matches": 1350
+  },
+  {
+    "champion": "Tristana",
+    "duo_win_rate": "51.56%",
+    "matches": 1348
+  },
+  {
+    "champion": "Vayne",
+    "duo_win_rate": "51.13%",
+    "matches": 1064
+  },
+  {
+    "champion": "Ezreal",
+    "duo_win_rate": "50.62%",
+    "matches": 2106
+  },
+  {
+    "champion": "Lucian",
+    "duo_win_rate": "50.3%",
+    "matches": 1352
+  },
+  {
+    "champion": "Kai'Sa",
+    "duo_win_rate": "50.06%",
+    "matches": 4413
+  },
+  {
+    "champion": "Caitlyn",
+    "duo_win_rate": "49.24%",
+    "matches": 1448
+  },
+  {
+    "champion": "Zeri",
+    "duo_win_rate": "48.79%",
+    "matches": 619
+  },
+  {
+    "champion": "Xayah",
+    "duo_win_rate": "48.29%",
+    "matches": 733
+  },
+  {
+    "champion": "Yunara",
+    "duo_win_rate": "48.07%",
+    "matches": 1737
+  },
+  {
+    "champion": "Corki",
+    "duo_win_rate": "47.87%",
+    "matches": 422
+  },
+  {
+    "champion": "Samira",
+    "duo_win_rate": "47.83%",
+    "matches": 646
+  },
+  {
+    "champion": "Nilah",
+    "duo_win_rate": "45.76%",
+    "matches": 177
+  },
+  {
+    "champion": "Kalista",
+    "duo_win_rate": "45.59%",
+    "matches": 272
+  }
+]

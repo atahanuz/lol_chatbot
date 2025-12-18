@@ -1,0 +1,45 @@
+{
+  "champion": "naafiri",
+  "starting_items": [],
+  "core_items": [
+    "Voltaic Cyclosword",
+    "Ionian Boots of Lucidity",
+    "Opportunity"
+  ],
+  "fourth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Axiom Arc"
+  ],
+  "sixth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Spear of Shojin"
+  ],
+  "full_build": [
+    "Voltaic Cyclosword",
+    "Ionian Boots of Lucidity",
+    "Opportunity",
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Serylda's Grudge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

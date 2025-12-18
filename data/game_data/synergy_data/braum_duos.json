@@ -1,0 +1,117 @@
+[
+  {
+    "champion": "Sivir",
+    "duo_win_rate": "54.79%",
+    "matches": 1796
+  },
+  {
+    "champion": "Kog'Maw",
+    "duo_win_rate": "53.86%",
+    "matches": 544
+  },
+  {
+    "champion": "Jinx",
+    "duo_win_rate": "53.66%",
+    "matches": 4514
+  },
+  {
+    "champion": "Miss Fortune",
+    "duo_win_rate": "53.21%",
+    "matches": 6409
+  },
+  {
+    "champion": "Twitch",
+    "duo_win_rate": "53.02%",
+    "matches": 1392
+  },
+  {
+    "champion": "Yunara",
+    "duo_win_rate": "52.81%",
+    "matches": 5141
+  },
+  {
+    "champion": "Aphelios",
+    "duo_win_rate": "52.63%",
+    "matches": 2871
+  },
+  {
+    "champion": "Xayah",
+    "duo_win_rate": "52.41%",
+    "matches": 1225
+  },
+  {
+    "champion": "Tristana",
+    "duo_win_rate": "51.88%",
+    "matches": 2924
+  },
+  {
+    "champion": "Smolder",
+    "duo_win_rate": "51.57%",
+    "matches": 3277
+  },
+  {
+    "champion": "Ashe",
+    "duo_win_rate": "51.37%",
+    "matches": 9569
+  },
+  {
+    "champion": "Vayne",
+    "duo_win_rate": "50.74%",
+    "matches": 2440
+  },
+  {
+    "champion": "Lucian",
+    "duo_win_rate": "50.4%",
+    "matches": 11122
+  },
+  {
+    "champion": "Ezreal",
+    "duo_win_rate": "50.01%",
+    "matches": 4103
+  },
+  {
+    "champion": "Draven",
+    "duo_win_rate": "49.47%",
+    "matches": 1324
+  },
+  {
+    "champion": "Kalista",
+    "duo_win_rate": "49.47%",
+    "matches": 568
+  },
+  {
+    "champion": "Varus",
+    "duo_win_rate": "48.89%",
+    "matches": 1129
+  },
+  {
+    "champion": "Kai'Sa",
+    "duo_win_rate": "48.85%",
+    "matches": 6999
+  },
+  {
+    "champion": "Zeri",
+    "duo_win_rate": "48.25%",
+    "matches": 1287
+  },
+  {
+    "champion": "Samira",
+    "duo_win_rate": "47.89%",
+    "matches": 662
+  },
+  {
+    "champion": "Caitlyn",
+    "duo_win_rate": "47.88%",
+    "matches": 3333
+  },
+  {
+    "champion": "Jhin",
+    "duo_win_rate": "47.37%",
+    "matches": 2240
+  },
+  {
+    "champion": "Corki",
+    "duo_win_rate": "44.96%",
+    "matches": 605
+  }
+]

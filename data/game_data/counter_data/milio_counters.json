@@ -1,0 +1,199 @@
+{
+  "champion": "Milio",
+  "weakAgainst": [
+    {
+      "champion": "Soraka",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Janna",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Mel",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Fiddlesticks",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Alistar",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Pantheon",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Shaco",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Taric",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Rakan",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Xerath",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Morgana",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Swain",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Senna",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rell",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Brand",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Sona",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Maokai",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Seraphine",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Lux",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Bard",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zyra",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Poppy",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Zilean",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Leona",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lulu",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Karma",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nami",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Elise",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Braum",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/milio"
+}

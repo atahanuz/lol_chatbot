@@ -1,0 +1,114 @@
+{
+  "champion": "Taric",
+  "weakAgainst": [
+    {
+      "champion": "Senna",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Milio",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Nami",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Braum",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lulu",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Karma",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Alistar",
+      "score": 2.2,
+      "winRate": 36
+    },
+    {
+      "champion": "Pantheon",
+      "score": 3.0,
+      "winRate": 40
+    },
+    {
+      "champion": "Nautilus",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Rakan",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Yuumi",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Bard",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Swain",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Soraka",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Leona",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lux",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Janna",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Thresh",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/taric"
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "taric",
+  "starting_items": [],
+  "core_items": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Winter's Approach",
+    "Redemption"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Knight's Vow",
+    "Winter's Approach"
+  ],
+  "sixth_item_options": [
+    "Knight's Vow",
+    "Redemption",
+    "Vigilant Wardstone"
+  ],
+  "full_build": [
+    "Dream Maker",
+    "Ionian Boots of Lucidity",
+    "Locket of the Iron Solari",
+    "Winter's Approach",
+    "Redemption",
+    "Knight's Vow"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Glacial Augment",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

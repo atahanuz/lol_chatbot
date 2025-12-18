@@ -1,0 +1,45 @@
+{
+  "champion": "xinzhao",
+  "starting_items": [],
+  "core_items": [
+    "Sundered Sky",
+    "Plated Steelcaps",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Sterak's Gage",
+    "Death's Dance"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Maw of Malmortius"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Spirit Visage",
+    "Chempunk Chainsword"
+  ],
+  "full_build": [
+    "Sundered Sky",
+    "Plated Steelcaps",
+    "Black Cleaver",
+    "Sterak's Gage",
+    "Death's Dance",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "champion": "Draven",
+  "weakAgainst": [
+    {
+      "champion": "Nilah",
+      "score": 6.6,
+      "winRate": 58
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Ziggs",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Kog'Maw",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Xayah",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Ashe",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Samira",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Sivir",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Varus",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Twitch",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Ezreal",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lucian",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Zeri",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Kalista",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Corki",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Yunara",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Aphelios",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Tristana",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/draven"
+}

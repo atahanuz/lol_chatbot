@@ -1,0 +1,45 @@
+{
+  "champion": "warwick",
+  "starting_items": [],
+  "core_items": [
+    "Stridebreaker",
+    "Plated Steelcaps",
+    "Blade of The Ruined King"
+  ],
+  "fourth_item_options": [
+    "Spirit Visage",
+    "Sterak's Gage"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Sterak's Gage",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Jak'Sho, The Protean",
+    "Thornmail",
+    "Spirit Visage"
+  ],
+  "full_build": [
+    "Stridebreaker",
+    "Plated Steelcaps",
+    "Blade of The Ruined King",
+    "Spirit Visage",
+    "Spirit Visage",
+    "Jak'Sho, The Protean"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

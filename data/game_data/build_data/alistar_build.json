@@ -1,0 +1,45 @@
+{
+  "champion": "alistar",
+  "starting_items": [],
+  "core_items": [
+    "Celestial Opposition",
+    "Boots of Swiftness",
+    "Redemption"
+  ],
+  "fourth_item_options": [
+    "Locket of the Iron Solari",
+    "Zeke's Convergence"
+  ],
+  "fifth_item_options": [
+    "Knight's Vow",
+    "Zeke's Convergence",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Knight's Vow",
+    "Frozen Heart"
+  ],
+  "full_build": [
+    "Celestial Opposition",
+    "Boots of Swiftness",
+    "Redemption",
+    "Locket of the Iron Solari",
+    "Knight's Vow",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Unsealed Spellbook",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

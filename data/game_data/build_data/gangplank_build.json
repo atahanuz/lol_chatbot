@@ -1,0 +1,45 @@
+{
+  "champion": "gangplank",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "The Collector"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow"
+  ],
+  "sixth_item_options": [
+    "Immortal Shieldbow",
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "The Collector",
+    "Infinity Edge",
+    "Infinity Edge",
+    "Immortal Shieldbow"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

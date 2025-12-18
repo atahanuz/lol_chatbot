@@ -1,0 +1,45 @@
+{
+  "champion": "poppy",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Dead Man's Plate"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Locket of the Iron Solari"
+  ],
+  "fifth_item_options": [
+    "Redemption",
+    "Locket of the Iron Solari",
+    "Thornmail"
+  ],
+  "sixth_item_options": [
+    "Vigilant Wardstone",
+    "Sundered Sky",
+    "Thornmail"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Dead Man's Plate",
+    "Redemption",
+    "Redemption",
+    "Vigilant Wardstone"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Hail of Blades",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "champion": "Aurora",
+  "weakAgainst": [
+    {
+      "champion": "Akshan",
+      "score": 6.8,
+      "winRate": 59
+    },
+    {
+      "champion": "Syndra",
+      "score": 6.2,
+      "winRate": 56
+    },
+    {
+      "champion": "Malzahar",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Veigar",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Zoe",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Fizz",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Kassadin",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Vladimir",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Xerath",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Irelia",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Katarina",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Anivia",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Viktor",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Orianna",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "LeBlanc",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Cassiopeia",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Taliyah",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Ahri",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Sylas",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Ekko",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Hwei",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Twisted Fate",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lissandra",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Galio",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Diana",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Zed",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Ryze",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Qiyana",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Lux",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Akali",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Vex",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Azir",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Yone",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Mel",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yasuo",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Naafiri",
+      "score": 4.6,
+      "winRate": 48
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/aurora"
+}

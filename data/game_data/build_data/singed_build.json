@@ -1,0 +1,45 @@
+{
+  "champion": "singed",
+  "starting_items": [],
+  "core_items": [
+    "Boots of Swiftness",
+    "Liandry's Torment",
+    "Rylai's Crystal Scepter"
+  ],
+  "fourth_item_options": [
+    "Dead Man's Plate",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Dead Man's Plate",
+    "Riftmaker"
+  ],
+  "sixth_item_options": [
+    "Mejai's Soulstealer",
+    "Jak'Sho, The Protean",
+    "Riftmaker"
+  ],
+  "full_build": [
+    "Boots of Swiftness",
+    "Liandry's Torment",
+    "Rylai's Crystal Scepter",
+    "Dead Man's Plate",
+    "Mejai's Soulstealer",
+    "Mejai's Soulstealer"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ghost"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

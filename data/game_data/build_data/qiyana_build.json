@@ -1,0 +1,45 @@
+{
+  "champion": "qiyana",
+  "starting_items": [],
+  "core_items": [
+    "Profane Hydra",
+    "Axiom Arc",
+    "Ionian Boots of Lucidity"
+  ],
+  "fourth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge"
+  ],
+  "fifth_item_options": [
+    "Serylda's Grudge",
+    "Edge of Night",
+    "Serpent's Fang"
+  ],
+  "sixth_item_options": [
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Serpent's Fang"
+  ],
+  "full_build": [
+    "Profane Hydra",
+    "Axiom Arc",
+    "Ionian Boots of Lucidity",
+    "Edge of Night",
+    "Serylda's Grudge",
+    "Edge of Night"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "First Strike",
+  "primary_runes": [
+    "Inspiration",
+    "Hextech Flashtraption",
+    "Magical Footwear"
+  ],
+  "secondary_runes": [
+    "Cash Back",
+    "Triple Tonic"
+  ]
+}

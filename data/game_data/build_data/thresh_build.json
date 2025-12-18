@@ -1,0 +1,45 @@
+{
+  "champion": "thresh",
+  "starting_items": [],
+  "core_items": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Locket of the Iron Solari"
+  ],
+  "fourth_item_options": [
+    "Redemption",
+    "Knight's Vow"
+  ],
+  "fifth_item_options": [
+    "Knight's Vow",
+    "Zeke's Convergence",
+    "Redemption"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Zeke's Convergence",
+    "Vigilant Wardstone"
+  ],
+  "full_build": [
+    "Solstice Sleigh",
+    "Boots of Swiftness",
+    "Locket of the Iron Solari",
+    "Redemption",
+    "Knight's Vow",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Guardian",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

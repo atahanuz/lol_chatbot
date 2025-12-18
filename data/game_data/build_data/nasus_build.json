@@ -1,0 +1,45 @@
+{
+  "champion": "nasus",
+  "starting_items": [],
+  "core_items": [
+    "Ionian Boots of Lucidity",
+    "Trinity Force",
+    "Frozen Heart"
+  ],
+  "fourth_item_options": [
+    "Spirit Visage",
+    "Sundered Sky"
+  ],
+  "fifth_item_options": [
+    "Jak'Sho, The Protean",
+    "Thornmail",
+    "Spirit Visage"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Randuin's Omen",
+    "Sundered Sky"
+  ],
+  "full_build": [
+    "Ionian Boots of Lucidity",
+    "Trinity Force",
+    "Frozen Heart",
+    "Spirit Visage",
+    "Jak'Sho, The Protean",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Ghost",
+    "Teleport"
+  ],
+  "keystone": "Fleet Footwork",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

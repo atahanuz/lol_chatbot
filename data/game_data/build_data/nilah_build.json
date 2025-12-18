@@ -1,0 +1,45 @@
+{
+  "champion": "nilah",
+  "starting_items": [],
+  "core_items": [
+    "The Collector",
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "fourth_item_options": [
+    "Immortal Shieldbow",
+    "Mortal Reminder"
+  ],
+  "fifth_item_options": [
+    "Immortal Shieldbow",
+    "Death's Dance",
+    "Bloodthirster"
+  ],
+  "sixth_item_options": [
+    "Death's Dance",
+    "Bloodthirster",
+    "Immortal Shieldbow"
+  ],
+  "full_build": [
+    "The Collector",
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Immortal Shieldbow",
+    "Immortal Shieldbow",
+    "Death's Dance"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

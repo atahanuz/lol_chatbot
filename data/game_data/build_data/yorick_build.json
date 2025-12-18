@@ -1,0 +1,45 @@
+{
+  "champion": "yorick",
+  "starting_items": [],
+  "core_items": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Spear of Shojin"
+  ],
+  "fourth_item_options": [
+    "Serylda's Grudge",
+    "Hullbreaker"
+  ],
+  "fifth_item_options": [
+    "Sterak's Gage",
+    "Thornmail",
+    "Spirit Visage"
+  ],
+  "sixth_item_options": [
+    "Sterak's Gage",
+    "Kaenic Rookern",
+    "Maw of Malmortius"
+  ],
+  "full_build": [
+    "Trinity Force",
+    "Plated Steelcaps",
+    "Spear of Shojin",
+    "Serylda's Grudge",
+    "Sterak's Gage",
+    "Sterak's Gage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

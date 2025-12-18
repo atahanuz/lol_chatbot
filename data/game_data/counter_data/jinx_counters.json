@@ -1,0 +1,129 @@
+{
+  "champion": "Jinx",
+  "weakAgainst": [
+    {
+      "champion": "Kog'Maw",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Ziggs",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Twitch",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Ashe",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Smolder",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Tristana",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Zeri",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Jhin",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Yunara",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Corki",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Varus",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Aphelios",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Kalista",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Draven",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Ezreal",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Samira",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Sivir",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Nilah",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Xayah",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Lucian",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/jinx"
+}

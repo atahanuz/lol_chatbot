@@ -1,0 +1,45 @@
+{
+  "champion": "senna",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Rapid Firecannon",
+    "Moonstone Renewer"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Dawncore",
+    "Rapid Firecannon"
+  ],
+  "sixth_item_options": [
+    "Infinity Edge",
+    "Edge of Night",
+    "Redemption"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Black Cleaver",
+    "Rapid Firecannon",
+    "Infinity Edge",
+    "Infinity Edge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

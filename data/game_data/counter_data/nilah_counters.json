@@ -1,0 +1,104 @@
+{
+  "champion": "Nilah",
+  "weakAgainst": [
+    {
+      "champion": "Smolder",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Tristana",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Xayah",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Jinx",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Vayne",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Varus",
+      "score": 3.2,
+      "winRate": 41
+    },
+    {
+      "champion": "Draven",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Aphelios",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Ezreal",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Caitlyn",
+      "score": 3.6,
+      "winRate": 43
+    },
+    {
+      "champion": "Kai'Sa",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Twitch",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Samira",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Sivir",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Ashe",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Miss Fortune",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Yunara",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lucian",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Jhin",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/nilah"
+}

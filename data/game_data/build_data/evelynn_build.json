@@ -1,0 +1,45 @@
+{
+  "champion": "evelynn",
+  "starting_items": [],
+  "core_items": [
+    "Sorcerer's Shoes",
+    "Lich Bane",
+    "Mejai's Soulstealer"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Banshee's Veil"
+  ],
+  "fifth_item_options": [
+    "Void Staff",
+    "Banshee's Veil",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Banshee's Veil",
+    "Void Staff",
+    "Shadowflame"
+  ],
+  "full_build": [
+    "Sorcerer's Shoes",
+    "Lich Bane",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap",
+    "Void Staff",
+    "Banshee's Veil"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Electrocute",
+  "primary_runes": [
+    "Domination",
+    "Cheap Shot",
+    "Taste of Blood"
+  ],
+  "secondary_runes": [
+    "Sudden Impact",
+    "Sixth Sense"
+  ]
+}

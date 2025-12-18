@@ -1,0 +1,45 @@
+{
+  "champion": "akshan",
+  "starting_items": [],
+  "core_items": [
+    "Statikk Shiv",
+    "Symbiotic Soles",
+    "The Collector"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Rapid Firecannon"
+  ],
+  "sixth_item_options": [
+    "Rapid Firecannon",
+    "Immortal Shieldbow",
+    "Lord Dominik's Regards"
+  ],
+  "full_build": [
+    "Statikk Shiv",
+    "Symbiotic Soles",
+    "The Collector",
+    "Infinity Edge",
+    "Infinity Edge",
+    "Rapid Firecannon"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

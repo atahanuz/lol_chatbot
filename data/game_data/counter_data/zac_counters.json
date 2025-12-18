@@ -1,0 +1,199 @@
+{
+  "champion": "Zac",
+  "weakAgainst": [
+    {
+      "champion": "Kayn",
+      "score": 6.4,
+      "winRate": 57
+    },
+    {
+      "champion": "Warwick",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Ambessa",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Hecarim",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Graves",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Lillia",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Ekko",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Jarvan IV",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Volibear",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Kha'Zix",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Amumu",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zaahen",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Shaco",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Diana",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Rengar",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Talon",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Briar",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Lee Sin",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Elise",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Vi",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Malphite",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Naafiri",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Evelynn",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Sejuani",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Jax",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Xin Zhao",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Zed",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Aatrox",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Fiddlesticks",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Master Yi",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Nocturne",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Sylas",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Viego",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Kindred",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Trundle",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nidalee",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Wukong",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Qiyana",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/zac"
+}

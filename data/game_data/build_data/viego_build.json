@@ -1,0 +1,45 @@
+{
+  "champion": "viego",
+  "starting_items": [],
+  "core_items": [
+    "Kraken Slayer",
+    "The Collector",
+    "Immortal Shieldbow"
+  ],
+  "fourth_item_options": [
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "fifth_item_options": [
+    "Lord Dominik's Regards",
+    "Infinity Edge",
+    "Mortal Reminder"
+  ],
+  "sixth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Kraken Slayer",
+    "The Collector",
+    "Immortal Shieldbow",
+    "Lord Dominik's Regards",
+    "Lord Dominik's Regards",
+    "Infinity Edge"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

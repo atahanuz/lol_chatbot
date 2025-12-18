@@ -1,0 +1,45 @@
+{
+  "champion": "malzahar",
+  "starting_items": [],
+  "core_items": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Liandry's Torment"
+  ],
+  "fourth_item_options": [
+    "Rylai's Crystal Scepter",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass",
+    "Mejai's Soulstealer"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer",
+    "Bloodletter's Curse"
+  ],
+  "full_build": [
+    "Blackfire Torch",
+    "Sorcerer's Shoes",
+    "Liandry's Torment",
+    "Rylai's Crystal Scepter",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

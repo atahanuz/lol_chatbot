@@ -1,0 +1,45 @@
+{
+  "champion": "sona",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Echoes of Helia"
+  ],
+  "fourth_item_options": [
+    "Moonstone Renewer",
+    "Archangel's Staff"
+  ],
+  "fifth_item_options": [
+    "Dawncore",
+    "Moonstone Renewer",
+    "Archangel's Staff"
+  ],
+  "sixth_item_options": [
+    "Dawncore",
+    "Ardent Censer",
+    "Redemption"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Boots of Swiftness",
+    "Echoes of Helia",
+    "Moonstone Renewer",
+    "Dawncore",
+    "Dawncore"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Summon Aery",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "volibear",
+  "starting_items": [],
+  "core_items": [
+    "Cosmic Drive",
+    "Mercury's Treads",
+    "Navori Flickerblade"
+  ],
+  "fourth_item_options": [
+    "Spirit Visage",
+    "Dead Man's Plate"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Thornmail",
+    "Dead Man's Plate"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Mejai's Soulstealer",
+    "Dead Man's Plate"
+  ],
+  "full_build": [
+    "Cosmic Drive",
+    "Mercury's Treads",
+    "Navori Flickerblade",
+    "Spirit Visage",
+    "Spirit Visage",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

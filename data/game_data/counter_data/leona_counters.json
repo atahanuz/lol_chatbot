@@ -1,0 +1,194 @@
+{
+  "champion": "Leona",
+  "weakAgainst": [
+    {
+      "champion": "Janna",
+      "score": 6.0,
+      "winRate": 55
+    },
+    {
+      "champion": "Rakan",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Soraka",
+      "score": 5.8,
+      "winRate": 54
+    },
+    {
+      "champion": "Elise",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Brand",
+      "score": 5.6,
+      "winRate": 53
+    },
+    {
+      "champion": "Swain",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Morgana",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Milio",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Taric",
+      "score": 5.4,
+      "winRate": 52
+    },
+    {
+      "champion": "Zilean",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Seraphine",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Karma",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Poppy",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Renata Glasc",
+      "score": 5.2,
+      "winRate": 51
+    },
+    {
+      "champion": "Shaco",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Maokai",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Thresh",
+      "score": 5.0,
+      "winRate": 50
+    },
+    {
+      "champion": "Braum",
+      "score": 5.0,
+      "winRate": 50
+    }
+  ],
+  "strongAgainst": [
+    {
+      "champion": "Mel",
+      "score": 3.4,
+      "winRate": 42
+    },
+    {
+      "champion": "Zyra",
+      "score": 4.0,
+      "winRate": 45
+    },
+    {
+      "champion": "Nautilus",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Xerath",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Yuumi",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Blitzcrank",
+      "score": 4.2,
+      "winRate": 46
+    },
+    {
+      "champion": "Rell",
+      "score": 4.4,
+      "winRate": 47
+    },
+    {
+      "champion": "Pyke",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Alistar",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Neeko",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Lux",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Pantheon",
+      "score": 4.6,
+      "winRate": 48
+    },
+    {
+      "champion": "Bard",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Vel'Koz",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Tahm Kench",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Sona",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Senna",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Lulu",
+      "score": 4.8,
+      "winRate": 49
+    },
+    {
+      "champion": "Nami",
+      "score": 4.8,
+      "winRate": 49
+    }
+  ],
+  "source": "counterstats.net",
+  "url": "https://www.counterstats.net/league-of-legends/leona"
+}

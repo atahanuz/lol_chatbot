@@ -1,0 +1,45 @@
+{
+  "champion": "leesin",
+  "starting_items": [],
+  "core_items": [
+    "Eclipse",
+    "Mercury's Treads",
+    "Sundered Sky"
+  ],
+  "fourth_item_options": [
+    "Death's Dance",
+    "Black Cleaver"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Sterak's Gage",
+    "Black Cleaver"
+  ],
+  "sixth_item_options": [
+    "Sterak's Gage",
+    "Maw of Malmortius",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Eclipse",
+    "Mercury's Treads",
+    "Sundered Sky",
+    "Death's Dance",
+    "Death's Dance",
+    "Sterak's Gage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "kindred",
+  "starting_items": [],
+  "core_items": [
+    "Kraken Slayer",
+    "The Collector",
+    "Mercury's Treads"
+  ],
+  "fourth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "fifth_item_options": [
+    "Infinity Edge",
+    "Lord Dominik's Regards",
+    "Rapid Firecannon"
+  ],
+  "sixth_item_options": [
+    "Rapid Firecannon",
+    "Infinity Edge",
+    "Lord Dominik's Regards"
+  ],
+  "full_build": [
+    "Kraken Slayer",
+    "The Collector",
+    "Mercury's Treads",
+    "Infinity Edge",
+    "Infinity Edge",
+    "Rapid Firecannon"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Press the Attack",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

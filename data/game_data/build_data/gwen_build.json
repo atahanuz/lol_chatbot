@@ -1,0 +1,45 @@
+{
+  "champion": "gwen",
+  "starting_items": [],
+  "core_items": [
+    "Nashor's Tooth",
+    "Sorcerer's Shoes",
+    "Riftmaker"
+  ],
+  "fourth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame"
+  ],
+  "fifth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame",
+    "Zhonya's Hourglass"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Void Staff",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Nashor's Tooth",
+    "Sorcerer's Shoes",
+    "Riftmaker",
+    "Rabadon's Deathcap",
+    "Rabadon's Deathcap",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Teleport",
+    "Ignite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "lux",
+  "starting_items": [],
+  "core_items": [
+    "Zaz'Zak's Realmspike",
+    "Luden's Companion",
+    "Sorcerer's Shoes"
+  ],
+  "fourth_item_options": [
+    "Stormsurge",
+    "Mejai's Soulstealer"
+  ],
+  "fifth_item_options": [
+    "Mejai's Soulstealer",
+    "Shadowflame",
+    "Stormsurge"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Zaz'Zak's Realmspike",
+    "Luden's Companion",
+    "Sorcerer's Shoes",
+    "Stormsurge",
+    "Mejai's Soulstealer",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Heal"
+  ],
+  "keystone": "Arcane Comet",
+  "primary_runes": [
+    "Sorcery",
+    "Axiom Arcanist",
+    "Manaflow Band"
+  ],
+  "secondary_runes": [
+    "Nimbus Cloak",
+    "Transcendence"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "cassiopeia",
+  "starting_items": [],
+  "core_items": [
+    "Rod of Ages",
+    "Archangel's Staff",
+    "Rylai's Crystal Scepter"
+  ],
+  "fourth_item_options": [
+    "Liandry's Torment",
+    "Zhonya's Hourglass"
+  ],
+  "fifth_item_options": [
+    "Liandry's Torment",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "sixth_item_options": [
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap",
+    "Mejai's Soulstealer"
+  ],
+  "full_build": [
+    "Rod of Ages",
+    "Archangel's Staff",
+    "Rylai's Crystal Scepter",
+    "Liandry's Torment",
+    "Liandry's Torment",
+    "Zhonya's Hourglass"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

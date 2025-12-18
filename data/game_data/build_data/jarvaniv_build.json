@@ -1,0 +1,45 @@
+{
+  "champion": "jarvaniv",
+  "starting_items": [],
+  "core_items": [
+    "Sundered Sky",
+    "Mercury's Treads",
+    "Black Cleaver"
+  ],
+  "fourth_item_options": [
+    "Frozen Heart",
+    "Sterak's Gage"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Frozen Heart",
+    "Sterak's Gage"
+  ],
+  "sixth_item_options": [
+    "Spirit Visage",
+    "Sterak's Gage",
+    "Frozen Heart"
+  ],
+  "full_build": [
+    "Sundered Sky",
+    "Mercury's Treads",
+    "Black Cleaver",
+    "Frozen Heart",
+    "Spirit Visage",
+    "Spirit Visage"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

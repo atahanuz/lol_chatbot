@@ -1,0 +1,45 @@
+{
+  "champion": "tahmkench",
+  "starting_items": [],
+  "core_items": [
+    "Bloodsong",
+    "Heartsteel",
+    "Boots of Swiftness"
+  ],
+  "fourth_item_options": [
+    "Unending Despair",
+    "Locket of the Iron Solari"
+  ],
+  "fifth_item_options": [
+    "Spirit Visage",
+    "Thornmail",
+    "Unending Despair"
+  ],
+  "sixth_item_options": [
+    "Thornmail",
+    "Frozen Heart",
+    "Locket of the Iron Solari"
+  ],
+  "full_build": [
+    "Bloodsong",
+    "Heartsteel",
+    "Boots of Swiftness",
+    "Unending Despair",
+    "Spirit Visage",
+    "Thornmail"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "keystone": "Grasp of the Undying",
+  "primary_runes": [
+    "Resolve",
+    "Demolish",
+    "Font of Life"
+  ],
+  "secondary_runes": [
+    "Shield Bash",
+    "Conditioning"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "champion": "kaisa",
+  "starting_items": [],
+  "core_items": [
+    "Kraken Slayer",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade"
+  ],
+  "fourth_item_options": [
+    "Nashor's Tooth",
+    "Phantom Dancer"
+  ],
+  "fifth_item_options": [
+    "Zhonya's Hourglass",
+    "Terminus",
+    "Bloodthirster"
+  ],
+  "sixth_item_options": [
+    "Rabadon's Deathcap",
+    "Shadowflame",
+    "Zhonya's Hourglass"
+  ],
+  "full_build": [
+    "Kraken Slayer",
+    "Berserker's Greaves",
+    "Guinsoo's Rageblade",
+    "Nashor's Tooth",
+    "Zhonya's Hourglass",
+    "Rabadon's Deathcap"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Barrier"
+  ],
+  "keystone": "Lethal Tempo",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}

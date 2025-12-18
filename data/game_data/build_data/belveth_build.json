@@ -1,0 +1,45 @@
+{
+  "champion": "belveth",
+  "starting_items": [],
+  "core_items": [
+    "Kraken Slayer",
+    "Stridebreaker",
+    "Mercury's Treads"
+  ],
+  "fourth_item_options": [
+    "Wit's End",
+    "Death's Dance"
+  ],
+  "fifth_item_options": [
+    "Death's Dance",
+    "Wit's End",
+    "Terminus"
+  ],
+  "sixth_item_options": [
+    "Terminus",
+    "Jak'Sho, The Protean",
+    "Death's Dance"
+  ],
+  "full_build": [
+    "Kraken Slayer",
+    "Stridebreaker",
+    "Mercury's Treads",
+    "Wit's End",
+    "Death's Dance",
+    "Terminus"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Smite"
+  ],
+  "keystone": "Conqueror",
+  "primary_runes": [
+    "Precision",
+    "Absorb Life",
+    "Triumph"
+  ],
+  "secondary_runes": [
+    "Presence of Mind",
+    "Legend: Alacrity"
+  ]
+}
