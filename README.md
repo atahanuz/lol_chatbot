@@ -17,7 +17,7 @@ Paper: Coming Soon
 - **Snapshot Analsyis**: Upload snapshot of a game state in JSON format and see suggestions
 - **Semantic Web Data**: Uses RDF/Turtle ontologies for structured game data representation
 - **Intent Classification**: AI-powered understanding of user questions to extract relevant entities
-- **Comprehensive Game Data**: Includes 171 champions, 314 items, 17 monsters, and 4 turret types
+- **Comprehensive Game Data**: Includes 169 champions, 314 items, 17 monsters, and 4 turret types
 - **Multiple Interfaces**: CLI and Streamlit web interface
 
 ## Project Structure
@@ -141,7 +141,7 @@ You can use Riot Games API to fetch the state of a game and update the file to a
 
 The chatbot uses semantic web ontologies in RDF/Turtle format:
 
-- **Champions**: 171 champions with stats, skills, counters, synergies, and builds
+- **Champions**: 169 champions with stats, skills, counters, synergies, and builds
 - **Items**: 314 items with costs, stats, and build paths
 - **Monsters**: 17 jungle monsters with health and stats
 - **Turrets**: 4 turret types with health, damage, and range
