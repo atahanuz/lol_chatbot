@@ -6,6 +6,8 @@ Developed by [Atahan Uz](https://www.linkedin.com/in/atahan-uz/) & [Gizem Yılma
 
 Presentation: [Presentation.pdf](Presentation.pdf)
 
+Technical Report: [Report.pdf](Report.pdf)
+
 Paper: Coming Soon
 
 ![App Screenshot](assets/app.png)
